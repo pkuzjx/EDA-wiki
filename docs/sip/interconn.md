@@ -14,6 +14,10 @@
 - [ORION 3.0](https://vlsicad.ucsd.edu/ORION3/) (UCSD)
   - ORION3.0 fundamental differs from earlier versions of ORION in that the estimation models are derived from actual post P&R layout area and power data that correspond to the actual RTL generator and the actual target cell library.
 
+### Photonic Noc Simulators
+- [DSENT](https://sites.google.com/site/mitdsent/) (MIT)
+  - A modeling tool that connects emerging photonics with electronics for opto-electronic networks-on-chip (NoC).
+
 ### Photonic NoC Mapping Tools
 - [PhoNoCMap](http://wpage.unina.it/edoardo.fusella/phonocmap/) (UniNa), under BSD 3-Clause License
   - An open-source tool for the design space exploration of photonic NoCs mapping solutions.

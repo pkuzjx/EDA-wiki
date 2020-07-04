@@ -17,6 +17,11 @@
   - A detailed simulation model of a contemporary GPU (such as NVIDIA's Fermi and GT200 architectures) running CUDA and/or OpenCL workloads.
   - Includes an integrated (and validated) energy model, [GPUWattch](http://www.gpgpu-sim.org/gpuwattch/).
 
+### Accelerator Simulators
+- [PARADE](https://github.com/cdsc-github/parade-ara-simulator) (UCLA), under [BSD 3-Clause License](https://github.com/cdsc-github/parade-ara-simulator/blob/master/LICENSE)
+  - A cycle-accurate full-system simulation platform for accelerator-rich architectural design and exploration.
+  - It extends the widely used gem5 simulator with high-level synthesis (HLS) support.
+
 ### DRAM Simulators
 - [Ramulator](https://github.com/CMU-SAFARI/ramulator) (CMU)
   - A Fast and Extensible DRAM Simulator, with built-in support for modeling many different DRAM technologies including DDRx, LPDDRx, GDDRx, WIOx, HBMx, and various academic proposals.
