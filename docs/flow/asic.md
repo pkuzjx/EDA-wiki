@@ -1,5 +1,5 @@
 ### ASIC Flow
- - [OpenRoad](https://theopenroadproject.org/) (UCSD), under various licenses (BSD 2-Clause, BSD 3-Clause, GPL 3.0, ISC, etc.)
+ - [OpenROAD](https://theopenroadproject.org/) (UCSD), under various licenses (BSD 2-Clause, BSD 3-Clause, GPL 3.0, ISC, etc.)
    - Aim to develop open-source tools that achieve autonomous, 24-hour layout implementation.
  - [qflow](http://opencircuitdesign.com/qflow/) (Dr. R. Timothy Edwards), under [GNU General Public License](https://github.com/RTimothyEdwards/qflow/blob/master/README)
    - A Digital Flow using Open Source EDA Tools.
