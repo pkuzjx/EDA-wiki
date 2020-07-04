@@ -45,11 +45,13 @@ nav:
 
   - 测试:
     - 测试简介: testing/index.md
+    - 逻辑仿真: analysis/logic.md
     - 可测试性设计: testing/dft.md
     - 自动测试: testing/testing.md
 
   - 验证:
     - 验证简介: verification/index.md
+    - 逻辑仿真: analysis/logic.md
     - 形式化验证: verification/formal.md
     - 物理验证: verification/physical.md
 
