@@ -7,11 +7,11 @@
 ### Placement
  - [DREAMPlace](https://github.com/limbo018/DREAMPlace) (UT Austin)
    - A GPU-accelerated analytical placement tool.
- - OpenROAD [RePlAce](https://github.com/abk-openroad/RePlAce) (UCSD)
+ - OpenROAD [RePlAce](https://github.com/The-OpenROAD-Project/RePlAce) (UCSD)
    - A global placement tool with advancing solution quality and routability validation.
  - OpenROAD [TritonMacroPlacer](https://github.com/The-OpenROAD-Project/TritonMacroPlace) (UCSD)
    - ParquetFP based macro cell placer for OpenROAD.
- - OpenROAD [OpenDP](https://github.com/The-OpenROAD-Project/OpenROAD/tree/master/src/opendp) (UCSD)
+ - OpenROAD [OpenDP](https://github.com/The-OpenROAD-Project/OpenROAD/tree/master/src/opendp), integrated in the [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD) code repository
    - Open source detailed placement engine.
  - [RippleFPGA](https://github.com/cuhk-eda/ripple-fpga) (CUHK)
    - A simultaneous pack-and-place algorithm for FPGA.
