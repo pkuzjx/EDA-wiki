@@ -4,11 +4,11 @@
  - [CVC](http://www.tachyon-da.com/what-is-cvc/) (Tachyon DA), under [Modified Artistic Open Source Software License](tachyon-da.com/licensing-faq/)
    - CVC is a full IEEE 1364 2005 compliant Verilog Hardware Description Language (HDL) simulator that compilesVerilog to native X86_64 machine instructions which are executed as a simple native Linux binary.
    - Mirror of OSS CVC https://github.com/cambridgehackers/open-src-cvc
- - [GHDL](https://github.com/ghdl/ghdl)
-   - An open-source simulator for the VHDL language.
+ - [GHDL](https://github.com/ghdl/ghdl), under [GNU General Public License v2.0](https://github.com/ghdl/ghdl/blob/master/COPYING.md)
+   - The open-source analyzer, compiler, simulator and (experimental) synthesizer for VHDL.
  - [FreeHDL](http://freehdl.seul.org/)
    - A free, open source, GPL'ed VHDL simulator for Linux.
- - [TkGate](https://github.com/bnoordhuis/tkgate)
+ - [TkGate](https://github.com/bnoordhuis/tkgate), under [GNU General Public License v2.0](https://github.com/bnoordhuis/tkgate/blob/master/COPYING)
    - A digital circuit editor and simulator with a Tcl/Tk-based interface.
  - Icarus Verilog in [标准格式](../../flow/standard/)
 
