@@ -9,6 +9,8 @@
   - A fast and scalable x86-64 multicore simulator.
 - [JADE](https://eexu.home.ece.ust.hk/JADE.html) (HKUST), under BSD 3-Clause License
   - Heterogeneous Multiprocessor Design Simulation Environment.
+- [SESC](http://sesc.sourceforge.net/) (UIUC)
+  - It models a very wide set of architectures: single processors, CMPs, PIMs, and thread level speculation.
 
 ### GPU Simulators
 - [GPGPU-sim](http://www.gpgpu-sim.org/)
