@@ -1,6 +1,8 @@
 ### Memory Compiler
-- [OpenRAM](https://github.com/mguthaus/OpenRAM) (UCSC)
-  - An open-source memory compiler for VLSI circuits.
+- [OpenRAM](https://github.com/VLSIDA/OpenRAM) (UCSC), under [BSD 3-Clause License](https://github.com/VLSIDA/OpenRAM/blob/master/LICENSE)
+  - An award winning open-source Python framework to create the layout, netlists, timing and power models, placement and routing models, and other views necessary to use SRAMs in ASIC design.
+- [AMC](https://github.com/asyncvlsi/AMC) (Yale), under [GNU General Public License v2.0](https://github.com/asyncvlsi/AMC/blob/master/LICENSE)
+  - An open-source asynchronous pipelined memory compiler.
 
 ### Cache Subsystem
 - [BYOC Memory System](https://github.com/bring-your-own-core/byoc)
