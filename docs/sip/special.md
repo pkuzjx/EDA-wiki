@@ -1,3 +1,7 @@
+### SoC
+- [Chipyard](https://github.com/ucb-bar/chipyard) (Berkeley), under [BSD 3-Clause License](https://github.com/ucb-bar/chipyard/blob/master/LICENSE)
+  - An open source framework for agile development of Chisel-based systems-on-chip.
+
 ### Tensor Processors
  - [NVDLA](http://nvdla.org/) (NVIDIA)
    - A free and open architecture that promotes a standard way to design deep learning inference accelerators
