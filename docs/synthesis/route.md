@@ -7,12 +7,12 @@
    - A tool for generating VLSI routing topology.
 
 ### Global Routing
- - OpenROAD [FastRoute](https://github.com/The-OpenROAD-Project/FastRoute)
+ - OpenROAD [FastRoute](https://github.com/The-OpenROAD-Project/FastRoute), under [BSD 3-Clause License](https://github.com/The-OpenROAD-Project/FastRoute/blob/master/LICENSE)
    - LEF/DEF/Rsyn-based port of Iowa State's open-source [FastRoute](http://home.engineering.iastate.edu/~cnchu/FastRoute.html) 4.1.
- - OpenROAD [TritonRoute](https://github.com/The-OpenROAD-Project/TritonRoute)
-   - An open source detailed router for modern industrial designs.
- - [CUGR](https://github.com/cuhk-eda/cu-gr) (CUHK)
+ - [CUGR](https://github.com/cuhk-eda/cu-gr) (CUHK), under [BSD 3-Clause License](https://github.com/cuhk-eda/cu-gr/blob/master/LICENSE)
    - Different from previous global routers whose quality is usually measured by wirelength and resource overflow, CUGR is a detailed routability-driven global router and its solution quality is solely determined by the final detailed routing results.
+ - [OGRE](https://github.com/Cloud-V/OGRE) (American University in Cairo), under [GNU General Public License v3.0](https://github.com/Cloud-V/OGRE/blob/master/LICENSE)
+   - Global Router Built for ICCAD-Contest 2019.
  - [FGR](http://vlsicad.eecs.umich.edu/BK/FGR/) (UMich)
    - A global router based on Lagrange Multipliers and won the 1st place in ISPD 2007 contest.
  - [BoxRouter](https://www.cerc.utexas.edu/utda/download/BoxRouter.htm) (UT Austin)
@@ -21,9 +21,9 @@
    - A fast and stable global router and won the 1st place in ISPD 2008 contest.
 
 ### Detailed Routing
- - OpenROAD [TritonRoute](https://github.com/The-OpenROAD-Project/TritonRoute) (UCSD)
+ - OpenROAD [TritonRoute](https://github.com/The-OpenROAD-Project/TritonRoute) (UCSD), under [BSD 3-Clause License](https://github.com/The-OpenROAD-Project/TritonRoute/blob/master/LICENSE)
    - An open source detailed router for modern industrial designs.
- - [Dr. CU](https://github.com/cuhk-eda/dr-cu) (CUHK)
+ - [Dr. CU](https://github.com/cuhk-eda/dr-cu) (CUHK), under [BSD 3-Clause License](https://github.com/cuhk-eda/dr-cu/blob/master/LICENSE)
    - VLSI detailed routing tool.
  - qflow [Qrouter](http://opencircuitdesign.com/qrouter/)
    - A detailed router based on the standard Lee maze router algorithm.
