@@ -1,3 +1,5 @@
+- [cocotb](https://github.com/cocotb/cocotb), under [BSD 3-Clause License](https://github.com/cocotb/cocotb/blob/master/LICENSE)
+  - A coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python.
 - [rfuzz](https://github.com/ekiwi/rfuzz) (Berkeley)
   - Coverage-directed fuzzing for RTL research platform.
 - [Atlanta](https://github.com/hsluoyz/Atalanta) (Virginia Tech)
