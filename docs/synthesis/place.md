@@ -13,6 +13,8 @@
    - ParquetFP based macro cell placer for OpenROAD.
  - OpenROAD [OpenDP](https://github.com/The-OpenROAD-Project/OpenROAD/tree/master/src/opendp), integrated in the [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD) code repository
    - Open source detailed placement engine.
+ - Etesian placer in [Coriolis](https://github.com/xobs/coriolis), under [GNU General Public License v2.0](https://github.com/xobs/coriolis/blob/master/LICENSE)
+   - Coriolis is a free database, placement tool and routing tool for VLSI designs.
  - [RippleFPGA](https://github.com/cuhk-eda/ripple-fpga) (CUHK)
    - A simultaneous pack-and-place algorithm for FPGA.
  - [arachne-pnr](https://github.com/YosysHQ/arachne-pnr)
