@@ -11,6 +11,8 @@
 ### Workshops (that focus on open source hardware but also introduce a few EDA tools)
 - [ORConf: The open source digital design conferece](https://orconf.org/)
   - ORConfs: [2018](https://orconf.org/2018/) | [2017](https://orconf.org/2017/) | [2016](https://orconf.org/2016/) | [2015](https://orconf.org/2015/) | [2014](https://orconf.org/2014/) | [2013](https://orconf.org/2013/) | [2012](https://orconf.org/2012/)
+- [Free Silicon Conference (FSiC)](https://f-si.org/)
+  - FSiC: [2021](https://wiki.f-si.org/index.php/FSiC2021) | [2019](https://wiki.f-si.org/index.php/FSiC2019)
 
 ### Conference Sessions
 - [ICCAD 2019 Session 8D: Results, Perspectives and Trends on Open-Source EDA](https://www.mpassociates.com/events/browseproceedings.aspx?confid=283), November 4-7, 2019; Westminster, CO, USA.
