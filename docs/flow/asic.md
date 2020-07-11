@@ -9,6 +9,8 @@
    - An open-source library for physical design research and teaching.
  - [Rsyn](https://github.com/RsynTeam/rsyn-x) (FURG), under [Apache License 2.0](https://github.com/RsynTeam/rsyn-x#license)
    - An Extensible Physical Synthesis Framework.
+ - [UMpack](http://vlsicad.eecs.umich.edu/BK/PDtools/) (UCLA, UMich), under [MIT License](http://vlsicad.eecs.umich.edu/BK/PDtools/COPYRIGHT)
+   - This release contains over 200,000 lines in C++ implementing industrial-grade VLSI Physical Design tools: the Capo placer, the Parquet floorplanner, the MLPart partitioner, the object-oriented UCLA DB database with LEF/DEF parser and all supporting libraries.
  - [gEDA](http://www.geda-project.org/), under [GNU General Public License v2.0 or later](http://wiki.geda-project.org/geda:license)
    - Working on a full GPL'd suite and toolkit of Electronic Design Automation tools.
 
