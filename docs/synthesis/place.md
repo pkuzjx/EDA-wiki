@@ -13,16 +13,18 @@
    - ParquetFP based macro cell placer for OpenROAD.
  - OpenROAD [OpenDP](https://github.com/The-OpenROAD-Project/OpenROAD/tree/master/src/opendp), integrated in the [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD) code repository
    - Open source detailed placement engine.
- - Etesian placer in [Coriolis](https://github.com/xobs/coriolis), under [GNU General Public License v2.0](https://github.com/xobs/coriolis/blob/master/LICENSE)
+ - [Etesian placer](https://github.com/xobs/coriolis/tree/master/etesian/src) in the [Coriolis](http://openbelt.org.cn/wiki/flow/asic/#asic-flow) code repository
    - Coriolis is a free database, placement tool and routing tool for VLSI designs.
+ - [Capo](http://vlsicad.eecs.umich.edu/BK/PDtools/Capo/) in the [UMpack](http://openbelt.org.cn/wiki/flow/asic/#asic-flow) code repository (UMich)
+   - A fast and high-quality routability-driven placer for standard-cell ASICs.
+ - qflow [Graywolf](https://github.com/rubund/graywolf)
+   - A placement tool in VLSI design and used together with qflow.
  - [RippleFPGA](https://github.com/cuhk-eda/ripple-fpga) (CUHK)
    - A simultaneous pack-and-place algorithm for FPGA.
  - [arachne-pnr](https://github.com/YosysHQ/arachne-pnr)
    - A place and route tool for FPGAs.
  - [nextpnr](https://github.com/YosysHQ/nextpnr)
    - A vendor neutral, timing driven, FOSS FPGA place and route tool.
- - qflow [Graywolf](https://github.com/rubund/graywolf)
-   - A placement tool in VLSI design and used together with qflow.
 
 ### Placement (Freeware)
  - [ePlace](http://vlsi-cuda.ucsd.edu/~ljw/ePlace/index.html) (UCSD)
@@ -35,6 +37,3 @@
    - Constrained placement by multilevel optimization.
  - [Dragon](http://vlsicad.eecs.umich.edu/BK/Slots/cache/er.cs.ucla.edu/Dragon/) (UCLA)
    - A fast, effective standard-cell placement tool for both variable-die and fixed-die ASIC design.
- - [Capo](http://vlsicad.eecs.umich.edu/BK/PDtools/Capo/) (UMich)
-   - A fast and high-quality routability-driven placer for standard-cell ASICs.
-
