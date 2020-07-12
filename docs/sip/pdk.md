@@ -13,6 +13,12 @@
 - [LibreCell](https://codeberg.org/tok/librecell), under [GNU General Public License v3.0](https://codeberg.org/tok/librecell/src/branch/master/librecell-common/LICENSE), [CERN Open Hardware Licence v2.0](https://codeberg.org/tok/librecell/src/branch/master/librecell-layout/LICENCE), and [GNU Affero General Public License v3.0](https://codeberg.org/tok/librecell/src/branch/master/librecell-lib/LICENSE)
   - Aims to be a toolbox for automated synthesis of CMOS logic cells.
 
+### Physical Libraries
+- [HLSLibs](https://hlslibs.org/) (Mentor)
+  - A free and open set of libraries implemented in standard C++ for bit-accurate hardware and software design.
+- [MatchLib](https://github.com/NVlabs/matchlib) (NVIDIA)
+  - MatchLib is a SystemC/C++ library of commonly-used hardware functions and components that can be synthesized by most commercially-available HLS tools into RTL.
+
 ### PDK for CNTFET
 - Variation-Aware [Nanosystem Design Kit (NDK)](https://nanohub.org/resources/22582) (Stanford)
   - A framework that quickly evaluates the impact of CNT variations on circuit delay and noise margin, and systematically explores the large space of CNT processing options to derive optimized CNT processing and CNFET circuit design guidelines.
