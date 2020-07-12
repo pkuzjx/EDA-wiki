@@ -20,5 +20,4 @@
  - [DATC Robust Design Flow](https://github.com/jinwookjungs/datc_robust_design_flow) (IEEE CEDA), under [GNU General Public License v3.0
 ](https://github.com/jinwookjungs/datc_robust_design_flow/blob/master/LICENSE)
  - [VLSI CAD Bookshelf 2](http://vlsicad.eecs.umich.edu/BK/)
- - [APDK CNM25](http://www.cnm.es/~pserra/apdk/index.html), "freely available"
 
