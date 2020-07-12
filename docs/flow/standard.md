@@ -1,5 +1,5 @@
 ### HDL (Verilog, VHDL, etc.)
-- [SystemC](https://accellera.org/downloads/standards/systemc)
+- [SystemC](https://accellera.org/downloads/standards/systemc) (Accellera), under Apache License v2.0
   - Standards are developed in a collaborative and open environment by technical working groups.
 - [Icarus Verilog](https://github.com/steveicarus/iverilog) (Stephen Williams), under [GNU Lesser General Public License v2.1](https://github.com/steveicarus/iverilog/blob/master/COPYING)
   - A Verilog simulation and synthesis tool compiling source code written in Verilog (IEEE-1364) into some target format.
@@ -20,5 +20,5 @@
 - dalance's [SDC parser](https://github.com/dalance/sdc-parser)
 
 ### Misc.
-- [Spectre2Spice](https://codeberg.org/thommythomaso/spectre2spice), under [CERN Open Hardware License (OHL-S) version 2.0 or later](https://codeberg.org/thommythomaso/spectre2spice/src/branch/master/LISENCE)
+- [Spectre2Spice](https://codeberg.org/thommythomaso/spectre2spice), under [CERN Open Hardware License v2.0 or later](https://codeberg.org/thommythomaso/spectre2spice/src/branch/master/LISENCE)
   - A standalone application to translate netlists from the Cadence Spectre Circuit Simulator format to SPICE.
