@@ -10,7 +10,7 @@
 - [Open-Cell](http://www.si2.org/open-cell-library/) (Si2)
   - Silvaco's 15nm Open-Cell Library
   - No charge for universities and Si2 members
-- [LibreCell](https://codeberg.org/tok/librecell)
+- [LibreCell](https://codeberg.org/tok/librecell), under [GNU General Public License v3.0](https://codeberg.org/tok/librecell/src/branch/master/librecell-common/LICENSE), [CERN Open Hardware Licence v2.0](https://codeberg.org/tok/librecell/src/branch/master/librecell-layout/LICENCE), and [GNU Affero General Public License v3.0](https://codeberg.org/tok/librecell/src/branch/master/librecell-lib/LICENSE)
   - Aims to be a toolbox for automated synthesis of CMOS logic cells.
 
 ### PDK for CNTFET
