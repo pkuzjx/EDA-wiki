@@ -4,3 +4,5 @@
   - Coverage-directed fuzzing for RTL research platform.
 - [Atlanta](https://github.com/hsluoyz/Atalanta) (Virginia Tech)
   - ATALANTA is an automatic test pattern generator for stuck-at faults in combinational circuits.
+- [OpenOCD](https://sourceforge.net/projects/openocd/), under GNU General Public License v2.0
+  - The "Open On-Chip Debugger" provides JTAG/SWD access from GDB (or directly with TCL scripts) to processors with ARM and MIPS based cores.
