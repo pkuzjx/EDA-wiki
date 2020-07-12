@@ -1,13 +1,17 @@
-### Process Design Kit (PDK) and Physical IPs
- - [DesignStart Physical IP](https://developer.arm.com/ip-products/designstart/physical-ip) (ARM)
-   - The most comprehensive physical IP with no upfront fees – for companies to produce commercial silicon or for universities to research
- - [SkyWater Open Source PDK](https://github.com/google/skywater-pdk) (Google, SkyWater)
-   - The SkyWater Open Source PDK is a collaboration between Google and SkyWater Technology Foundry to provide a fully open source Process Design Kit and related resources, which can be used to create manufacturable designs at SkyWater’s facility.
- - [FreePDK](https://www.eda.ncsu.edu/wiki/FreePDK) (NC State)
-   - An open-source, Open-Access-based PDK for the 45nm technology node and the Predictive Technology Model.
- - [Open-Cell](http://www.si2.org/open-cell-library/) (Si2)
-   - Silvaco's 15nm Open-Cell Library
-   - No charge for universities and Si2 members
+### Process Design Kit (PDK)
+- [SkyWater Open Source PDK](https://github.com/google/skywater-pdk) (Google, SkyWater)
+  - The SkyWater Open Source PDK is a collaboration between Google and SkyWater Technology Foundry to provide a fully open source Process Design Kit and related resources, which can be used to create manufacturable designs at SkyWater’s facility.
+- [FreePDK](https://www.eda.ncsu.edu/wiki/FreePDK) (NCSU)
+  - An open-source, Open-Access-based PDK for the 45nm technology node and the Predictive Technology Model.
+
+### Standard Cell Libraries
+- [DesignStart Physical IP](https://developer.arm.com/ip-products/designstart/physical-ip) (ARM)
+  - The most comprehensive physical IP with no upfront fees – for companies to produce commercial silicon or for universities to research
+- [Open-Cell](http://www.si2.org/open-cell-library/) (Si2)
+  - Silvaco's 15nm Open-Cell Library
+  - No charge for universities and Si2 members
+- [LibreCell](https://codeberg.org/tok/librecell)
+  - Aims to be a toolbox for automated synthesis of CMOS logic cells.
 
 ### PDK for CNTFET
 - Variation-Aware [Nanosystem Design Kit (NDK)](https://nanohub.org/resources/22582) (Stanford)
