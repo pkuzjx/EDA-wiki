@@ -3,6 +3,8 @@
   - Front-end for Yosys-based formal verification flows.
 - [CoSA](https://github.com/cristian-mattarei/CoSA)
   - An SMT-based symbolic model checker for hardware design.
+- [TTool](https://gitlab.telecom-paris.fr/mbe-tools/TTool/), no license (all rights reserved)
+  - A toolkit dedicated to the edition of UML and SysML diagrams, and to the simulation and formal verification (safety, security, performance) of those diagrams.
 
 ### SAT/SMT Solvers
 - [SAT Competitions](http://satcompetition.org/)
