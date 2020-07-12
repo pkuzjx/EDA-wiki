@@ -29,6 +29,7 @@ nav:
     - 设计流程简介: flow/index.md
     - ASIC流程: flow/asic.md
     - FPGA流程: flow/fpga.md
+    - AMS流程: flow/ams.md
     - 标准格式: flow/standard.md
     - DSL & IR: flow/dsl.md
     - 开发环境: flow/ide.md

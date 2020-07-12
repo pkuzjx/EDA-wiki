@@ -1,6 +1,8 @@
 ### Circuit Analysis
  - [ngspice](http://ngspice.sourceforge.net/)
    - Open source spice simulator.
+ - [gnucap](http://gnucap.org/)
+   - The GNU circuit analysis package.
  - [SPICE](http://bwrcs.eecs.berkeley.edu/Classes/IcBook/SPICE/) (Berkeley)
    - A general-purpose circuit simulation program for nonlinear dc, nonlinear transient, and linear ac analyses.
  - [NICSLU](https://github.com/chenxm1986/nicslu) (Tsinghua)
