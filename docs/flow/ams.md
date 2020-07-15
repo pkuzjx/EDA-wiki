@@ -1,4 +1,6 @@
 ### Analog and Mixed Signal
+- [FASoC](https://github.com/idea-fasoc/fasoc) (UMich), under [MIT License](https://github.com/idea-fasoc/fasoc)
+  - Fully-Autonomous SoC Synthesis using Customizable Cell-Based Synthesizable Analog Circuits.
 - [Affine Arithmetic Decition Diagrams (AADD)](https://github.com/TUK-CPS/AADD)
   - Provides a C++ library for the creation and manipulation of affine arithmetic decision diagrams (AADD).
 - [BAG: Berkeley Analog Generator](https://github.com/ucb-art/BAG_framework) (Berkeley)
