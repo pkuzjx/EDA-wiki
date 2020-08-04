@@ -22,6 +22,14 @@
   - A cycle-accurate full-system simulation platform for accelerator-rich architectural design and exploration.
   - It extends the widely used gem5 simulator with high-level synthesis (HLS) support.
 
+### Accelerator Analyzers
+- [ALADDIN](https://github.com/harvard-acc/ALADDIN) (Harvard), under [Apache License 2.0](https://github.com/harvard-acc/ALADDIN/blob/master/LICENSE.txt)
+  - A pre-RTL, power-performance simulator for fixed-function accelerators.
+- [Lin-Analyzer](https://github.com/zhguanw/lin-analyzer) (NUS), under [GNU General Public License v3.0](https://github.com/zhguanw/lin-analyzer/blob/master/LICENSE)
+  - A high-level performance analysis tool for FPGA-based accelerator.
+- [COMBA](https://github.com/zjru/COMBA) (HKUST), under [GNU General Public License v3.0](https://github.com/zjru/COMBA/blob/master/LICENSE)
+  - A Model-Based Analysis Framework for High Level Synthesis on FPGAs.
+
 ### DRAM Simulators
 - [Ramulator](https://github.com/CMU-SAFARI/ramulator) (CMU)
   - A Fast and Extensible DRAM Simulator, with built-in support for modeling many different DRAM technologies including DDRx, LPDDRx, GDDRx, WIOx, HBMx, and various academic proposals.
