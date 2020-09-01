@@ -13,11 +13,13 @@
 - [LibreCell](https://codeberg.org/tok/librecell), under [GNU General Public License v3.0](https://codeberg.org/tok/librecell/src/branch/master/librecell-common/LICENSE), [CERN Open Hardware Licence v2.0](https://codeberg.org/tok/librecell/src/branch/master/librecell-layout/LICENCE), and [GNU Affero General Public License v3.0](https://codeberg.org/tok/librecell/src/branch/master/librecell-lib/LICENSE)
   - Aims to be a toolbox for automated synthesis of CMOS logic cells.
 
-### Physical Libraries
+### Hardware Functional Libraries
 - [HLSLibs](https://hlslibs.org/) (Mentor)
   - A free and open set of libraries implemented in standard C++ for bit-accurate hardware and software design.
 - [MatchLib](https://github.com/NVlabs/matchlib) (NVIDIA)
   - MatchLib is a SystemC/C++ library of commonly-used hardware functions and components that can be synthesized by most commercially-available HLS tools into RTL.
+- [HiFlipVX](https://github.com/TUD-ADS/HiFlipVX)
+  - Open Source High-Level Synthesis FPGA Library for Image Processing.
 
 ### PDK for CNTFET
 - Variation-Aware [Nanosystem Design Kit (NDK)](https://nanohub.org/resources/22582) (Stanford)
