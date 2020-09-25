@@ -3,6 +3,8 @@
   - Standards are developed in a collaborative and open environment by technical working groups.
 - [Icarus Verilog](https://github.com/steveicarus/iverilog) (Stephen Williams), under [GNU Lesser General Public License v2.1](https://github.com/steveicarus/iverilog/blob/master/COPYING)
   - A Verilog simulation and synthesis tool compiling source code written in Verilog (IEEE-1364) into some target format.
+- [EpicSim](https://github.com/x-epic/EpicSim) (X-EPIC), under [GNU Lesser General Public License v2.1](https://github.com/x-epic/EpicSim/blob/master/LICENSE)
+  - A Verilog compiler.
 - [verilog-parser](https://github.com/ben-marshall/verilog-parser), a parser for the IEEE 1364-2001 verilog standard
 - [pyverilog](https://pypi.org/project/pyverilog), a hardware design processing toolkit for Verilog HDL including verilog parser, dataflow analyzer, control-flow analyzer and code generator
 - [hdlparse](https://kevinpt.github.io/hdlparse/), a simple package implementing a rudimentary parser for VHDL and Verilog
