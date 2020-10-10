@@ -10,7 +10,7 @@
  - [IceStorm](http://www.clifford.at/icestorm/) (Clifford Wolf)
    - Aims at reverse engineering and documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
    - A working fully open source flow with Yosys and Arachne-pnr.
- - [FPGA CAD Framework](https://github.com/EliasVansteenkiste/FPGA-CAD-Framework) (Ghent Univ.)
+ - [FPGA CAD Framework](https://github.com/EliasVansteenkiste/FPGA-CAD-Framework) ([HES Group](https://github.com/UGent-HES) at Ghent Univ.)
    - A Java framework focused on rapid prototyping of new CAD algorithms for FPGA compilation.
  - [Rebit](https://code.google.com/archive/p/rebit/)
    - A low level configuration analysis and for the debugging and validation of the bitstream files of architectures that exploit dynamic partial reconfiguration on Xilinx FPGAs.
