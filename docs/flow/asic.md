@@ -3,6 +3,8 @@
    - Aim to develop open-source tools that achieve autonomous, 24-hour layout implementation.
  - [OpenLANE](https://github.com/efabless/openlane) (efabless), under [Apache License 2.0](https://github.com/efabless/openlane/blob/master/LICENSE)
    - OpenLANE is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault and custom methodology scripts for design exploration and optimization.
+ - [Hammer](https://github.com/ucb-bar/hammer/) (Berkeley), under [BSD 3-Clause License](https://github.com/ucb-bar/hammer/blob/master/LICENSE)
+   - Highly Agile Masks Made Effortlessly from RTL.
  - [qflow](http://opencircuitdesign.com/qflow/) (Dr. R. Timothy Edwards), under [GNU General Public License](https://github.com/RTimothyEdwards/qflow/blob/master/README)
    - A Digital Flow using Open Source EDA Tools.
  - [VSDFLOW](https://github.com/kunalg123/vsdflow) (VLSI System Design), ["available for download for FREE"](https://www.vlsisystemdesign.com/projects/)
