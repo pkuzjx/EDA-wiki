@@ -12,6 +12,8 @@
    - A working fully open source flow with Yosys and Arachne-pnr.
  - [FPGA CAD Framework](https://github.com/EliasVansteenkiste/FPGA-CAD-Framework) ([HES Group](https://github.com/UGent-HES) at Ghent Univ.)
    - A Java framework focused on rapid prototyping of new CAD algorithms for FPGA compilation.
+ - [Edalize](https://github.com/olofk/edalize) (Olof Kindgren), under [BSD 2-Clause "Simplified" License](https://github.com/olofk/edalize/blob/master/LICENSE)
+   - Edalize is a Python Library for interacting with EDA tools.
  - [Rebit](https://code.google.com/archive/p/rebit/)
    - A low level configuration analysis and for the debugging and validation of the bitstream files of architectures that exploit dynamic partial reconfiguration on Xilinx FPGAs.
  - [Sdaccel-chisel-integration](https://github.com/necst/sdaccel_chisel_integration)
