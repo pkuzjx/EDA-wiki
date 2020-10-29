@@ -44,10 +44,15 @@ nav:
     - 物理优化: synthesis/opt.md
     - 布线器: synthesis/route.md
     - 版图综合: synthesis/layout.md
-    - 可测试性设计: testing/dft.md
 
-  - 设计验证:
-    - 设计验证简介: verification/index.md
+  - 测试:
+    - 测试简介: testing/index.md
+    - 逻辑仿真: analysis/logic.md
+    - 可测试性设计: testing/dft.md
+    - 自动测试: testing/testing.md
+
+  - 验证:
+    - 验证简介: verification/index.md
     - 动态验证: analysis/logic.md
     - 形式化验证: verification/formal.md
     - 物理验证: verification/physical.md
@@ -71,18 +76,9 @@ nav:
     - 输入输出: sip/inout.md
     - 传感器: sip/sensor.md
 
-  - 测试:
-    - 测试简介: testing/index.md
-    - 可测试性设计: testing/dft.md
-    - 自动测试: testing/testing.md
-
-
 # Theme
 theme:
   name: 'material'
-  custom_dir: 'mkdocs-material/material'
-  static_templates:
-    - 404.html
   language: 'zh'
   palette:
     primary: 'white'
@@ -112,7 +108,6 @@ extra:
 extra_javascript:
   - '_static/js/extra.js?v=15'
   - 'https://cdnjs.loli.net/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML'
-  
 
 
 extra_css:
