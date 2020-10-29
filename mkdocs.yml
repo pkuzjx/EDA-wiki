@@ -79,7 +79,7 @@ nav:
 
 # Theme
 theme:
-  name: null
+  name: 'material'
   custom_dir: 'mkdocs-material/material'
   static_templates:
     - 404.html
