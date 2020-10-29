@@ -107,10 +107,11 @@ extra:
   copyright: '<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">CC BY-SA 4.0</a> 和 <a href="https://github.com/zTrix/sata-license">SATA</a>'
   pagetime: 'on'
   manifest: 'manifest.webmanifest'
-  githash: 'b373481'
+  githash: ''
 
 extra_javascript:
   - '_static/js/extra.js?v=15'
+  - 'https://cdnjs.loli.net/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML'
   
 
 
