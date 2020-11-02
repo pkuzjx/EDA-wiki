@@ -45,11 +45,6 @@ nav:
     - 布线器: synthesis/route.md
     - 版图综合: synthesis/layout.md
 
-  - 测试:
-    - 测试简介: testing/index.md
-    - 可测试性设计: testing/dft.md
-    - 自动测试: testing/testing.md
-
   - 设计验证:
     - 设计验证简介: verification/index.md
     - 动态验证: analysis/logic.md
@@ -74,6 +69,11 @@ nav:
     - 片上互连: sip/interconn.md
     - 输入输出: sip/inout.md
     - 传感器: sip/sensor.md
+
+  - 测试:
+    - 测试简介: testing/index.md
+    - 可测试性设计: testing/dft.md
+    - 自动测试: testing/testing.md
 
 # Theme
 theme:
