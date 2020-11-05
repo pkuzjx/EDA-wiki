@@ -1,5 +1,5 @@
 ### Database
-- [OpenEDI](https://gitee.com/niiceda/open-edi/) (NiiCEDA, PKU), under [BSD 3-clause License](https://gitee.com/niiceda/open-edi/blob/master/License)
+- [OpenEDI](https://gitee.com/niiceda/open-edi/) (NiiCEDA), under [BSD 3-clause License](https://gitee.com/niiceda/open-edi/blob/master/License)
   - An open-source electronic data infrastructure for VLSI design automation.
 - [OpenDB](https://github.com/The-OpenROAD-Project/OpenDB), under [BSD 3-Clause License](https://github.com/The-OpenROAD-Project/OpenDB/blob/master/LICENSE)
   - OpenDB is a design database to support tools for physical chip design.
