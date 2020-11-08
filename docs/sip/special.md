@@ -13,6 +13,8 @@
    - A programmable accelerator that exposes a RISC-like programming abstraction to describe compute and memory operations at the tensor level
  - [DANA](https://github.com/bu-icsg/dana) (BU)
    - Dynamically Allocated Neural Network Accelerator for the RISC-V Rocket Microprocessor in Chisel
+ - [FlexCNN](https://github.com/UCLA-VAST/FlexCNN) (UCLA)
+   - An accelerator for running CNNs on FPGA.
  - [C-LSTM](https://github.com/shvo/C-LSTM) (PKU, Syracuse)
    - Enabling Efficient LSTM using Structured Compression Techniques on FPGAs.
  - [E-LSTM](https://github.com/rbshi/elstm) (HKU, PKU)
