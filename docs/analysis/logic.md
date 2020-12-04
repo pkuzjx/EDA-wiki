@@ -10,6 +10,8 @@
    - A free, open source, GPL'ed VHDL simulator for Linux.
  - [TkGate](https://github.com/bnoordhuis/tkgate), under [GNU General Public License v2.0](https://github.com/bnoordhuis/tkgate/blob/master/COPYING)
    - A digital circuit editor and simulator with a Tcl/Tk-based interface.
+ - [logisim-evolution](https://github.com/reds-heig/logisim-evolution) (a group of Swiss institutes), under [GNU General Public License v3.0](https://github.com/reds-heig/logisim-evolution/blob/master/LICENSE.md)
+   - Logisim is an educational tool for designing and simulating digital logic circuits.
  - Icarus Verilog and EpicSim in [标准格式](../../flow/standard/)
 
 ### Wave Viewer
