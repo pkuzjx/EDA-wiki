@@ -14,6 +14,9 @@
 - [verilog-parser](https://github.com/ben-marshall/verilog-parser), a parser for the IEEE 1364-2001 verilog standard
 - [pyverilog](https://pypi.org/project/pyverilog), a hardware design processing toolkit for Verilog HDL including verilog parser, dataflow analyzer, control-flow analyzer and code generator
 - [hdlparse](https://kevinpt.github.io/hdlparse/), a simple package implementing a rudimentary parser for VHDL and Verilog
+- [NVC](https://github.com/nickg/nvc), a GPLv3 VHDL compiler and simulator aiming for IEEE 1076-2002 compliance
+- [GHDL](https://github.com/ghdl/ghdl), a VHDL 2008/93/87 simulator
+- Related website: [Awesome HDL](https://github.com/drom/awesome-hdl)
 
 ### LEF/DEF
 - Si2 [LEF/DEF Toolkit](https://projects.si2.org/openeda.si2.org/projects/lefdef/)
