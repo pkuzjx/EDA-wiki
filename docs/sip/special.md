@@ -1,6 +1,8 @@
 ### SoC
 - [Chipyard](https://github.com/ucb-bar/chipyard) (Berkeley), under [BSD 3-Clause License](https://github.com/ucb-bar/chipyard/blob/master/LICENSE)
   - An open source framework for agile development of Chisel-based systems-on-chip.
+- [CHIPKIT](https://github.com/whatmough/CHIPKIT) (Harvard), under MIT License
+  - An agile, reusable open-source framework for rapid test chip development.
 - [LiteX](https://github.com/enjoy-digital/litex), under [BSD 2-Clause License](https://github.com/enjoy-digital/litex/blob/master/LICENSE)
   - A Migen/MiSoC based Core/SoC builder that provides the infrastructure to easily create Cores/SoCs (with or without CPU).
 - [SocLib](http://www.soclib.fr/trac/dev)
