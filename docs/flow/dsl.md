@@ -13,6 +13,8 @@
    - An OCaml library for designing hardware.
  - [Kiwi](https://www.cl.cam.ac.uk/~djg11/kiwi/) (Cambridge)
    - Aims to make reconfigurable computing technology like Field Programmable Gate Arrays (FPGAs) more accessible to mainstream programmers.
+ - [Kratos](https://github.com/Kuree/kratos), under [BSD 2-Clause "Simplified" License](https://github.com/Kuree/kratos/blob/master/LICENSE)
+   - Kratos is a hardware design language written in C++/Python.
 
 ### IR
  - [FIRRTL](https://github.com/freechipsproject/firrtl) (Berkeley)
