@@ -5,11 +5,13 @@
    - OpenLANE is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault and custom methodology scripts for design exploration and optimization.
  - [Hammer](https://github.com/ucb-bar/hammer/) (Berkeley), under [BSD 3-Clause License](https://github.com/ucb-bar/hammer/blob/master/LICENSE)
    - Highly Agile Masks Made Effortlessly from RTL.
- - [qflow](http://opencircuitdesign.com/qflow/) (Dr. R. Timothy Edwards), under [GNU General Public License](https://github.com/RTimothyEdwards/qflow/blob/master/README)
-   - A Digital Flow using Open Source EDA Tools.
  - [mflowgen](https://github.com/mflowgen/mflowgen) (Stanford), under [BSD 3-Clause "New" or "Revised" License](https://github.com/mflowgen/mflowgen/blob/master/LICENSE)
    - A modular flow specification and build-system generator for ASIC and FPGA design-space exploration built around sandboxed and modular steps.
- - [VSDFLOW](https://github.com/kunalg123/vsdflow) (VLSI System Design), ["available for download for FREE"](https://www.vlsisystemdesign.com/projects/)
+ - [Cocoon](https://github.com/pku-dasys/cocoon) (PKU), under [BSD 3-Clause "New" or "Revised" License](https://github.com/pku-dasys/cocoon/blob/master/LICENSE)
+   - Cocoon is an open-source infrastructure for integrated EDA with interoperability and interactivity.
+ - [qflow](http://opencircuitdesign.com/qflow/) (Dr. R. Timothy Edwards), under [GNU General Public License](https://github.com/RTimothyEdwards/qflow/blob/master/README)
+   - A Digital Flow using Open Source EDA Tools.
+- [VSDFLOW](https://github.com/kunalg123/vsdflow) (VLSI System Design), ["available for download for FREE"](https://www.vlsisystemdesign.com/projects/)
    - An automated RTL-to-GDS flow for programmers, hobbyists, and small-scale entrepreneurs.
  - [Ophidian](https://github.com/eclufsc/ophidian) (UFSC), under [Apache License 2.0](https://github.com/eclufsc/ophidian/blob/master/LICENSE)
    - An open-source library for physical design research and teaching.
