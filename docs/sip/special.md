@@ -1,3 +1,7 @@
+### DSA
+- [DSAGEN](https://github.com/PolyArch/dsa-framework) (UCLA), under [BSD 2-clause License](https://github.com/PolyArch/dsa-framework/blob/master/LICENSE)
+  - Democratizing Decoupled Spatial Architecture Research.
+
 ### SoC
 - [Chipyard](https://github.com/ucb-bar/chipyard) (Berkeley), under [BSD 3-Clause License](https://github.com/ucb-bar/chipyard/blob/master/LICENSE)
   - An open source framework for agile development of Chisel-based systems-on-chip.
