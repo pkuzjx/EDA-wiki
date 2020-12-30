@@ -15,10 +15,14 @@
    - Jack Davidson's undergrad project at UCSD
 
 ### Coarse-grain Reconfigurable Fabrics
+ - [pillars](https://github.com/pku-dasys/pillars) (PKU), under [MIT License](https://github.com/pku-dasys/pillars/blob/master/LICENSE)
+   - An open-source CGRA design framework with consistency to assist in design space exploration and hardware optimization of CGRAs.
  - [garnet](https://github.com/StanfordAHA/garnet) (Stanford)
    - Garnet is a framework to investigate and experiment with implementing CGRA using new generator infrastructure.
  - [CGRA-ME](http://cgra-me.ece.utoronto.ca/) (Toronto)
    - An architectural modelling and exploration (ME) framework
+ - [OpenCGRA](https://github.com/pnnl/OpenCGRA) (Pacific Northwest National Laboratory), under [BSD 3-Clause License](https://github.com/pnnl/OpenCGRA/blob/master/LICENSE)
+   - A parameterizable and powerful CGRA (Coarse-Grained Reconfigurable Arrays) generator to generate synthesizable Verilog for different CGRAs based on user-specified configurations (e.g., CGRA size, type of the computing units in each tile, communication connection, etc.).
  - [CCF](https://github.com/cmlasu/ccf) (ASU)
    - CCF (CGRA Compilation Framework) is an end-to-end prototype demonstrating the code generation and simulation process for CGRA accelerators. 
  - [CML-CGRA](https://github.com/hoangt/cml-cgra) (ASU)
