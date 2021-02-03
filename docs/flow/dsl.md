@@ -39,3 +39,5 @@
    - A flexible framework for analyzing and transforming FPGA netlists.
  - [fircpp](https://github.com/easysoc/fircpp)
    - fircpp is a C++ Firrtl parser based on antlr4.
+ - [SDF3](http://www.es.ele.tue.nl/sdf3/) (Electronic Systems Group), under [GNU General Public License and the SDF3 Proprietary License](http://www.es.ele.tue.nl/sdf3/license/)
+   - Offers many SDFG transformation and analysis algorithms.
