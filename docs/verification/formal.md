@@ -3,6 +3,8 @@
   - Front-end for Yosys-based formal verification flows.
 - [CoSA](https://github.com/cristian-mattarei/CoSA)
   - An SMT-based symbolic model checker for hardware design.
+- [NuSMV](https://nusmv.fbk.eu/), under [GNU Lesser General Public License v2.1](https://nusmv.fbk.eu/open_nusmv/flier.html)
+  - A reimplementation and extension of SMV, the first model checker based on BDDs.
 - [PRISM](http://www.prismmodelchecker.org/), under [GNU General Public License v2.0](http://www.prismmodelchecker.org/download.php)
   - A probabilistic model checker, a tool for formal modelling and analysis of systems that exhibit random or probabilistic behaviour.
 - [SpaceEx](http://spaceex.imag.fr/), under [GNU General Public License v3.0](http://spaceex.imag.fr/licensing-45)
