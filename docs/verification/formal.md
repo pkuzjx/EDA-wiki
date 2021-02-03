@@ -7,6 +7,8 @@
   - A probabilistic model checker, a tool for formal modelling and analysis of systems that exhibit random or probabilistic behaviour.
 - [SpaceEx](http://spaceex.imag.fr/), under [GNU General Public License v3.0](http://spaceex.imag.fr/licensing-45)
   - The State Space Explorer (SpaceEx) tool platform is designed to facilitate the implementation of algorithms related to reachability and safety verification.
+- [Uppaal](https://uppaal.org/) (Uppsala, Aalborg), free for academic use only
+  - An integrated tool environment for modeling, validation and verification of real-time systems modeled as networks of timed automata, extended with data types (bounded integers, arrays, etc.).
 - [TTool](https://gitlab.telecom-paris.fr/mbe-tools/TTool/), no license (all rights reserved)
   - A toolkit dedicated to the edition of UML and SysML diagrams, and to the simulation and formal verification (safety, security, performance) of those diagrams.
 
