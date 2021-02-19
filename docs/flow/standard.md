@@ -11,8 +11,12 @@
   - A Verilog simulation and synthesis tool compiling source code written in Verilog (IEEE-1364) into some target format.
 - [EpicSim](https://github.com/x-epic/EpicSim) (X-EPIC), under [GNU Lesser General Public License v2.1](https://github.com/x-epic/EpicSim/blob/master/LICENSE)
   - A Verilog compiler.
+- [sv2v](https://github.com/zachjs/sv2v) (Zachary Snow), under [BSD 3-Clause License](https://github.com/zachjs/sv2v/blob/master/LICENSE)
+  - sv2v converts SystemVerilog (IEEE 1800-2017) to Verilog (IEEE 1364-2005), with an emphasis on supporting synthesizable language constructs.
 - [verilog-parser](https://github.com/ben-marshall/verilog-parser), a parser for the IEEE 1364-2001 verilog standard
 - [pyverilog](https://pypi.org/project/pyverilog), a hardware design processing toolkit for Verilog HDL including verilog parser, dataflow analyzer, control-flow analyzer and code generator
+- [verilog](https://github.com/tomahawkins/verilog) (Tom Hawkins), under [BSD 3-Clause License](https://github.com/tomahawkins/verilog/blob/master/LICENSE)
+  - A Verilog parser for Haskell.
 - [hdlparse](https://kevinpt.github.io/hdlparse/), a simple package implementing a rudimentary parser for VHDL and Verilog
 - [NVC](https://github.com/nickg/nvc), a GPLv3 VHDL compiler and simulator aiming for IEEE 1076-2002 compliance
 - [GHDL](https://github.com/ghdl/ghdl), a VHDL 2008/93/87 simulator
