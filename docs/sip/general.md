@@ -22,6 +22,7 @@
    - Open-Source RISC-V Tiered Accelerator Fabric SoC
  - [OpenPiton](https://github.com/PrincetonUniversity/openpiton) (Princeton)
    - The world's first open source, general purpose, multithreaded manycore processor
+   - [OPDB](https://github.com/PrincetonUniversity/OPDB): OpenPiton Design Benchmark adapted from OpenPiton
  - [OpenScale](http://www.lirmm.fr/ADAC/?page_id=102) (LIRMM)
    - A scalable and open-source NoC-based MPSoC platform
  - [OpTiMSoC](https://github.com/optimsoc/optimsoc) (TUM)
