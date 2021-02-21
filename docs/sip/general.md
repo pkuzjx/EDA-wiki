@@ -6,7 +6,7 @@
  - [Arm DesignStart](https://developer.arm.com/ip-products/designstart) (ARM)
    - $0 license fee and success-based royalty model
    - Fast access to a select mix of Arm IP, including Cortex-M0, Cortex-M3 and Cortex-A5 processors and supporting IP, software and resources for custom silicon designs
- - [Octavo](http://fpgacpu.ca/octavo/)
+ - [Octavo](http://fpgacpu.ca/octavo/) (UToronto, Charles Eric LaForest), under [BSD 2-Clause License](https://github.com/laforest/Octavo/blob/master/LICENSE)
    - A soft-processor aimed at building FPGA overlay architectures
  - [VESPA](http://www.eecg.toronto.edu/VESPA/) (Toronto)
    - A parameterized soft vector processor fully implemented on a DE3 FPGA board
