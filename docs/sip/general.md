@@ -12,7 +12,10 @@
    - A parameterized soft vector processor fully implemented on a DE3 FPGA board
 
 ### Manycore
- - [Harmonica 2](https://github.com/cdkersey/harmonica2) (Chad D. Kersey)
+ - [OpenPiton](https://github.com/PrincetonUniversity/openpiton) (Princeton)
+   - The world's first open source, general purpose, multithreaded manycore processor
+   - [OPDB](https://github.com/PrincetonUniversity/OPDB): OpenPiton Design Benchmark adapted from OpenPiton
+- [Harmonica 2](https://github.com/cdkersey/harmonica2) (Chad D. Kersey)
    - A configurable multithreaded SIMT processor core desgin
  - [MIAOW](https://github.com/VerticalResearchGroup/miaow) (Madison)
    - An open source GPU based off of the AMD Southern Islands ISA
@@ -20,9 +23,6 @@
    - An experimental GPGPU processor hardware design focused on compute intensive tasks
  - [OpenCelerity](http://opencelerity.org/) (UW, Cornell, UMich, UCSD)
    - Open-Source RISC-V Tiered Accelerator Fabric SoC
- - [OpenPiton](https://github.com/PrincetonUniversity/openpiton) (Princeton)
-   - The world's first open source, general purpose, multithreaded manycore processor
-   - [OPDB](https://github.com/PrincetonUniversity/OPDB): OpenPiton Design Benchmark adapted from OpenPiton
  - [OpenScale](http://www.lirmm.fr/ADAC/?page_id=102) (LIRMM)
    - A scalable and open-source NoC-based MPSoC platform
  - [OpTiMSoC](https://github.com/optimsoc/optimsoc) (TUM)
