@@ -1,10 +1,10 @@
 ### Fine-grain Reconfigurable Fabrics
+ - [PRGA](https://prga.readthedocs.io/en/latest/) (Princeton), under [BSD 3-Clause License](https://github.com/PrincetonUniversity/prga/blob/release/LICENSE)
+   - A customizable, scalable, versatile, extensible open-source framework for building and using custom FPGAs
  - POSH [OpenFPGA](https://github.com/LNIS-Projects/OpenFPGA) (UofU)
    - A FPGA IP generator using XML-based architecture description including three parts: FPGA-Verilog, FPGA-SPICE, FPGA-Bitstream.
  - [Archipelago](https://github.com/haojunliu/OpenFPGA) (Berkeley)
    - A parameterizable and user expandable FPGA with toolflow support
- - [PRGA](https://prga.readthedocs.io/en/latest/) (Princeton University)
-   - A customizable, scalable, versatile, extensible open-source framework for building and using custom FPGAs
  - [ZUMA](https://github.com/adbrant/zuma-fpga) (UBC)
    - Fine Grain FPGA Overlay Architecture and Tools
  - [literate-broccoli](https://github.com/ueliem/literate-broccoli) (Will Long)
