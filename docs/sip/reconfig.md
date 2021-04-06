@@ -3,6 +3,8 @@
    - A customizable, scalable, versatile, extensible open-source framework for building and using custom FPGAs.
  - OSFPGA [OpenFPGA](https://github.com/lnis-uofu/OpenFPGA) (UofU), under [MIT License](https://github.com/lnis-uofu/OpenFPGA/blob/master/LICENSE)
    - An award-winning open-source FPGA IP generator which supports highly-customizable homogeneous FPGA architectures.
+ - OSFPGA [Skywater Opensource FPGAs (SOFA)](https://github.com/lnis-uofu/SOFA), under [MIT License](https://github.com/lnis-uofu/SOFA/blob/master/LICENSE)
+   - A series of open-source FPGA IPs using the open-source Skywater 130nm PDK and OpenFPGA framework.
  - [Archipelago](https://github.com/haojunliu/OpenFPGA) (Berkeley), under [BSD 2-Clause License](https://github.com/haojunliu/OpenFPGA/blob/master/LICENSE)
    - A parameterizable and user expandable FPGA with toolflow support.
  - [ZUMA](https://github.com/adbrant/zuma-fpga) (UBC)
