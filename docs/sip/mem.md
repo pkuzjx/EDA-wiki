@@ -4,6 +4,9 @@
 - [AMC](https://github.com/asyncvlsi/AMC) (Yale), under [GNU General Public License v2.0](https://github.com/asyncvlsi/AMC/blob/master/LICENSE)
   - An open-source asynchronous pipelined memory compiler.
 
-### Cache Subsystem
+### Memory Subsystem
+* [LiteDRAM](https://github.com/enjoy-digital/litedram), under [BSD 2-Clause License
+](https://github.com/enjoy-digital/litedram/blob/master/LICENSE)
+  - LiteDRAM provides a small footprint and configurable DRAM core.
 - [BYOC Memory System](https://github.com/bring-your-own-core/byoc)
   - A "Bring Your Own Core" framework for heterogeneous-ISA research.
