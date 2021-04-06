@@ -9,6 +9,8 @@
   - An agile, reusable open-source framework for rapid test chip development.
 - [LiteX](https://github.com/enjoy-digital/litex), under [BSD 2-Clause License](https://github.com/enjoy-digital/litex/blob/master/LICENSE)
   - A Migen/MiSoC based Core/SoC builder that provides the infrastructure to easily create Cores/SoCs (with or without CPU).
+- [FuseSoC](https://github.com/olofk/fusesoc), under [BSD 2-Clause License](https://github.com/olofk/fusesoc/blob/master/LICENSE)
+  - An award-winning package manager and a set of build tools for HDL (Hardware Description Language) code.
 - [SocLib](http://www.soclib.fr/trac/dev)
   - An open platform for virtual prototyping of multi-processors system on chip (MP-SoC).
 
