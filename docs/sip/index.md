@@ -7,6 +7,8 @@
   - Free Silicon, free as in freedom.
 - [POSH](https://github.com/aolofsson/POSH)
   - A meta project for the POSH related projects.
+- [Open-Source FPGA Foundation](https://osfpga.org/)
+  - A set of free and open-source tools enabling fast prototyping for FPGA chips and automated EDA support, through open standard collaboration.
 - [LibreCores](https://www.librecores.org/)
   - A digital hardware design community for creating and distributing IP cores in the open source spirit.
 - [OpenCores](https://opencores.org/)
