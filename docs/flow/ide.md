@@ -1,4 +1,6 @@
 ### 开发环境
+* OSFPGA [VerilogCreator](https://github.com/rochus-keller/verilogcreator/), under [GNU General Public License v2.0](https://github.com/rochus-keller/VerilogCreator/blob/master/LICENSE.GPL2)
+  - A QtCreator plugin; it turns QtCreator into a Verilog 2005 IDE.
 * [TerosHDL](https://github.com/TerosTechnology/terosHDL)
   - The goal of TerosHDL is make the FPGA development easier and reliable.
 
