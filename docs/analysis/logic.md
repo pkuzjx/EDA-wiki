@@ -4,7 +4,7 @@
  - [CVC](http://www.tachyon-da.com/what-is-cvc/) (Tachyon DA), under [Modified Artistic Open Source Software License](http://www.tachyon-da.com/licensing-faq/)
    - CVC is a full IEEE 1364 2005 compliant Verilog Hardware Description Language (HDL) simulator that compilesVerilog to native X86_64 machine instructions which are executed as a simple native Linux binary.
    - Mirror of OSS CVC https://github.com/cambridgehackers/open-src-cvc
- - [GHDL](https://github.com/ghdl/ghdl), under [GNU General Public License v2.0](https://github.com/ghdl/ghdl/blob/master/COPYING.md)
+ - OSFPGA [GHDL](https://github.com/ghdl/ghdl), under [GNU General Public License v2.0](https://github.com/ghdl/ghdl/blob/master/COPYING.md)
    - The open-source analyzer, compiler, simulator and (experimental) synthesizer for VHDL.
  - [FreeHDL](http://freehdl.seul.org/)
    - A free, open source, GPL'ed VHDL simulator for Linux.
