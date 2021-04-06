@@ -2,11 +2,11 @@
  - [RapidWright](https://github.com/Xilinx/RapidWright.git) (Xilinx)
    - Provide Vivado Interface for users to build customized FPGA implementations.
    - Similar projects: [Torc](https://github.com/torc-isi/torc), [RapidSmith](http://rapidsmith.sourceforge.net/), and [RapidSmith2](https://github.com/byuccl/RapidSmith2)
- - [SymbiFlow](https://symbiflow.github.io/)
+ - OSFPGA [SymbiFlow](https://symbiflow.github.io/)
    - A Verilog-to-Bitstream (end-to-end) FPGA synthesis flow.
    - Target Xilinx 7-Series, Lattice iCE40 and Lattice ECP5 FPGAs.
- - [VTR](https://github.com/verilog-to-routing/vtr-verilog-to-routing) (Toronto)
-   - An CAD flow tool for FPGA including ODIN-II, ABC, VPR place, and VPR route.
+ - OSFPGA [VTR](https://github.com/verilog-to-routing/vtr-verilog-to-routing) (Toronto), under [VTR License](https://github.com/verilog-to-routing/vtr-verilog-to-routing/blob/master/LICENSE.md)
+   - A world-wide collaborative effort to provide a open-source framework for conducting FPGA architecture and CAD research and development.
  - [IceStorm](http://www.clifford.at/icestorm/) (Clifford Wolf)
    - Aims at reverse engineering and documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
    - A working fully open source flow with Yosys and Arachne-pnr.
