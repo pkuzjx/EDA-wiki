@@ -24,3 +24,7 @@
    - An open-source toolchain to design and evaluate island style spatial automata processing architectures.
  - [DATuner](https://github.com/cornell-zhang/datuner) (Cornell, PKU)
    - A parallel bandit-based approach for autotuning FPGA compilation.
+
+### FPGA Utilities
+* OSFPGA [openFPGALoader](https://github.com/trabucayre/openFPGALoader), under [GNU Affero General Public License v3.0](https://github.com/trabucayre/openFPGALoader/blob/master/LICENSE)
+  - Universal utility for programming FPGA.
