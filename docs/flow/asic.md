@@ -3,6 +3,8 @@
    - Aim to develop open-source tools that achieve autonomous, 24-hour layout implementation.
  - [OpenLANE](https://github.com/efabless/openlane) (efabless), under [Apache License 2.0](https://github.com/efabless/openlane/blob/master/LICENSE)
    - OpenLANE is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault and custom methodology scripts for design exploration and optimization.
+ - [Edalize](https://github.com/olofk/edalize), under [BSD 2-Clause License](https://github.com/olofk/edalize/blob/master/LICENSE)
+   - A Python Library for interacting with EDA tools. It can create project files for supported tools and run them in batch or GUI mode (where supported).
  - [Hammer](https://github.com/ucb-bar/hammer/) (Berkeley), under [BSD 3-Clause License](https://github.com/ucb-bar/hammer/blob/master/LICENSE)
    - Highly Agile Masks Made Effortlessly from RTL.
  - [mflowgen](https://github.com/mflowgen/mflowgen) (Stanford), under [BSD 3-Clause "New" or "Revised" License](https://github.com/mflowgen/mflowgen/blob/master/LICENSE)
