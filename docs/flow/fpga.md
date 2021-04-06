@@ -7,13 +7,13 @@
    - Target Xilinx 7-Series, Lattice iCE40 and Lattice ECP5 FPGAs.
  - OSFPGA [VTR](https://github.com/verilog-to-routing/vtr-verilog-to-routing) (Toronto), under [VTR License](https://github.com/verilog-to-routing/vtr-verilog-to-routing/blob/master/LICENSE.md)
    - A world-wide collaborative effort to provide a open-source framework for conducting FPGA architecture and CAD research and development.
- - [IceStorm](http://www.clifford.at/icestorm/) (Clifford Wolf)
+ - OSFPGA [Edalize](https://github.com/olofk/edalize) (Olof Kindgren), under [BSD 2-Clause License](https://github.com/olofk/edalize/blob/master/LICENSE)
+   - Edalize is a Python Library for interacting with EDA tools.
+- [IceStorm](http://www.clifford.at/icestorm/) (Clifford Wolf)
    - Aims at reverse engineering and documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
    - A working fully open source flow with Yosys and Arachne-pnr.
  - [FPGA CAD Framework](https://github.com/EliasVansteenkiste/FPGA-CAD-Framework) ([HES Group](https://github.com/UGent-HES) at Ghent Univ.)
    - A Java framework focused on rapid prototyping of new CAD algorithms for FPGA compilation.
- - [Edalize](https://github.com/olofk/edalize) (Olof Kindgren), under [BSD 2-Clause License](https://github.com/olofk/edalize/blob/master/LICENSE)
-   - Edalize is a Python Library for interacting with EDA tools.
  - [Rebit](https://code.google.com/archive/p/rebit/)
    - A low level configuration analysis and for the debugging and validation of the bitstream files of architectures that exploit dynamic partial reconfiguration on Xilinx FPGAs.
  - [Sdaccel-chisel-integration](https://github.com/necst/sdaccel_chisel_integration)
