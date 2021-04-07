@@ -21,3 +21,5 @@
 ### HLS Passes
 - [EDS Scheduling](https://github.com/chhzh123/Entropy-directed-scheduling) (SYSU), under [MIT License](https://github.com/chhzh123/Entropy-directed-scheduling/blob/master/LICENSE)
   - The implementation of Entropy-Directed Scheduling (EDS) algorithm for FPGA high-level synthesis (HLS).
+- [Polymer](https://github.com/kumasento/polymer) (Imperial College London)
+  - Bridging polyhedral analysis tools to the MLIR framework.
