@@ -1,6 +1,8 @@
 ### DSA
 - [DSAGEN](https://github.com/PolyArch/dsa-framework) (UCLA), under [BSD 2-clause License](https://github.com/PolyArch/dsa-framework/blob/master/LICENSE)
   - Democratizing Decoupled Spatial Architecture Research.
+- [Gemmini](https://github.com/ucb-bar/gemmini) (Berkeley), under [BSD 3-clause License](https://github.com/ucb-bar/gemmini/blob/master/LICENSE)
+  - A systolic-array based matrix multiplication accelerator generator for the investigation of SoC integration of such accelerators.
 
 ### SoC
 - [Chipyard](https://github.com/ucb-bar/chipyard) (Berkeley), under [BSD 3-Clause License](https://github.com/ucb-bar/chipyard/blob/master/LICENSE)
