@@ -24,7 +24,9 @@
  - [LiveHD](https://github.com/masc-ucsc/livehd) (UCSC)
    - An infrastructure designed for Live Hardware Development.
    - Including Live Graph ([LGraph](https://github.com/masc-ucsc/livehd/blob/master/core/lgraph.hpp)), Language Neutral AST ([LNAST](https://github.com/masc-ucsc/livehd/blob/master/elab/lnast.hpp)), integrated 3rd-party tools, code generation, and "live" techniques.
- - [CoreIR](https://github.com/rdaly525/coreir)
++ [CIRCT](https://github.com/llvm/circt), under [Apache License](https://github.com/llvm/circt/blob/main/LICENSE)
+  - "CIRCT" stands for "Circuit IR Compilers and Tools".
+- [CoreIR](https://github.com/rdaly525/coreir)
    - An LLVM-style hardware compiler with first class support for generators
  - [LLHD](http://www.llhd.io/)
    - An intermediate representation for digital circuit descriptions.
