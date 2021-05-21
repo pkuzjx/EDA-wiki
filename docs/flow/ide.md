@@ -3,6 +3,8 @@
   - A QtCreator plugin; it turns QtCreator into a Verilog 2005 IDE.
 * [TerosHDL](https://github.com/TerosTechnology/terosHDL)
   - The goal of TerosHDL is make the FPGA development easier and reliable.
++ [EasySoC CHIP](https://github.com/easysoc/chip) (Xinjun Ma)
+  - EasySoC CHIP is an Integrated Development Environment (IDE) and front-end EDA tool for Modern Hardware Design, based on IntelliJ IDEA. 
 
 ### 开发环境 (webware)
 
@@ -12,3 +14,7 @@
   - 以数字电路验证为核心目标的EDA平台
 * [Makerchip](http://makerchip.com/) (Redwood EDA)
   - A free online environment for developing high-quality integrated circuits.
+
+### 可视化
++ [EasySoC Diagrammer](https://github.com/easysoc/easysoc-diagrammer) (Xinjun Ma), under [GNU General Public License v3.0](https://github.com/easysoc/easysoc-diagrammer/blob/master/LICENSE)
+  - This project can layout and diagram ELK Graph files emitted by layered-firrtl to visualize Chisel generated Firrtl circuits.
