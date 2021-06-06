@@ -1,8 +1,10 @@
 ### DSA
-- [DSAGEN](https://github.com/PolyArch/dsa-framework) (UCLA), under [BSD 2-clause License](https://github.com/PolyArch/dsa-framework/blob/master/LICENSE)
++ [DSAGEN](https://github.com/PolyArch/dsa-framework) (UCLA), under [BSD 2-clause License](https://github.com/PolyArch/dsa-framework/blob/master/LICENSE)
   - Democratizing Decoupled Spatial Architecture Research.
-- [Gemmini](https://github.com/ucb-bar/gemmini) (Berkeley), under [BSD 3-clause License](https://github.com/ucb-bar/gemmini/blob/master/LICENSE)
++ [Gemmini](https://github.com/ucb-bar/gemmini) (Berkeley), under [BSD 3-clause License](https://github.com/ucb-bar/gemmini/blob/master/LICENSE)
   - A systolic-array based matrix multiplication accelerator generator for the investigation of SoC integration of such accelerators.
++ [TCE ASIP](https://github.com/cpc/tce/) (Tampere University)
+  - TTA-based Co-Design Environment (TCE) is an open application-specific instruction-set processor (ASIP) toolset for design and programming of customized co-processors (typically programmable accelerators). 
 
 ### SoC
 - [Chipyard](https://github.com/ucb-bar/chipyard) (Berkeley), under [BSD 3-Clause License](https://github.com/ucb-bar/chipyard/blob/master/LICENSE)
