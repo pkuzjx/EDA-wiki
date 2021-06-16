@@ -5,7 +5,7 @@
   - The goal of TerosHDL is make the FPGA development easier and reliable.
 + [EasySoC CHIP](https://github.com/easysoc/chip) (Xinjun Ma)
   - EasySoC CHIP is an Integrated Development Environment (IDE) and front-end EDA tool for Modern Hardware Design, based on IntelliJ IDEA. 
-+ [](https://github.com/jimmysitu/vtags) (Jimmy Situ), under [BSD 2-Clause "Simplified" License](https://github.com/jimmysitu/vtags/blob/master/LICENSE)
++ [vtags](https://github.com/jimmysitu/vtags) (Jimmy Situ), under [BSD 2-Clause "Simplified" License](https://github.com/jimmysitu/vtags/blob/master/LICENSE)
   - Verdi like, verilog code signal trace and show hierarchy script.
 
 ### 开发环境 (webware)
