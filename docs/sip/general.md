@@ -1,5 +1,5 @@
 ### Cores
- - [RISC-V Cores](https://riscv.org/risc-v-cores/)
+ - [RISC-V Cores](https://riscv.org/exchange/cores-socs/)
    - Various cores and SoCs that endeavor to implement the RISC-V specification
  - [8051](https://www.oreganosystems.at/products/ip-cores/8051-ip-core) (Oregano Systems, Vienna University of Technology)
    - A parameterizable, synthesizable circuit description (VHDL) under LGPL license
