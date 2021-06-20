@@ -17,6 +17,9 @@
   - A detailed simulation model of a contemporary GPU (such as NVIDIA's Fermi and GT200 architectures) running CUDA and/or OpenCL workloads.
   - Includes an integrated (and validated) energy model, [GPUWattch](http://www.gpgpu-sim.org/gpuwattch/).
 
+### Chiplet Simulators
++ [SCUT multi-chiplet system simulator](https://github.com/FCAS-SCUT) (SCUT)
+
 ### Accelerator Simulators
 - [PARADE](https://github.com/cdsc-github/parade-ara-simulator) (UCLA), under [BSD 3-Clause License](https://github.com/cdsc-github/parade-ara-simulator/blob/master/LICENSE)
   - A cycle-accurate full-system simulation platform for accelerator-rich architectural design and exploration.
