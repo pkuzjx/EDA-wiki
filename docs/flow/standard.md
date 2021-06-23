@@ -9,14 +9,18 @@
   - Standards are developed in a collaborative and open environment by technical working groups.
 - [Icarus Verilog](https://github.com/steveicarus/iverilog) (Stephen Williams), under [GNU Lesser General Public License v2.1](https://github.com/steveicarus/iverilog/blob/master/COPYING)
   - A Verilog simulation and synthesis tool compiling source code written in Verilog (IEEE-1364) into some target format.
-+ [moore](https://github.com/fabianschuiki/moore) (Fabian Schuiki)
++ [moore](https://github.com/fabianschuiki/moore) (Fabian Schuiki), under dual licensing: [Apache License 2.0](https://github.com/fabianschuiki/moore/blob/master/LICENSE-APACHE) or [MIT License](https://github.com/fabianschuiki/moore/blob/master/LICENSE-MIT)
   - Moore is a compiler for hardware description languages that outputs llhd assembly, with a focus on usability, clear error reporting, and completeness.
 + [slang](https://github.com/MikePopoloski/slang) (Michael Popoloski), under [MIT License](https://github.com/MikePopoloski/slang/blob/master/LICENSE)
   - Slang is a software library that provides various components for lexing, parsing, type checking, and elaborating SystemVerilog code.
++ [Surelog](https://github.com/chipsalliance/Surelog) (CHIPS Alliance), under [Apache License 2.0](https://github.com/chipsalliance/Surelog/blob/master/LICENSE)
+  - SystemVerilog 2017 Pre-processor, Parser, Elaborator, UHDM Compiler. Provides IEEE Design/TB C/C++ VPI and Python AST API.
++ [sv2v](https://github.com/zachjs/sv2v) (Zachary Snow), under [BSD 3-Clause License](https://github.com/zachjs/sv2v/blob/master/LICENSE)
+  - sv2v converts SystemVerilog (IEEE 1800-2017) to Verilog (IEEE 1364-2005), with an emphasis on supporting synthesizable language constructs.
++ [sv-parser](https://github.com/dalance/sv-parser), under dual licensing: [Apache License 2.0](https://github.com/dalance/sv-parser/blob/master/LICENSE-APACHE) or [MIT License](https://github.com/dalance/sv-parser/blob/master/LICENSE-MIT)
+  - SystemVerilog parser library fully compliant with IEEE 1800-2017.
 - [EpicSim](https://github.com/x-epic/EpicSim) (X-EPIC), under [GNU Lesser General Public License v2.1](https://github.com/x-epic/EpicSim/blob/master/LICENSE)
   - A Verilog compiler.
-- [sv2v](https://github.com/zachjs/sv2v) (Zachary Snow), under [BSD 3-Clause License](https://github.com/zachjs/sv2v/blob/master/LICENSE)
-  - sv2v converts SystemVerilog (IEEE 1800-2017) to Verilog (IEEE 1364-2005), with an emphasis on supporting synthesizable language constructs.
 - [verilog-parser](https://github.com/ben-marshall/verilog-parser), a parser for the IEEE 1364-2001 verilog standard
 - [pyverilog](https://pypi.org/project/pyverilog), a hardware design processing toolkit for Verilog HDL including verilog parser, dataflow analyzer, control-flow analyzer and code generator
 - [verilog](https://github.com/tomahawkins/verilog) (Tom Hawkins), under [BSD 3-Clause License](https://github.com/tomahawkins/verilog/blob/master/LICENSE)
