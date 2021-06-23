@@ -9,6 +9,10 @@
   - Standards are developed in a collaborative and open environment by technical working groups.
 - [Icarus Verilog](https://github.com/steveicarus/iverilog) (Stephen Williams), under [GNU Lesser General Public License v2.1](https://github.com/steveicarus/iverilog/blob/master/COPYING)
   - A Verilog simulation and synthesis tool compiling source code written in Verilog (IEEE-1364) into some target format.
++ [moore](https://github.com/fabianschuiki/moore) (Fabian Schuiki)
+  - Moore is a compiler for hardware description languages that outputs llhd assembly, with a focus on usability, clear error reporting, and completeness.
++ [slang](https://github.com/MikePopoloski/slang) (Michael Popoloski), under [MIT License](https://github.com/MikePopoloski/slang/blob/master/LICENSE)
+  - Slang is a software library that provides various components for lexing, parsing, type checking, and elaborating SystemVerilog code.
 - [EpicSim](https://github.com/x-epic/EpicSim) (X-EPIC), under [GNU Lesser General Public License v2.1](https://github.com/x-epic/EpicSim/blob/master/LICENSE)
   - A Verilog compiler.
 - [sv2v](https://github.com/zachjs/sv2v) (Zachary Snow), under [BSD 3-Clause License](https://github.com/zachjs/sv2v/blob/master/LICENSE)
