@@ -19,6 +19,10 @@
   - sv2v converts SystemVerilog (IEEE 1800-2017) to Verilog (IEEE 1364-2005), with an emphasis on supporting synthesizable language constructs.
 + [sv-parser](https://github.com/dalance/sv-parser), under dual licensing: [Apache License 2.0](https://github.com/dalance/sv-parser/blob/master/LICENSE-APACHE) or [MIT License](https://github.com/dalance/sv-parser/blob/master/LICENSE-MIT)
   - SystemVerilog parser library fully compliant with IEEE 1800-2017.
++ [tree-sitter-verilog](https://github.com/tree-sitter/tree-sitter-verilog), under [MIT License](https://github.com/tree-sitter/tree-sitter-verilog/blob/master/LICENSE)
+  - Verilog grammar for tree-sitter.
++ [verible](https://github.com/google/verible) (Google), under [Apache License 2.0](https://github.com/google/verible/blob/master/LICENSE)
+  - Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, and formatter.
 - [EpicSim](https://github.com/x-epic/EpicSim) (X-EPIC), under [GNU Lesser General Public License v2.1](https://github.com/x-epic/EpicSim/blob/master/LICENSE)
   - A Verilog compiler.
 - [verilog-parser](https://github.com/ben-marshall/verilog-parser), a parser for the IEEE 1364-2001 verilog standard
@@ -29,6 +33,12 @@
 - [NVC](https://github.com/nickg/nvc), a GPLv3 VHDL compiler and simulator aiming for IEEE 1076-2002 compliance
 - [GHDL](https://github.com/ghdl/ghdl), a VHDL 2008/93/87 simulator
 - Related website: [Awesome HDL](https://github.com/drom/awesome-hdl)
+
+#### SystemVerilog support status
++ [SystemVerilog Tester](https://github.com/SymbiFlow/sv-tests) (SymbiFlow), under [ISC License](https://github.com/SymbiFlow/sv-tests/blob/master/LICENSE)
+  - Test suite designed to check compliance with the SystemVerilog standard.
++ [UHDM-integration](https://github.com/chipsalliance/UHDM-integration-tests) (CHIPS Alliance), under [Apache License 2.0](https://github.com/chipsalliance/UHDM-integration-tests/blob/master/LICENSE)
+  - Repository for testing SystemVerilog support status in Yosys/Verilator via UHDM
 
 ### LEF/DEF
 - Si2 [LEF/DEF Toolkit](https://projects.si2.org/openeda.si2.org/projects/lefdef/)
