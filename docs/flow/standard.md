@@ -3,6 +3,8 @@
   - An open-source electronic data infrastructure for VLSI design automation.
 - [OpenDB](https://github.com/The-OpenROAD-Project/OpenDB), under [BSD 3-Clause License](https://github.com/The-OpenROAD-Project/OpenDB/blob/master/LICENSE)
   - OpenDB is a design database to support tools for physical chip design.
++ [LibrEDA DB](https://codeberg.org/LibrEDA/libreda-db), under [GNU Affero General Public License v3.0](https://codeberg.org/LibrEDA/libreda-db/src/branch/main/LICENSE)
+  - LibrEDA DB is a collection of data structures for chip layouts and netlists.
 
 ### HDL (Verilog, VHDL, etc.)
 - [SystemC](https://accellera.org/downloads/standards/systemc) (Accellera), under Apache License v2.0
