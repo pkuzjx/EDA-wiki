@@ -1,6 +1,8 @@
 ### ASIC Flow
- - [OpenROAD](https://theopenroadproject.org/) (UCSD), under various licenses (BSD 2-Clause, BSD 3-Clause, GPL 3.0, ISC, etc.)
-   - Aim to develop open-source tools that achieve autonomous, 24-hour layout implementation.
++ [OpenROAD](https://theopenroadproject.org/) (UCSD), under various licenses (BSD 2-Clause, BSD 3-Clause, GPL 3.0, ISC, etc.)
+  - Aim to develop open-source tools that achieve autonomous, 24-hour layout implementation.
++ [LibrEDA](https://codeberg.org/LibrEDA/LibrEDA) (Thomas Kramer)
+  - The main goal of this project is to create a new libre software framework for the physical design of digital integrated circuits.
  - [OpenLANE](https://github.com/efabless/openlane) (efabless), under [Apache License 2.0](https://github.com/efabless/openlane/blob/master/LICENSE)
    - OpenLANE is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault and custom methodology scripts for design exploration and optimization.
  - [Hammer](https://github.com/ucb-bar/hammer/) (Berkeley), under [BSD 3-Clause License](https://github.com/ucb-bar/hammer/blob/master/LICENSE)
