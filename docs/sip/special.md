@@ -7,15 +7,17 @@
   - TTA-based Co-Design Environment (TCE) is an open application-specific instruction-set processor (ASIP) toolset for design and programming of customized co-processors (typically programmable accelerators). 
 
 ### SoC
-- [Chipyard](https://github.com/ucb-bar/chipyard) (Berkeley), under [BSD 3-Clause License](https://github.com/ucb-bar/chipyard/blob/master/LICENSE)
++ [Chipyard](https://github.com/ucb-bar/chipyard) (Berkeley), under [BSD 3-Clause License](https://github.com/ucb-bar/chipyard/blob/master/LICENSE)
   - An open source framework for agile development of Chisel-based systems-on-chip.
-- [CHIPKIT](https://github.com/whatmough/CHIPKIT) (Harvard), under MIT License
++ [CHIPKIT](https://github.com/whatmough/CHIPKIT) (Harvard), under MIT License
   - An agile, reusable open-source framework for rapid test chip development.
-- [LiteX](https://github.com/enjoy-digital/litex), under [BSD 2-Clause License](https://github.com/enjoy-digital/litex/blob/master/LICENSE)
++ [LiteX](https://github.com/enjoy-digital/litex), under [BSD 2-Clause License](https://github.com/enjoy-digital/litex/blob/master/LICENSE)
   - A Migen/MiSoC based Core/SoC builder that provides the infrastructure to easily create Cores/SoCs (with or without CPU).
-- OSFPGA [FuseSoC](https://github.com/olofk/fusesoc), under [BSD 2-Clause License](https://github.com/olofk/fusesoc/blob/master/LICENSE)
++ [SaxonSoc](https://github.com/SpinalHDL/SaxonSoc), under [MIT License](https://github.com/SpinalHDL/SaxonSoc/blob/dev-0.3/LICENSE)
+  - SoC based on VexRiscv and ICE40 UP5K.
++ OSFPGA [FuseSoC](https://github.com/olofk/fusesoc), under [BSD 2-Clause License](https://github.com/olofk/fusesoc/blob/master/LICENSE)
   - An award-winning package manager and a set of build tools for HDL (Hardware Description Language) code.
-- [SocLib](http://www.soclib.fr/trac/dev)
++ [SocLib](http://www.soclib.fr/trac/dev)
   - An open platform for virtual prototyping of multi-processors system on chip (MP-SoC).
 
 ### Tensor Processors
