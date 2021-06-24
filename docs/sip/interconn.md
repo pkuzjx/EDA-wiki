@@ -1,3 +1,7 @@
+### Wireless
++ [openwifi](https://github.com/open-sdr/openwifi), under [GNU Affero General Public License v3.0](https://github.com/open-sdr/openwifi/blob/master/LICENSE)
+  - Open-source IEEE802.11/Wi-Fi baseband chip/FPGA design.
+
 ### Network-on-Chip (NoC)
  - [OpenSoC Fabric](https://github.com/LBL-CoDEx/OpenSoCFabric) (Berkeley Lab)
    - An on-chip network generation infrastructure which aims to provide a parameterizable and powerful on-chip network generator
