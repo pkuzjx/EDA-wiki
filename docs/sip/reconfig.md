@@ -19,18 +19,18 @@
 ### Coarse-grain Reconfigurable Fabrics
 + [pillars](https://github.com/pku-dasys/pillars) (PKU), under [MIT License](https://github.com/pku-dasys/pillars/blob/master/LICENSE)
   - An open-source CGRA design framework with consistency to assist in design space exploration and hardware optimization of CGRAs.
-+ [garnet](https://github.com/StanfordAHA/garnet) (Stanford), under [BSD 3-Clause License](https://github.com/StanfordAHA/garnet/blob/master/LICENSE)
-  - Garnet is a framework to investigate and experiment with implementing CGRA using new generator infrastructure.
 + [Stream Specialization CGRA Generator](https://github.com/PolyArch/dsa-cgra-gen) (UCLA)
   - As a submodule of [dsa-framework](https://github.com/PolyArch/dsa-framework), dsa-cgra-gen use JSON to describe CGRA, see example IR in IR directory.
++ [garnet](https://github.com/StanfordAHA/garnet) (Stanford), under [BSD 3-Clause License](https://github.com/StanfordAHA/garnet/blob/master/LICENSE)
+  - Garnet is a framework to investigate and experiment with implementing CGRA using new generator infrastructure.
 + [CGRA-ME](http://cgra-me.ece.utoronto.ca/) (Toronto), under [CGRA-ME Software EULA](https://cgra-me.ece.utoronto.ca/license/)
   - An architectural modelling and exploration (ME) framework
-+ [Mocarabe](https://git.uwaterloo.ca/watcag-public/mocarabe) (Waterloo)
-  - The Mocarabe architecture consists of a 2D array of building blocks connected by a directional torus network-on-chip (NoC).
 + [OpenCGRA](https://github.com/pnnl/OpenCGRA) (Pacific Northwest National Laboratory), under [BSD 3-Clause License](https://github.com/pnnl/OpenCGRA/blob/master/LICENSE)
   - A parameterizable and powerful CGRA (Coarse-Grained Reconfigurable Arrays) generator to generate synthesizable Verilog for different CGRAs based on user-specified configurations (e.g., CGRA size, type of the computing units in each tile, communication connection, etc.).
 + [SiLago Fabric](https://github.com/silagokth/fabric) (KTH), under [GNU General Public License v3.0](https://github.com/silagokth/fabric/blob/master/LICENSE.md)
   - This is the VHDL description of the DRRA and DiMArch CGRA fabric developed by KTH.
++ [Mocarabe](https://git.uwaterloo.ca/watcag-public/mocarabe) (Waterloo)
+  - The Mocarabe architecture consists of a 2D array of building blocks connected by a directional torus network-on-chip (NoC).
 + [CCF](https://github.com/cmlasu/ccf) (ASU)
   - CCF (CGRA Compilation Framework) is an end-to-end prototype demonstrating the code generation and simulation process for CGRA accelerators. 
 + [CML-CGRA](https://github.com/hoangt/cml-cgra) (ASU)
