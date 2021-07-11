@@ -21,6 +21,8 @@
   - An open-source CGRA design framework with consistency to assist in design space exploration and hardware optimization of CGRAs.
 + [garnet](https://github.com/StanfordAHA/garnet) (Stanford), under [BSD 3-Clause License](https://github.com/StanfordAHA/garnet/blob/master/LICENSE)
   - Garnet is a framework to investigate and experiment with implementing CGRA using new generator infrastructure.
++ [Stream Specialization CGRA Generator](https://github.com/PolyArch/dsa-cgra-gen) (UCLA)
+  - As a submodule of [dsa-framework](https://github.com/PolyArch/dsa-framework), dsa-cgra-gen use JSON to describe CGRA, see example IR in IR directory.
 + [CGRA-ME](http://cgra-me.ece.utoronto.ca/) (Toronto), under [CGRA-ME Software EULA](https://cgra-me.ece.utoronto.ca/license/)
   - An architectural modelling and exploration (ME) framework
 + [Mocarabe](https://git.uwaterloo.ca/watcag-public/mocarabe) (Waterloo)
