@@ -18,11 +18,13 @@
   - Aims to be a toolbox for automated synthesis of CMOS logic cells.
 
 ### Hardware Functional Libraries
-- [HLSLibs](https://hlslibs.org/) (Mentor)
++ [FloPoCo](http://flopoco.gforge.inria.fr/)
+  - A generator of arithmetic cores (Floating-Point Cores, but not only) for FPGAs (but not only).
++ [HLSLibs](https://hlslibs.org/) (Mentor)
   - A free and open set of libraries implemented in standard C++ for bit-accurate hardware and software design.
-- [MatchLib](https://github.com/NVlabs/matchlib) (NVIDIA)
++ [MatchLib](https://github.com/NVlabs/matchlib) (NVIDIA)
   - MatchLib is a SystemC/C++ library of commonly-used hardware functions and components that can be synthesized by most commercially-available HLS tools into RTL.
-- [HiFlipVX](https://github.com/TUD-ADS/HiFlipVX)
++ [HiFlipVX](https://github.com/TUD-ADS/HiFlipVX)
   - Open Source High-Level Synthesis FPGA Library for Image Processing.
 
 ### PDK for CNTFET
