@@ -25,7 +25,7 @@
    - Open-Source RISC-V Tiered Accelerator Fabric SoC
  - [OpenScale](http://www.lirmm.fr/ADAC/?page_id=102) (LIRMM)
    - A scalable and open-source NoC-based MPSoC platform
- - [OpTiMSoC](https://github.com/optimsoc/optimsoc) (TUM)
+ - [OpTiMSoC](https://github.com/optimsoc/optimsoc) (TUM), under [MIT License](https://github.com/optimsoc/optimsoc/blob/master/COPYING)
    - Open Tiled Manycore System-on-Chip
  - [Patmos](https://github.com/t-crest/patmos) (Technical University of Denmark)
    - A time-predictable VLIW processor, and the processor for the T-CREST project 
