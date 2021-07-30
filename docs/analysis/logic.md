@@ -17,6 +17,8 @@
 ### Wave Viewer
 + [GTKWave](https://github.com/gtkwave/gtkwave), under [GNU General Public License v2.0](https://github.com/gtkwave/gtkwave/blob/master/LICENSE)
   - A fully featured GTK+ based wave viewer for Unix and Win32 which reads LXT, LXT2, VZT, FST, and GHW files as well as standard Verilog VCD/EVCD files and allows their viewing.
++ [Ligeia](https://github.com/lachlansneff/ligeia) (Lachlan Sneff), under [Mozilla Public License 2.0](https://github.com/lachlansneff/ligeia/blob/main/LICENSE)
+  - A replacement for gtkwave, written in Rust with high-performance and larger-than-memory traces in mind.
 + [WaveDrom](https://github.com/wavedrom/wavedrom), under [MIT License](https://github.com/wavedrom/wavedrom/blob/master/LICENSE)
   - A Free and Open Source online digital timing diagram (waveform) rendering engine that uses javascript, HTML5 and SVG to convert a WaveJSON input text description into SVG vector graphics.
 + [open-logic-bit](https://github.com/ultraembedded/openlogicbit), under [Apache License v2.0](https://github.com/ultraembedded/openlogicbit/blob/main/LICENSE)
