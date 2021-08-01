@@ -1,3 +1,7 @@
+### Asynchronous Tools
++ [ACT](https://avlsi.csl.yale.edu/act/doku.php) (Yale), under [GNU General Public License v2.0](https://github.com/asyncvlsi/act/blob/master/LICENSE)
+  - ACT is an Asynchronous Circuit Toolkit which has been built from scratch to support the design and implementation of asynchronous logic.
+
 ### Analog and Mixed Signal
 - [FASoC](https://github.com/idea-fasoc/fasoc) (UMich), under [MIT License](https://github.com/idea-fasoc/fasoc)
   - Fully-Autonomous SoC Synthesis using Customizable Cell-Based Synthesizable Analog Circuits.
