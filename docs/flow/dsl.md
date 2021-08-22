@@ -1,22 +1,22 @@
 ### DSL
- - [HeteroCL](https://github.com/cornell-zhang/heterocl) (Cornell, UCLA), under [Apache License 2.0](https://github.com/cornell-zhang/heterocl/blob/master/LICENSE)
-   - A Multi-Paradigm Programming Infrastructure for Software-Defined Reconfigurable Computing.
- - [Chisel](https://www.chisel-lang.org/) (Berkeley), under [BSD 3-Clause License](https://github.com/freechipsproject/chisel3/blob/master/src/LICENSE.txt)
-   - A hardware construction language that supports advanced hardware design using highly parameterized generators and layered domain-specific hardware languages.
- - [PyHCL](https://github.com/scutdig/PyChip-py-hcl) (SCUT), under [MIT License](https://github.com/scutdig/PyChip-py-hcl/blob/master/LICENSE)
-   - PyHCL is a hardware construct language like Chisel but more lightweight and more relaxed to use.
+- [HeteroCL](https://github.com/cornell-zhang/heterocl) (Cornell, UCLA), under [Apache License 2.0](https://github.com/cornell-zhang/heterocl/blob/master/LICENSE)
+  - A Multi-Paradigm Programming Infrastructure for Software-Defined Reconfigurable Computing.
+- [Chisel](https://www.chisel-lang.org/) (Berkeley), under [BSD 3-Clause License](https://github.com/freechipsproject/chisel3/blob/master/src/LICENSE.txt)
+  - A hardware construction language that supports advanced hardware design using highly parameterized generators and layered domain-specific hardware languages.
+- [PyHCL](https://github.com/scutdig/PyChip-py-hcl) (SCUT), under [MIT License](https://github.com/scutdig/PyChip-py-hcl/blob/master/LICENSE)
+  - PyHCL is a hardware construct language like Chisel but more lightweight and more relaxed to use.
 - [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL), under [LGPL License and MIT License](https://github.com/SpinalHDL/SpinalHDL/blob/dev/LICENSE)
-   - A language to describe digital hardware.
- - [ActiveCore](https://github.com/AntonovAlexander/activecore) (ITMO)
-   - A framework that demonstrates original hardware designing concept based on "Micro-Language IP" (MLIP) cores.
- - [CBG-BSV Toy Bluespec Compiler](https://www.cl.cam.ac.uk/~djg11//wwwhpr/toy-bluespec-compiler.html) (Cambridge)
-   - "For compiler writers like myself, the best way to learn a new language was to write a toy compiler for it."
- - [Hardcaml](https://github.com/janestreet/hardcaml) (Jane Street)
-   - An OCaml library for designing hardware.
- - [Kiwi](https://www.cl.cam.ac.uk/~djg11/kiwi/) (Cambridge)
-   - Aims to make reconfigurable computing technology like Field Programmable Gate Arrays (FPGAs) more accessible to mainstream programmers.
- - [Kratos](https://github.com/Kuree/kratos) (Stanford), under [BSD 2-Clause "Simplified" License](https://github.com/Kuree/kratos/blob/master/LICENSE)
-   - Kratos is a hardware design language written in C++/Python.
+  - A language to describe digital hardware.
+- [ActiveCore](https://github.com/AntonovAlexander/activecore) (ITMO)
+  - A framework that demonstrates original hardware designing concept based on "Micro-Language IP" (MLIP) cores.
+- [CBG-BSV Toy Bluespec Compiler](https://www.cl.cam.ac.uk/~djg11//wwwhpr/toy-bluespec-compiler.html) (Cambridge)
+  - "For compiler writers like myself, the best way to learn a new language was to write a toy compiler for it."
+- [Hardcaml](https://github.com/janestreet/hardcaml) (Jane Street)
+  - An OCaml library for designing hardware.
+- [Kiwi](https://www.cl.cam.ac.uk/~djg11/kiwi/) (Cambridge)
+  - Aims to make reconfigurable computing technology like Field Programmable Gate Arrays (FPGAs) more accessible to mainstream programmers.
+- [Kratos](https://github.com/Kuree/kratos) (Stanford), under [BSD 2-Clause "Simplified" License](https://github.com/Kuree/kratos/blob/master/LICENSE)
+  - Kratos is a hardware design language written in C++/Python.
 
 ### IR
  - [FIRRTL](https://github.com/freechipsproject/firrtl) (Berkeley)
