@@ -9,8 +9,6 @@
   - A language to describe digital hardware.
 - [ActiveCore](https://github.com/AntonovAlexander/activecore) (ITMO)
   - A framework that demonstrates original hardware designing concept based on "Micro-Language IP" (MLIP) cores.
-- [CBG-BSV Toy Bluespec Compiler](https://www.cl.cam.ac.uk/~djg11//wwwhpr/toy-bluespec-compiler.html) (Cambridge)
-  - "For compiler writers like myself, the best way to learn a new language was to write a toy compiler for it."
 - [Hardcaml](https://github.com/janestreet/hardcaml) (Jane Street)
   - An OCaml library for designing hardware.
 - [Kiwi](https://www.cl.cam.ac.uk/~djg11/kiwi/) (Cambridge)
