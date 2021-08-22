@@ -21,7 +21,7 @@
   - Compiler, simulator, and tools for the Bluespec Hardware Description Language.
 - [CBG-BSV Toy Bluespec Compiler](https://www.cl.cam.ac.uk/~djg11//wwwhpr/toy-bluespec-compiler.html) (Cambridge)
   - "For compiler writers like myself, the best way to learn a new language was to write a toy compiler for it."
-- tools for [DSL/IR](../flow/dsl.md)
+- other tools for [DSL/IR](../flow/dsl.md)
 
 ### HLS Passes
 - [EDS Scheduling](https://github.com/chhzh123/Entropy-directed-scheduling) (SYSU), under [MIT License](https://github.com/chhzh123/Entropy-directed-scheduling/blob/master/LICENSE)
