@@ -7,6 +7,8 @@
   - The PDK contains SPICE-compatible FinFET device models (BSIM-CMG), Technology files for Cadence Virtuoso, Design Rule Checker (DRC), Layout vs Schematic Checker (LVS) and Extraction Deck for the 7nm technology node.
 + [FreePDK](https://www.eda.ncsu.edu/wiki/FreePDK) (NCSU)
   - An open-source, Open-Access-based PDK for the 45nm technology node and the Predictive Technology Model.
++ [FreePDK15_TFET](https://github.com/SJTU-YONGFU-RESEARCH-GRP/FreePDK15_TFET) (SJTU), under [GNU General Public License v3.0](https://github.com/SJTU-YONGFU-RESEARCH-GRP/FreePDK15_TFET/blob/main/LICENSE)
+  - FreePDK15(TM) Predictive Process Design Kit with TFET devices
 
 ### Standard Cell Libraries
 - [DesignStart Physical IP](https://developer.arm.com/ip-products/designstart/physical-ip) (ARM)
