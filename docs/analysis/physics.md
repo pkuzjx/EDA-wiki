@@ -13,3 +13,5 @@
   - An accurate and fast thermal model suitable for use in architectural studies.
 + [RTA-simulator](https://github.com/UMN-EDA/RTA-simulator) (UMD), under [BSD 3-Clause License](https://github.com/UMN-EDA/RTA-simulator/blob/master/LICENSE)
   - Thermal analysis to measure on-die temperature during rapid thermal annealing (RTA).
++ [TherMOS](https://github.com/UMN-EDA/TherMOS) (UMD), under [BSD 3-Clause License](https://github.com/UMN-EDA/TherMOS/blob/master/LICENSE)
+  - A thermal model for self-heating in advanced MOS devices.
