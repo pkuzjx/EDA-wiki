@@ -5,9 +5,11 @@
   - This utility aims to simplify the process of adding a power grid into a floorplan. 
 
 ### Power Network Analysis
-- OpenROAD [PDNSim](https://github.com/The-OpenROAD-Project/PDNSim), BSD 3-Clause License
++ OpenROAD [PDNSim](https://github.com/The-OpenROAD-Project/PDNSim), BSD 3-Clause License
   - Input: placed and synthesized PDN
   - Output: static IR drop report, worst case IR drop; static IR drop plots
++ [IREDGe](https://github.com/VidyaChhabria/ThermEDGe-and-IREDGe) (UMD), under [BSD 3-Clause License](https://github.com/VidyaChhabria/ThermEDGe-and-IREDGe/blob/master/LICENSE)
+  - This repository contains code for the paper titled "Thermal and IR Drop Analysis Using ConvolutionalEncoder-Decoder Networks".
 
 ### Power Network Benchmarks
 + [BeGAN-benchmarks](https://github.com/UMN-EDA/BeGAN-benchmarks) (UMD), under [BSD 3-Clause License](https://github.com/UMN-EDA/BeGAN-benchmarks/blob/master/LICENSE)
