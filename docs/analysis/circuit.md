@@ -16,11 +16,6 @@
  - [Xyce](https://xyce.sandia.gov/) (Sandia NL)
    - An open source, SPICE-compatible, high-performance analog circuit simulator, capable of solving extremely large circuit problems by supporting large-scale parallel computing platforms.
 
-### IR Drop Analysis
-
-+ [IREDGe](https://github.com/VidyaChhabria/ThermEDGe-and-IREDGe) (UMD), under [BSD 3-Clause License](https://github.com/VidyaChhabria/ThermEDGe-and-IREDGe/blob/master/LICENSE)
-  - This repository contains code for the paper titled "Thermal and IR Drop Analysis Using ConvolutionalEncoder-Decoder Networks".
-
 ### Interface
 - [CDF](https://github.com/paripath/cdf) (Paripath)
   - CDF or characterization description format is effective in capturing properties of VLSI cells and IPS at several levels of abstraction.
