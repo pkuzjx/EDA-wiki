@@ -25,6 +25,10 @@
  - [DATuner](https://github.com/cornell-zhang/datuner) (Cornell, PKU)
    - A parallel bandit-based approach for autotuning FPGA compilation.
 
+### FPGA Flow Composer
++ [Edalize](https://github.com/olofk/edalize), under [BSD 2-Clause License](https://github.com/olofk/edalize/blob/master/LICENSE)
+  - Edalize is a Python Library for interacting with EDA tools.
+
 ### FPGA Utilities
 * OSFPGA [openFPGALoader](https://github.com/trabucayre/openFPGALoader), under [GNU Affero General Public License v3.0](https://github.com/trabucayre/openFPGALoader/blob/master/LICENSE)
   - Universal utility for programming FPGA.
