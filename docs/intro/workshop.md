@@ -4,7 +4,7 @@
 - [WOSET: Workshop on Open-Source EDA Technology](https://woset-workshop.github.io/)
   - WOSET [2020](https://woset-workshop.github.io/) | [2019](https://woset-workshop.github.io/WOSET2019.html) | [2018](https://woset-workshop.github.io/WOSET2018.html), co-located with ICCAD.
 - OSDA: Workshop on Open Source Design Automation
-  - [OSDA 2019](https://osda.gitlab.io/), co-located with DATE, March 29, 2019; Florence, Italy.
+  - OSDA [2020](http://osda.ws/) | [2019](https://osda.gitlab.io/), co-located with DATE.
 - DAC Birds of a Feather: Open Source Academic EDA Software
   - [DAC 2019 BOF](https://github.com/The-OpenROAD-Project/Birds-of-a-Feather-Open-Source-Academic-EDA-Software/wiki/DAC-2019-Birds-of-a-Feather:-Open-Source-Academic-EDA-Software), June 5, 2019; Las Vegas, NV, USA.
 
