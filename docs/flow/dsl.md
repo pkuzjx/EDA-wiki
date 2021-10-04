@@ -7,6 +7,8 @@
   - PyHCL is a hardware construct language like Chisel but more lightweight and more relaxed to use.
 - [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL), under [LGPL License and MIT License](https://github.com/SpinalHDL/SpinalHDL/blob/dev/LICENSE)
   - A language to describe digital hardware.
+- [PyGears](https://github.com/bogdanvuk/pygears) (University of Novi Sad), under [MIT License](https://github.com/bogdanvuk/pygears/blob/master/LICENSE)
+  - PyGears is a free framework that lets you design hardware using high-level Python constructs and compile it to synthesizable SystemVerilog or Verilog code.
 - [ActiveCore](https://github.com/AntonovAlexander/activecore) (ITMO)
   - A framework that demonstrates original hardware designing concept based on "Micro-Language IP" (MLIP) cores.
 - [Hardcaml](https://github.com/janestreet/hardcaml) (Jane Street)
