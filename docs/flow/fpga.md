@@ -28,6 +28,8 @@
 ### FPGA Flow Composer
 + [Edalize](https://github.com/olofk/edalize), under [BSD 2-Clause License](https://github.com/olofk/edalize/blob/master/LICENSE)
   - Edalize is a Python Library for interacting with EDA tools.
++ [PyFPGA](https://github.com/PyFPGA/pyfpga), under [GNU General Public License v3.0](https://github.com/PyFPGA/pyfpga/blob/main/LICENSE)
+  - PyFPGA is a Python Class for vendor-independent FPGA development.
 
 ### FPGA Utilities
 * OSFPGA [openFPGALoader](https://github.com/trabucayre/openFPGALoader), under [GNU Affero General Public License v3.0](https://github.com/trabucayre/openFPGALoader/blob/master/LICENSE)
