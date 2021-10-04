@@ -17,7 +17,7 @@
   - SoC based on VexRiscv and ICE40 UP5K.
 + [Libre-SOC](https://libre-soc.org/)
   - To provide a libre, secure and transparently developed hybrid CPU VPU GPU architecture to the world.
-+ OSFPGA [FuseSoC](https://github.com/olofk/fusesoc), under [BSD 2-Clause License](https://github.com/olofk/fusesoc/blob/master/LICENSE)
++ OSFPGA [FuseSoC](https://github.com/olofk/fusesoc) (FOSSi), under [BSD 2-Clause License](https://github.com/olofk/fusesoc/blob/master/LICENSE)
   - An award-winning package manager and a set of build tools for HDL (Hardware Description Language) code.
 + [SocLib](http://www.soclib.fr/trac/dev)
   - An open platform for virtual prototyping of multi-processors system on chip (MP-SoC).
