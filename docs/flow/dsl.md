@@ -1,4 +1,4 @@
-### DSL
+### HCL
 - [HeteroCL](https://github.com/cornell-zhang/heterocl) (Cornell, UCLA), under [Apache License 2.0](https://github.com/cornell-zhang/heterocl/blob/master/LICENSE)
   - A Multi-Paradigm Programming Infrastructure for Software-Defined Reconfigurable Computing.
 - [Chisel](https://www.chisel-lang.org/) (Berkeley), under [BSD 3-Clause License](https://github.com/freechipsproject/chisel3/blob/master/src/LICENSE.txt)
@@ -7,6 +7,8 @@
   - PyHCL is a hardware construct language like Chisel but more lightweight and more relaxed to use.
 - [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL), under [LGPL License and MIT License](https://github.com/SpinalHDL/SpinalHDL/blob/dev/LICENSE)
   - A language to describe digital hardware.
+- [PyMTL3](https://github.com/pymtl/pymtl3) (Cornell), under [BSD 3-Clause License](https://github.com/pymtl/pymtl3/blob/master/LICENSE)
+  - PyMTL 3 (Mamba) is the latest version of PyMTL, an open-source Python-based hardware generation, simulation, and verification framework with multi-level hardware modeling support.
 - [PyGears](https://github.com/bogdanvuk/pygears) (University of Novi Sad), under [MIT License](https://github.com/bogdanvuk/pygears/blob/master/LICENSE)
   - PyGears is a free framework that lets you design hardware using high-level Python constructs and compile it to synthesizable SystemVerilog or Verilog code.
 - [ActiveCore](https://github.com/AntonovAlexander/activecore) (ITMO)
