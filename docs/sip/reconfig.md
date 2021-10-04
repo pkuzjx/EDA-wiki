@@ -1,20 +1,22 @@
 ### Fine-grain Reconfigurable Fabrics
- - OSFPGA [OpenFPGA](https://github.com/lnis-uofu/OpenFPGA) (UofU), under [MIT License](https://github.com/lnis-uofu/OpenFPGA/blob/master/LICENSE)
-   - An award-winning open-source FPGA IP generator which supports highly-customizable homogeneous FPGA architectures.
- - OSFPGA [Skywater Opensource FPGAs (SOFA)](https://github.com/lnis-uofu/SOFA), under [MIT License](https://github.com/lnis-uofu/SOFA/blob/master/LICENSE)
-   - A series of open-source FPGA IPs using the open-source Skywater 130nm PDK and OpenFPGA framework.
- - [PRGA](https://prga.readthedocs.io/en/latest/) (Princeton), under [BSD 3-Clause License](https://github.com/PrincetonUniversity/prga/blob/release/LICENSE)
-   - A customizable, scalable, versatile, extensible open-source framework for building and using custom FPGAs.
- - [Archipelago](https://github.com/haojunliu/OpenFPGA) (Berkeley), under [BSD 2-Clause License](https://github.com/haojunliu/OpenFPGA/blob/master/LICENSE)
-   - A parameterizable and user expandable FPGA with toolflow support.
- - [ZUMA](https://github.com/adbrant/zuma-fpga) (UBC)
-   - Fine Grain FPGA Overlay Architecture and Tools
- - [literate-broccoli](https://github.com/ueliem/literate-broccoli) (Will Long)
-   - An open source FPGA architecture
-   - https://hackaday.io/project/12151-open-source-fpga
- - [Tritoncore](https://github.com/JackDavidson/OpenFPGACore-TritonCore) (Jack Davidson)
-   - A very simple and minimal FPGA that is implemented in CHISEL
-   - Jack Davidson's undergrad project at UCSD
++ OSFPGA [OpenFPGA](https://github.com/lnis-uofu/OpenFPGA) (UofU), under [MIT License](https://github.com/lnis-uofu/OpenFPGA/blob/master/LICENSE)
+  - An award-winning open-source FPGA IP generator which supports highly-customizable homogeneous FPGA architectures.
++ OSFPGA [Skywater Opensource FPGAs (SOFA)](https://github.com/lnis-uofu/SOFA), under [MIT License](https://github.com/lnis-uofu/SOFA/blob/master/LICENSE)
+  - A series of open-source FPGA IPs using the open-source Skywater 130nm PDK and OpenFPGA framework.
++ [PRGA](https://prga.readthedocs.io/en/latest/) (Princeton), under [BSD 3-Clause License](https://github.com/PrincetonUniversity/prga/blob/release/LICENSE)
+  - A customizable, scalable, versatile, extensible open-source framework for building and using custom FPGAs.
++ [FABulous](https://github.com/FPGA-Research-Manchester/FABulous) (Manchester), under [Apache License 2.0](https://github.com/FPGA-Research-Manchester/FABulous/blob/master/LICENSE)
+  - FABulous is designed to fulfill the objectives of ease of use, maximum portability to different process nodes, good control for customization, and delivering good area, power, and performance characteristics of the generated FPGA fabrics.
++ [Archipelago](https://github.com/haojunliu/OpenFPGA) (Berkeley), under [BSD 2-Clause License](https://github.com/haojunliu/OpenFPGA/blob/master/LICENSE)
+  - A parameterizable and user expandable FPGA with toolflow support.
++ [ZUMA](https://github.com/adbrant/zuma-fpga) (UBC)
+  - Fine Grain FPGA Overlay Architecture and Tools
++ [literate-broccoli](https://github.com/ueliem/literate-broccoli) (Will Long)
+  - An open source FPGA architecture
+  - https://hackaday.io/project/12151-open-source-fpga
++ [Tritoncore](https://github.com/JackDavidson/OpenFPGACore-TritonCore) (Jack Davidson)
+  - A very simple and minimal FPGA that is implemented in CHISEL
+  - Jack Davidson's undergrad project at UCSD
 
 ### Coarse-grain Reconfigurable Fabrics
 + [pillars](https://github.com/pku-dasys/pillars) (PKU), under [MIT License](https://github.com/pku-dasys/pillars/blob/master/LICENSE)
