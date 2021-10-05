@@ -35,6 +35,7 @@
   - A parameterizable and powerful CGRA (Coarse-Grained Reconfigurable Arrays) generator to generate synthesizable Verilog for different CGRAs based on user-specified configurations (e.g., CGRA size, type of the computing units in each tile, communication connection, etc.).
 + [SiLago Fabric](https://github.com/silagokth/fabric) (KTH), under [GNU General Public License v3.0](https://github.com/silagokth/fabric/blob/master/LICENSE.md)
   - This is the VHDL description of the DRRA and DiMArch CGRA fabric developed by KTH.
+  - With [manas](https://github.com/silagokth/manas) assembler and [vesyla](https://github.com/silagokth/vesyla) algorithmic synthesis tool.
 + [CCF](https://github.com/cmlasu/ccf) (ASU)
   - CCF (CGRA Compilation Framework) is an end-to-end prototype demonstrating the code generation and simulation process for CGRA accelerators. 
 + [CML-CGRA](https://github.com/hoangt/cml-cgra) (ASU)
