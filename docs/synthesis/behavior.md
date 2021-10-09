@@ -13,6 +13,8 @@
   - An LLVM-based high-level synthesis framework that works on the LLVM machine code layer for easy representation and optimization of some high-level synthesis specific operation (instruction), e.g. reduction OR, concatenation, etc.
 - [GAUT](http://hls-labsticc.univ-ubs.fr/) (Université Bretagne Sud), under [CeCILL-B Free Software License](http://hls-labsticc.univ-ubs.fr/download/Licence_CeCILL_B_EN.rtf)
   - A high-level synthesis tool from algorithm to hardware architecture.
+- [CAPH](https://github.com/jserot/caph) (INSA Rennes), under [Q Public License v1.0](https://github.com/jserot/caph/blob/master/LICENSE) and [GNU Library General Public License v2.0](https://github.com/jserot/caph/blob/master/LICENSE)
+  - CAPH is a domain-specific  language for describing and implementing stream-processing applications on reconfigurable hardware, such as FPGAs.
 
 ### Hardware Generation
 - [muIR](https://github.com/sfu-arch/muir-lib) (SFU), under [BSD 3-Clause License](https://github.com/sfu-arch/muir-lib/blob/master/LICENSE)
