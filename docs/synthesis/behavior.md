@@ -1,6 +1,8 @@
 ### High-level Synthesis (HLS)
 - [XLS](https://github.com/google/xls) (Google), under [Apache License 2.0](https://github.com/google/xls/blob/main/LICENSE)
   - The XLS (Accelerated HW Synthesis) project aims to enable the rapid development of hardware IP that also runs as efficient host software via "software style" methodology.
+- [ScaleHLS](https://github.com/hanchenye/scalehls) (UIUC), under [Apache License 2.0](https://github.com/hanchenye/scalehls/blob/master/LICENSE)
+  - ScaleHLS is a next-generation HLS compilation flow, on top of a multi-level compiler infrastructure called MLIR.
 - [muIR-Generator, a.k.a. Dandelion](https://github.com/sfu-arch/muir) (SFU), under [MIT License](https://github.com/sfu-arch/muir/blob/master/LICENSE)
   - muIR-Generator is a tool to generate hardware accelerator from software programs.
 - [LegUp](http://legup.eecg.utoronto.ca/) (Toronto), under [LegUp Software End-User License](http://legup.eecg.utoronto.ca/license.php)
