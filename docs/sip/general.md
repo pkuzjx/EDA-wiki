@@ -1,15 +1,17 @@
 ### Cores
- - [RISC-V Cores](https://riscv.org/exchange/cores-socs/)
-   - Various cores and SoCs that endeavor to implement the RISC-V specification
- - [8051](https://www.oreganosystems.at/products/ip-cores/8051-ip-core) (Oregano Systems, Vienna University of Technology)
-   - A parameterizable, synthesizable circuit description (VHDL) under LGPL license
- - [Arm DesignStart](https://developer.arm.com/ip-products/designstart) (ARM)
-   - $0 license fee and success-based royalty model
-   - Fast access to a select mix of Arm IP, including Cortex-M0, Cortex-M3 and Cortex-A5 processors and supporting IP, software and resources for custom silicon designs
- - [Octavo](http://fpgacpu.ca/octavo/) (UToronto, Charles Eric LaForest), under [BSD 2-Clause License](https://github.com/laforest/Octavo/blob/master/LICENSE)
-   - A soft-processor aimed at building FPGA overlay architectures
- - [VESPA](http://www.eecg.toronto.edu/VESPA/) (UToronto)
-   - A parameterized soft vector processor fully implemented on a DE3 FPGA board
++ [RISC-V Cores](https://riscv.org/exchange/cores-socs/)
+  - Various cores and SoCs that endeavor to implement the RISC-V specification
++ [8051](https://www.oreganosystems.at/products/ip-cores/8051-ip-core) (Oregano Systems, Vienna University of Technology)
+  - A parameterizable, synthesizable circuit description (VHDL) under LGPL license
++ [Arm DesignStart](https://developer.arm.com/ip-products/designstart) (ARM)
+  - $0 license fee and success-based royalty model
+  - Fast access to a select mix of Arm IP, including Cortex-M0, Cortex-M3 and Cortex-A5 processors and supporting IP, software and resources for custom silicon designs
++ [Comet](https://gitlab.inria.fr/srokicki/Comet) (IRISA), under [Apache License v2.0](https://gitlab.inria.fr/srokicki/Comet/-/blob/master/LICENSE)
+  - A RISC-V 32-bit processor written in C++ for High Level Synthesis (HLS).
++ [Octavo](http://fpgacpu.ca/octavo/) (UToronto, Charles Eric LaForest), under [BSD 2-Clause License](https://github.com/laforest/Octavo/blob/master/LICENSE)
+  - A soft-processor aimed at building FPGA overlay architectures
++ [VESPA](http://www.eecg.toronto.edu/VESPA/) (UToronto)
+  - A parameterized soft vector processor fully implemented on a DE3 FPGA board
 
 ### Manycore
 + [OpenPiton](https://github.com/PrincetonUniversity/openpiton) (Princeton)
