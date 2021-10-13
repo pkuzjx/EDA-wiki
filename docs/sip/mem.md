@@ -5,8 +5,11 @@
   - An open-source asynchronous pipelined memory compiler.
 
 ### Memory Subsystem
-* [LiteDRAM](https://github.com/enjoy-digital/litedram), under [BSD 2-Clause License
-](https://github.com/enjoy-digital/litedram/blob/master/LICENSE)
++ [LiteDRAM](https://github.com/enjoy-digital/litedram), under [BSD 2-Clause License](https://github.com/enjoy-digital/litedram/blob/master/LICENSE)
   - LiteDRAM provides a small footprint and configurable DRAM core.
-- [BYOC Memory System](https://github.com/bring-your-own-core/byoc)
++ [BYOC Memory System](https://github.com/bring-your-own-core/byoc)
   - A "Bring Your Own Core" framework for heterogeneous-ISA research.
+
+### Logic in Memory
++ [LiME](https://github.com/llnl/lime) (LLNL), under [BSD 3-Clause License](https://github.com/LLNL/lime/blob/master/LICENSE)
+  - Logic in Memory Emulator (LiME) is a hardware/software tool specially designed for memory system evaluation and experiment.
