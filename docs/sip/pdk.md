@@ -22,6 +22,8 @@
 ### Hardware Functional Libraries
 + [FloPoCo](http://flopoco.gforge.inria.fr/)
   - A generator of arithmetic cores (Floating-Point Cores, but not only) for FPGAs (but not only).
++ [GenMul](https://github.com/amahzoon/genmul) (Univ. of Bremen)
+  - GenMul is a multiplier generator which outputs multiplier circuits in Verilog.
 + [HLSLibs](https://hlslibs.org/) (Mentor)
   - A free and open set of libraries implemented in standard C++ for bit-accurate hardware and software design.
 + [MatchLib](https://github.com/NVlabs/matchlib) (NVIDIA)
