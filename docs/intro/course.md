@@ -2,6 +2,7 @@
  - [Synopsys curricula](https://www.synopsys.com/community/university-program/curriculum-programs.html) for Bachelor and Master Programs in IC design and EDA development
  - Rob A. Rutenbar, coursera [VLSI CAD Part I: Logic](https://www.coursera.org/learn/vlsi-cad-logic) and [VLSI CAD Part II: Layout](https://www.coursera.org/learn/vlsi-cad-layout)
    - CMU [EE760: VLSI CAD - Logic to Layout](https://course.ece.cmu.edu/~ee760/)
+ - Yibo Lin, [PKU-04834590: Optimization and Machine Learning in VLSI Design Automation](https://limbo018.gitee.io/courses/spring2021-VLSICAD)
  - Kurt Keutzer and Sanjit A. Seshia, UC Berkeley [EECS 244: Introduction to Computer Aided Design of Integrated Circuits](https://people.eecs.berkeley.edu/~keutzer/classes/244fa2005/244fa2005-h6.htm)
  - Song Chen, USTC [VLSI-CAD: VLSI Design Optimization](http://staff.ustc.edu.cn/~songch/vlsi-cad.htm)
  - Sung Kyu Lim, Georgia Tech [ECE6133: Physical Design Automation of VLSI Systems](http://limsk.ece.gatech.edu/course/ece6133/)
