@@ -21,9 +21,11 @@
 + [SCUT multi-chiplet system simulator](https://github.com/FCAS-SCUT) (SCUT)
 
 ### Accelerator Simulators
-- [PARADE](https://github.com/cdsc-github/parade-ara-simulator) (UCLA), under [BSD 3-Clause License](https://github.com/cdsc-github/parade-ara-simulator/blob/master/LICENSE)
+* [PARADE](https://github.com/cdsc-github/parade-ara-simulator) (UCLA), under [BSD 3-Clause License](https://github.com/cdsc-github/parade-ara-simulator/blob/master/LICENSE)
   - A cycle-accurate full-system simulation platform for accelerator-rich architectural design and exploration.
   - It extends the widely used gem5 simulator with high-level synthesis (HLS) support.
+* [SCALE-Sim](https://github.com/ARM-software/SCALE-Sim) (ARM), under [MIT License](https://github.com/ARM-software/SCALE-Sim/blob/master/LICENSE)
+  - SCALE sim is a CNN accelerator simulator, that provides cycle-accurate timing, power/energy, memory bandwidth and trace results for a specified accelerator configuration and neural network architecture.
 
 ### Accelerator Analyzers
 - [ALADDIN](https://github.com/harvard-acc/ALADDIN) (Harvard), under [Apache License 2.0](https://github.com/harvard-acc/ALADDIN/blob/master/LICENSE.txt)
