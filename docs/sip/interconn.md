@@ -3,10 +3,10 @@
   - PyOCN (PyMTL3-net) is a parameterizable and powerful OCN (on-chip network) generator to generate synthesizable Verilog for different OCNs based on user-specified configurations (e.g., network size, topology, number of virtual channels, routing strategy, switching arbitration, etc.).
 + [OpenSoC Fabric](https://github.com/LBL-CoDEx/OpenSoCFabric) (Berkeley Lab)
   - An on-chip network generation infrastructure which aims to provide a parameterizable and powerful on-chip network generator
-+ [LISNoC](https://github.com/TUM-LIS/lisnoc) (TUM)
-  - A free Network-on-Chip implementation, mainly for academic or teaching purposes
 + [OpenSMART](https://github.com/hyoukjun/OpenSMART) (GaTech), under [MIT License](https://github.com/hyoukjun/OpenSMART/blob/master/LICENSE)
   - Single-Cycle Multi-hop NoC Generator in BSV and Chisel.
++ [LISNoC](https://github.com/TUM-LIS/lisnoc) (TUM)
+  - A free Network-on-Chip implementation, mainly for academic or teaching purposes
 
 ### NoC Simulators
 - [Noxim](https://github.com/davidepatti/noxim) (Univ. of Catania), under [GNU General Public License v2.0](https://github.com/davidepatti/noxim/blob/master/doc/LICENSE.txt)
