@@ -20,7 +20,7 @@
 - [Kratos](https://github.com/Kuree/kratos) (Stanford), under [BSD 2-Clause "Simplified" License](https://github.com/Kuree/kratos/blob/master/LICENSE)
   - Kratos is a hardware design language written in C++/Python.
 - [ScalaHDL](https://github.com/lastland/ScalaHDL) (SJTU, Morgan Staneley)
-  - An open-source domain-specific language (DSL) that enables designers to describe algorithms using a multiparadigm programming language, and generate the required
+  - An open-source domain-specific language (DSL) that enables designers to describe algorithms using a multi-paradigm programming language, and generate the required
 Verilog code to implement such systems.
 - [VeriScala](https://github.com/VeriScala/VeriScala) (SJTU)
   - A new open-source Domain-Specific Language (DSL) based framework that supports highly abstracted object-oriented hardware defining, programmatical testing, and interactive on-chip debugging.
