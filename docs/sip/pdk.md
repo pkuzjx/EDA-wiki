@@ -20,6 +20,8 @@
   - Aims to be a toolbox for automated synthesis of CMOS logic cells.
 
 ### Hardware Functional Libraries
++ [FP-Gen](https://github.com/StanfordVLSI/FP-Gen) (Stanford), under [BSD 3-Clause "New" or "Revised" License](https://github.com/StanfordVLSI/FP-Gen/blob/master/LICENSE)
+  - A Floating Point Adder/Multiplier/Multiply-Accumulate generator and testbench.
 + [FloPoCo](http://flopoco.gforge.inria.fr/)
   - A generator of arithmetic cores (Floating-Point Cores, but not only) for FPGAs (but not only).
 + [GenMul](https://github.com/amahzoon/genmul) (Univ. of Bremen)
