@@ -15,3 +15,7 @@
  - [SATA core](http://www.ecs.umass.edu/ece/tessier/rcg/virtex4-sata/sata_core.html) (UMass Amherst)
    - All layers of the SATA protocol are implemented in this SATA core.
    - The design utilizes the RocketIO Multi-Gigabit Transceivers of the Virtex-4 for physical layer functionality.
+
+### Physical Layer (PHY)
+* [DragonPHY](https://github.com/StanfordVLSI/dragonphy2) (Stanford), under [Apache License 2.0](https://github.com/StanfordVLSI/dragonphy2/blob/master/LICENSE)
+  * DragonPHY is the second design in the Open Source PHY project at Stanford.
