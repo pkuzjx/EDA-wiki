@@ -11,7 +11,7 @@ repo_url: 'https://github.com/pkuzjx/EDA-wiki'
 edit_uri: 'blob/master/docs/'
 
 # Copyright
-copyright: 'ICP备案号：<a href="http://www.beian.gov.cn">京ICP备19041147号</a> <br> Copyright &copy; 2019 - 2020 EDA Wiki Team'
+copyright: 'ICP备案号：<a href="http://www.beian.gov.cn">京ICP备19041147号</a> <br> Copyright &copy; 2019 - 2021 EDA Wiki Team'
 google_analytics:
   - ''
   - 'auto'
@@ -31,12 +31,13 @@ nav:
     - FPGA流程: flow/fpga.md
     - AMS流程: flow/ams.md
     - 标准格式: flow/standard.md
-    - DSL & IR: flow/dsl.md
+    - 中间表示: flow/ir.md
     - 开发环境: flow/ide.md
 
   - 设计综合:
     - 设计综合简介: synthesis/index.md
     - 高层综合: synthesis/behavior.md
+    - 硬件构建: synthesis/hcl.md
     - 逻辑综合: synthesis/logic.md
     - 布局器: synthesis/place.md
     - 电网综合: synthesis/power.md
@@ -61,7 +62,8 @@ nav:
 
   - 硅知产:
     - 硅知产简介: sip/index.md
-    - PDK与单元库: sip/pdk.md
+    - 工艺设计套件: sip/pdk.md
+    - 单元库: sip/lib.md
     - 存储单元: sip/mem.md
     - 通用计算: sip/general.md
     - 专用计算: sip/special.md

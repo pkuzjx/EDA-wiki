@@ -18,15 +18,6 @@
 - [CAPH](https://github.com/jserot/caph) (INSA Rennes), under [Q Public License v1.0](https://github.com/jserot/caph/blob/master/LICENSE) and [GNU Library General Public License v2.0](https://github.com/jserot/caph/blob/master/LICENSE)
   - CAPH is a domain-specific  language for describing and implementing stream-processing applications on reconfigurable hardware, such as FPGAs.
 
-### Hardware Generation
-- [muIR](https://github.com/sfu-arch/muir-lib) (SFU), under [BSD 3-Clause License](https://github.com/sfu-arch/muir-lib/blob/master/LICENSE)
-  - muIR is a library of hardware components for auto generating highly configurable parallel dataflow accelerator.
-- [Bluespec Compiler](https://github.com/B-Lang-org/bsc) (Bluespec), most under [BSD-3-Clause License](https://github.com/B-Lang-org/bsc/blob/main/COPYING)
-  - Compiler, simulator, and tools for the Bluespec Hardware Description Language.
-- [CBG-BSV Toy Bluespec Compiler](https://www.cl.cam.ac.uk/~djg11//wwwhpr/toy-bluespec-compiler.html) (Cambridge)
-  - "For compiler writers like myself, the best way to learn a new language was to write a toy compiler for it."
-- other tools for [DSL/IR](../flow/dsl.md)
-
 ### HLS Passes
 - [EDS Scheduling](https://github.com/chhzh123/Entropy-directed-scheduling) (SYSU), under [MIT License](https://github.com/chhzh123/Entropy-directed-scheduling/blob/master/LICENSE)
   - The implementation of Entropy-Directed Scheduling (EDS) algorithm for FPGA high-level synthesis (HLS).

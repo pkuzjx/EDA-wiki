@@ -1,4 +1,4 @@
 mkdocs>=1
-mkdocs-material
+mkdocs-material<4
 pymdown-extensions
 mdx_truly_sane_lists
