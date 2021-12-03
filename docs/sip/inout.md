@@ -1,6 +1,6 @@
 ### Wireless
 + [openwifi](https://github.com/open-sdr/openwifi), under [GNU Affero General Public License v3.0](https://github.com/open-sdr/openwifi/blob/master/LICENSE)
-  - Open-source IEEE802.11/Wi-Fi baseband chip/FPGA des
+  - Linux mac80211 compatible full-stack IEEE802.11/Wi-Fi design based on SDR (Software Defined Radio).
 
 ### Peripheral Component Interconnect Express (PCIe)
 + [JetStream](https://maltevesper.github.io/JetStream/)
@@ -17,5 +17,5 @@
    - The design utilizes the RocketIO Multi-Gigabit Transceivers of the Virtex-4 for physical layer functionality.
 
 ### Physical Layer (PHY)
-* [DragonPHY](https://github.com/StanfordVLSI/dragonphy2) (Stanford), under [Apache License 2.0](https://github.com/StanfordVLSI/dragonphy2/blob/master/LICENSE)
-  * DragonPHY is the second design in the Open Source PHY project at Stanford.
++ [DragonPHY](https://github.com/StanfordVLSI/dragonphy2) (Stanford), under [Apache License 2.0](https://github.com/StanfordVLSI/dragonphy2/blob/master/LICENSE)
+  - DragonPHY is the second design in the Open Source PHY project at Stanford.
