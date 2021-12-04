@@ -70,4 +70,4 @@ Verilog code to implement such systems.
     * Thread is a procedural high-level synthesis layer to express sequential behaviors, such as DMA transfers and controls.
 + [VeriScala](https://github.com/VeriScala/VeriScala) (SJTU)
   - A new open-source Domain-Specific Language (DSL) based framework that supports highly abstracted object-oriented hardware defining, programmatical testing, and interactive on-chip debugging.
-+ See also the lists in [HWT's similar projects](https://github.com/Nic30/hwt#similar-projects) and [Meta HDL and Transpilers](https://github.com/drom/awesome-hdl#meta-hdl-and-transpilers)
++ See also the lists in awesome-hdl's [Meta HDL and Transpilers](https://github.com/drom/awesome-hdl#meta-hdl-and-transpilers) and HWT's [similar projects](https://github.com/Nic30/hwt#similar-projects).
