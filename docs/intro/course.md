@@ -17,3 +17,7 @@
  - Charlie Chen, UW-Madison [ECE902: Optimization, Modeling, and Simulation for VLSI CAD](http://homepages.cae.wisc.edu/~ece902/index.html)
 
 <!--- - Gogul Ilango's notes [ASIC Design](https://gogul09.github.io/asic-design)-->
+
+## Misc.
++ [Computer Engineering Resources](https://github.com/rajesh-s/computer-engineering-resources)
+  - A curated catalogue of Computer Engineering/Computer Architecture/Computer Systems resources.
