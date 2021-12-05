@@ -1,4 +1,6 @@
 ### ASIC Flow
++ [SiliconCompiler](https://github.com/siliconcompiler/siliconcompiler), under [Apache License 2.0](https://github.com/siliconcompiler/siliconcompiler/blob/main/LICENSE)
+  - An open source compiler framework that aims to enable automated translation from source code to silicon.
 + [OpenROAD](https://theopenroadproject.org/) (UCSD), under various licenses (BSD 2-Clause, BSD 3-Clause, GPL 3.0, ISC, etc.)
   - Aim to develop open-source tools that achieve autonomous, 24-hour layout implementation.
 + [LibrEDA](https://codeberg.org/LibrEDA/LibrEDA) (Thomas Kramer)
