@@ -29,5 +29,7 @@
    - A detailed router based on the standard Lee maze router algorithm.
 
 ### FPGA Routing
-+ [RWRoute](https://github.com/Xilinx/RapidWright/blob/master/src/com/xilinx/rapidwright/rwroute/RWRoute.java) (Ghent U, Xilinx), under [Apache License v2.0](https://github.com/Xilinx/RapidWright/blob/master/LICENSE.TXT)
++ [RWRoute](https://github.com/Xilinx/RapidWright/blob/master/src/com/xilinx/rapidwright/rwroute/RWRoute.java) (Ghent, Xilinx), under [Apache License v2.0](https://github.com/Xilinx/RapidWright/blob/master/LICENSE.TXT)
   - An Open-source Timing-driven Router for Commercial FPGAs.
++ [RapidRoute](https://github.com/leoliu49/RapidRoute) (Waterloo), under [MIT License](https://github.com/leoliu49/RapidRoute/blob/master/LICENSE)
+  - A custom greedy router built on top of the Xilinx RapidWright framework for fast assembly of communication networks on Xilinx FPGAs.
