@@ -1,6 +1,4 @@
 ### ASIC Flow
-+ [SiliconCompiler](https://github.com/siliconcompiler/siliconcompiler), under [Apache License 2.0](https://github.com/siliconcompiler/siliconcompiler/blob/main/LICENSE)
-  - An open source compiler framework that aims to enable automated translation from source code to silicon.
 + [OpenROAD](https://theopenroadproject.org/) (UCSD), under various licenses (BSD 2-Clause, BSD 3-Clause, GPL 3.0, ISC, etc.)
   - Aim to develop open-source tools that achieve autonomous, 24-hour layout implementation.
 + [LibrEDA](https://codeberg.org/LibrEDA/LibrEDA) (Thomas Kramer)
@@ -25,6 +23,8 @@
   - Working on a full GPL'd suite and toolkit of Electronic Design Automation tools.
 
 ### ASIC Flow Composer
++ [SiliconCompiler](https://github.com/siliconcompiler/siliconcompiler), under [Apache License 2.0](https://github.com/siliconcompiler/siliconcompiler/blob/main/LICENSE)
+  - An open source compiler framework that aims to enable automated translation from source code to silicon.
 + [Hammer](https://github.com/ucb-bar/hammer/) (Berkeley), under [BSD 3-Clause License](https://github.com/ucb-bar/hammer/blob/master/LICENSE)
   - Highly Agile Masks Made Effortlessly from RTL.
 + [mflowgen](https://github.com/mflowgen/mflowgen) (Stanford), under [BSD 3-Clause "New" or "Revised" License](https://github.com/mflowgen/mflowgen/blob/master/LICENSE)
