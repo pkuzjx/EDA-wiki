@@ -27,3 +27,10 @@
 + [HiFlipVX](https://github.com/TUD-ADS/HiFlipVX)
   - Open Source High-Level Synthesis FPGA Library for Image Processing.
 
+### Configuration and Status Registers (CSR) Generator
++ [csrGen](http://asics.chuckbenz.com/csrGen) (Chuck Benz), under Chuck Benz's license
+  - csrGen is a tool to automatically build verilog RTL for the CSRs in processor interfaces of many ASIC/FPGA designs.
++ [RgGen](https://github.com/rggen/rggen) (Taichi Ishitani), under [MIT License](https://github.com/rggen/rggen/blob/master/LICENSE)
+  - It will automatically generate soruce code related to configuration and status registers (CSR), e.g. SytemVerilog RTL, UVM register model (UVM RAL), Wiki documents, from human readable register map specifications.
++ [VGEN](https://github.com/whatmough/CHIPKIT/tree/master/tools/vgen) (Harvard), under MIT License
+  - CHIPKIT currently includes example VGEN scripts for generating CSRs and IO pads, and is easily extensible to other common chip design tasks.
