@@ -35,7 +35,7 @@
 + Related website: [Awesome HDL](https://github.com/drom/awesome-hdl)
 
 #### SystemVerilog support status
-+ [SystemVerilog Tester](https://github.com/SymbiFlow/sv-tests) (SymbiFlow), under [ISC License](https://github.com/SymbiFlow/sv-tests/blob/master/LICENSE)
++ [SystemVerilog Tester](https://github.com/chipsalliance/sv-tests) (SymbiFlow, CHIPS Alliance), under [ISC License](https://github.com/chipsalliance/sv-tests/blob/master/LICENSE)
   - Test suite designed to check compliance with the SystemVerilog standard.
 + [UHDM-integration](https://github.com/chipsalliance/UHDM-integration-tests) (CHIPS Alliance), under [Apache License 2.0](https://github.com/chipsalliance/UHDM-integration-tests/blob/master/LICENSE)
   - Repository for testing SystemVerilog support status in Yosys/Verilator via UHDM
