@@ -7,6 +7,8 @@
   - Single-Cycle Multi-hop NoC Generator in BSV and Chisel.
 + [LISNoC](https://github.com/TUM-LIS/lisnoc) (TUM)
   - A free Network-on-Chip implementation, mainly for academic or teaching purposes
++ [tnoc](https://github.com/taichi-ishitani/tnoc) (Taichi Ishitani), under [Apache License 2.0](https://github.com/taichi-ishitani/tnoc/blob/master/LICENSE)
+  - Network on Chip Implementation Written in SystemVerilog.
 
 ### NoC Simulators
 - [Noxim](https://github.com/davidepatti/noxim) (Univ. of Catania), under [GNU General Public License v2.0](https://github.com/davidepatti/noxim/blob/master/doc/LICENSE.txt)
