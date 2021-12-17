@@ -21,3 +21,5 @@
 ## Misc.
 + [Computer Engineering Resources](https://github.com/rajesh-s/computer-engineering-resources)
   - A curated catalogue of Computer Engineering/Computer Architecture/Computer Systems resources.
++ [Awesome resources for Hardware Description](https://hdl.github.io/awesome/)
+  - A community effort for maintaining a curated list of resources for Hardware Description, such as Tools, IP Core Libraries and Collections, Frameworks and more!
