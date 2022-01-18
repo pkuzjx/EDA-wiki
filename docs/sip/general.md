@@ -1,6 +1,8 @@
 ### Cores
 + [RISC-V Cores](https://riscv.org/exchange/cores-socs/)
   - Various cores and SoCs that endeavor to implement the RISC-V specification
++ [ao486](https://github.com/alfikpl/ao486) (Aleksander Osman), under [BSD 2-Clause License](https://github.com/alfikpl/ao486/blob/master/LICENSE)
+  - The ao486 is an x86 compatible Verilog core implementing all features of a 486 SX.
 + [8051](https://www.oreganosystems.at/products/ip-cores/8051-ip-core) (Oregano Systems, Vienna University of Technology)
   - A parameterizable, synthesizable circuit description (VHDL) under LGPL license
 + [Arm DesignStart](https://developer.arm.com/ip-products/designstart) (ARM)
