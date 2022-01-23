@@ -5,6 +5,8 @@
   - An on-chip network generation infrastructure which aims to provide a parameterizable and powerful on-chip network generator
 + [OpenSMART](https://github.com/hyoukjun/OpenSMART) (GaTech), under [MIT License](https://github.com/hyoukjun/OpenSMART/blob/master/LICENSE)
   - Single-Cycle Multi-hop NoC Generator in BSV and Chisel.
++ [NSG](https://noctegra.github.io/) (KTH), under BSD 3-Clause License
+  - The NoC system Generator is a design flow, which can generate highly configurable NoC-based MPSoC for FPGA instantiation.
 + [LISNoC](https://github.com/TUM-LIS/lisnoc) (TUM)
   - A free Network-on-Chip implementation, mainly for academic or teaching purposes
 + [tnoc](https://github.com/taichi-ishitani/tnoc) (Taichi Ishitani), under [Apache License 2.0](https://github.com/taichi-ishitani/tnoc/blob/master/LICENSE)
