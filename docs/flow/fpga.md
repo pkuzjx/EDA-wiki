@@ -34,3 +34,5 @@
 ### FPGA Utilities
 * OSFPGA [openFPGALoader](https://github.com/trabucayre/openFPGALoader), under [GNU Affero General Public License v3.0](https://github.com/trabucayre/openFPGALoader/blob/master/LICENSE)
   - Universal utility for programming FPGA.
+* [chisel-vitis-template](https://github.com/Wolf-Tungsten/chisel-vitis-template) (CAS ICT)
+  - 在Vitis平台上运行Chisel设计.
