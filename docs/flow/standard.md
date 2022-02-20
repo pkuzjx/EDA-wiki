@@ -43,6 +43,8 @@
 #### HDL translators
 + [sv2chisel](https://github.com/ovh/sv2chisel/) (OVHcloud), under [BSD 3-Clause License](https://github.com/ovh/sv2chisel/blob/master/LICENSE)
   - sv2chisel translates synthesizable (System)Verilog to low-level Chisel.
++ [hdlConvertor](https://github.com/Nic30/hdlConvertor), under [MIT License](https://github.com/Nic30/hdlConvertor/blob/master/LICENSE)
+  - This library is a System Verilog and VHDL parser, preprocessor and code generator for Python/C++.
 
 ### LEF/DEF
 - Si2 [LEF/DEF Toolkit](https://projects.si2.org/openeda.si2.org/projects/lefdef/)
