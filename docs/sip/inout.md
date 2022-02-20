@@ -3,6 +3,8 @@
   - Linux mac80211 compatible full-stack IEEE802.11/Wi-Fi design based on SDR (Software Defined Radio).
 
 ### Peripheral Component Interconnect Express (PCIe)
++ [verilog-pcie](https://github.com/alexforencich/verilog-pcie), under [MIT License](https://github.com/alexforencich/verilog-pcie/blob/master/COPYING)
+  - Collection of PCI express related components. Includes PCIe to AXI and AXI lite bridges and a flexible, high-performance DMA subsystem.
 + [JetStream](https://maltevesper.github.io/JetStream/)
   - An Open-Source high-performance PCI Express 3 streaming library.
 + [RIFFA](https://github.com/KastnerRG/riffa) (UCSD)
