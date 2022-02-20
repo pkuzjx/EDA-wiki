@@ -40,6 +40,10 @@
 + [UHDM-integration](https://github.com/chipsalliance/UHDM-integration-tests) (CHIPS Alliance), under [Apache License 2.0](https://github.com/chipsalliance/UHDM-integration-tests/blob/master/LICENSE)
   - Repository for testing SystemVerilog support status in Yosys/Verilator via UHDM
 
+#### HDL translators
++ [sv2chisel](https://github.com/ovh/sv2chisel/) (OVHcloud), under [BSD 3-Clause License](https://github.com/ovh/sv2chisel/blob/master/LICENSE)
+  - sv2chisel translates synthesizable (System)Verilog to low-level Chisel.
+
 ### LEF/DEF
 - Si2 [LEF/DEF Toolkit](https://projects.si2.org/openeda.si2.org/projects/lefdef/)
 - RazKarapetyan's [LEF/DEF parser](https://github.com/RazKarapetyan/LEF-DEF-parser)
