@@ -11,6 +11,8 @@
   - A hardware construction language that supports advanced hardware design using highly parameterized generators and layered domain-specific hardware languages.
 + [Cλash/Clash](https://github.com/clash-lang/clash-compiler) (U Twente), under [BSD 2-Clause License](https://github.com/clash-lang/clash-compiler/blob/master/LICENSE)
   - A functional hardware description language that borrows both its syntax and semantics from the functional programming language Haskell.
++ [Co-Feldspar](https://github.com/markus-git/co-feldspar) (Chalmers U of Tech.), under [BSD 3-Clause License](https://github.com/markus-git/co-feldspar/blob/master/LICENSE)
+  - A staged hardware software co-design language embedded in Haskell.
 + [ROHD](https://github.com/intel/rohd) (Intel), under [BSD 3-Clause License](https://github.com/intel/rohd/blob/main/LICENSE)
   - A framework for describing and verifying hardware in the Dart programming language.
 + [Genesis2](https://github.com/StanfordVLSI/Genesis2) (Stanford), under [BSD 2-Clause License](https://github.com/StanfordVLSI/Genesis2/blob/master/Genesis2Tools/LICENSE.txt)
