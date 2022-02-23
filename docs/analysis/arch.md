@@ -1,16 +1,18 @@
 ### CPU Simulators
-- [gem5](http://gem5.org/)
++ [gem5](http://gem5.org/)
   - A modular platform for computer-system architecture research, encompassing system-level architecture as well as processor microarchitecture.
-- [MARSSx86](http://www.marss86.org/)
++ [MARSSx86](http://www.marss86.org/)
   - A tool for cycle accurate full system simulation of the x86-64 architecture, specifically multicore implementations.
-- [Sniper](http://snipersim.org/)
++ [Sniper](http://snipersim.org/)
   - A next generation parallel, high-speed and accurate x86 simulator.
-- [zsim](https://github.com/s5z/zsim)
++ [zsim](https://github.com/s5z/zsim)
   - A fast and scalable x86-64 multicore simulator.
-- [JADE](https://eexu.home.ece.ust.hk/JADE.html) (HKUST), under BSD 3-Clause License
++ [JADE](https://eexu.home.ece.ust.hk/JADE.html) (HKUST), under BSD 3-Clause License
   - Heterogeneous Multiprocessor Design Simulation Environment.
-- [SESC](http://sesc.sourceforge.net/) (UIUC)
++ [SESC](http://sesc.sourceforge.net/) (UIUC)
   - It models a very wide set of architectures: single processors, CMPs, PIMs, and thread level speculation.
++ [MARSS-RISCV](https://github.com/bucaps/marss-riscv) (Binghamton U), under [MIT License](https://github.com/bucaps/marss-riscv/blob/master/LICENSE.md)
+  - MARSS-RISCV (Micro-ARchitectural System Simulator - RISCV) is an open-source, cycle-level single-core full-system (Linux) micro-architectural simulator for the RISC-V ISA built on top of TinyEMU emulator developed by Fabrice Bellard and utilizes the configuration code, RISC-V CPU state, physical memory, MMU, and all the devices emulated by TinyEMU.
 
 ### GPU Simulators
 - [GPGPU-sim](http://www.gpgpu-sim.org/)
