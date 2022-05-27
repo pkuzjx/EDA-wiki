@@ -11,6 +11,8 @@
   - A free Network-on-Chip implementation, mainly for academic or teaching purposes
 + [tnoc](https://github.com/taichi-ishitani/tnoc) (Taichi Ishitani), under [Apache License 2.0](https://github.com/taichi-ishitani/tnoc/blob/master/LICENSE)
   - Network on Chip Implementation Written in SystemVerilog.
++ [NoCRouter](https://github.com/agalimberti/NoCRouter) (Politecnico di Milano), under [MIT License](https://github.com/agalimberti/NoCRouter/blob/master/LICENSE)
+  - A Network-on-Chip interconnection module with a 2D mesh topology, enabling the connection of computing nodes either in a direct or indirect network.
 
 ### NoC Simulators
 - [Noxim](https://github.com/davidepatti/noxim) (Univ. of Catania), under [GNU General Public License v2.0](https://github.com/davidepatti/noxim/blob/master/doc/LICENSE.txt)
