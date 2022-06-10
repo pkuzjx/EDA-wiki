@@ -7,6 +7,8 @@
   - EasySoC CHIP is an Integrated Development Environment (IDE) and front-end EDA tool for Modern Hardware Design, based on IntelliJ IDEA. 
 + [vtags](https://github.com/jimmysitu/vtags) (Jimmy Situ), under [BSD 2-Clause "Simplified" License](https://github.com/jimmysitu/vtags/blob/master/LICENSE)
   - Verdi like, verilog code signal trace and show hierarchy script.
++ [ChipVault](http://freshmeat.sourceforge.net/projects/chipvault), under GPL License
+  - ChipVault is a chip development program for organizing VHDL and Verilog designs.
 
 ### 开发环境 (webware)
 
