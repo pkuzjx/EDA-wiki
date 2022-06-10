@@ -13,7 +13,7 @@
    - Different from previous global routers whose quality is usually measured by wirelength and resource overflow, CUGR is a detailed routability-driven global router and its solution quality is solely determined by the final detailed routing results.
  - [OGRE](https://github.com/Cloud-V/OGRE) (American University in Cairo), under [GNU General Public License v3.0](https://github.com/Cloud-V/OGRE/blob/master/LICENSE)
    - Global Router Built for ICCAD-Contest 2019.
- - [FGR](http://vlsicad.eecs.umich.edu/BK/FGR/) (UMich)
+ - [FGR](http://vlsicad.eecs.umich.edu/BK/FGR/) (UMich), available upon request
    - A global router based on Lagrange Multipliers and won the 1st place in ISPD 2007 contest.
  - [BoxRouter](https://www.cerc.utexas.edu/utda/download/BoxRouter.htm) (UT Austin)
    - A global router for ultimate routability and won the 2nd place in ISPD 2007 contest.
