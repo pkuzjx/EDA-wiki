@@ -35,6 +35,8 @@
   - Kratos is a hardware design language written in C++/Python.
 + [Migen FHDL](https://github.com/m-labs/migen) (M-Labs), under [BSD 2-Clause License](https://github.com/m-labs/migen/blob/master/LICENSE)
   - Migen makes it possible to apply modern software concepts such as object-oriented programming and metaprogramming to design hardware.
++ [MyHDL](https://sourceforge.net/projects/myhdl/), under GNU Lesser General Public License v2.0
+  - MyHDL is a Python package for using Python as a hardware description and verification language.
 + [pipelineDSL](https://github.com/p12nGH/pipelineDSL), under [BSD 3-Clause License](https://github.com/p12nGH/pipelineDSL/blob/master/LICENSE)
   - A Haskell DSL for describing hardware pipelines.
 + [PSHDL](https://bitbucket.org/kbecker/pshdl/), under [GNU General Public License](https://bitbucket.org/kbecker/pshdl/src/master/license.txt)
