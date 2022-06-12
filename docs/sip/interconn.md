@@ -15,14 +15,16 @@
   - A Network-on-Chip interconnection module with a 2D mesh topology, enabling the connection of computing nodes either in a direct or indirect network.
 
 ### NoC Simulators
-- [Noxim](https://github.com/davidepatti/noxim) (Univ. of Catania), under [GNU General Public License v2.0](https://github.com/davidepatti/noxim/blob/master/doc/LICENSE.txt)
++ [Noxim](https://github.com/davidepatti/noxim) (Univ. of Catania), under [GNU General Public License v2.0](https://github.com/davidepatti/noxim/blob/master/doc/LICENSE.txt)
   - A SystemC cycle-accurate Simulator for On-Chip Networks.
-- [NIRGAM v2.0](http://nirgam.ecs.soton.ac.uk/) (Univ. of Southampton, Malaviya National Institute of Technology), [limited to non-commercial educational and research activities](http://nirgam.ecs.soton.ac.uk/Download.php)
++ [NIRGAM v2.0](http://nirgam.ecs.soton.ac.uk/) (Univ. of Southampton, Malaviya National Institute of Technology), [limited to non-commercial educational and research activities](http://nirgam.ecs.soton.ac.uk/Download.php)
   - A systemC based discrete event, cycle accurate simulator for research in Network on Chip (NoC).
-- [BookSim 2.0](https://github.com/booksim/booksim2) (Stanford), under [BSD 2-Clause License](https://github.com/booksim/booksim2/blob/master/LICENSE.md)
++ [BookSim 2.0](https://github.com/booksim/booksim2) (Stanford), under [BSD 2-Clause License](https://github.com/booksim/booksim2/blob/master/LICENSE.md)
   - Supports a wide range of topologies such as mesh, torus and flattened butterfly networks, provides diverse routing algorithms and includes numerous options for customizing the network's router microarchitecture.
-- [ORION 3.0](https://vlsicad.ucsd.edu/ORION3/) (UCSD)
++ [ORION 3.0](https://vlsicad.ucsd.edu/ORION3/) (UCSD)
   - ORION3.0 fundamental differs from earlier versions of ORION in that the estimation models are derived from actual post P&R layout area and power data that correspond to the actual RTL generator and the actual target cell library.
++ [HNoCS](https://github.com/yanivbi/HNOCS) (Technion)
+  - HNOCS is an open-source implementation of a NoC simulation framework using OMNeT++.
 
 ### Photonic Noc Simulators
 - [DSENT](https://sites.google.com/site/mitdsent/) (MIT)
