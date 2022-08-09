@@ -47,6 +47,8 @@
    - A DNN accelerator with reconfigurable interconnects to support flexible dataflow
  - [PipeCNN](https://github.com/doonny/PipeCNN) (BJTU)
    - An OpenCL-based FPGA Accelerator for Convolutional Neural Networks
+ - [NEURAghe](https://github.com/neuraghe/NEURAghe)
+   - A flexible and efficient hardware/software solution for the acceleration of CNNs on Zynq SoCs.
  - [zynqnet](https://github.com/dgschwend/zynqnet) (ETH)
    - An FPGA-Accelerated Embedded Convolutional Neural Network
  - [HLS4ML](https://github.com/hls-fpga-machine-learning/HLS4ML)
