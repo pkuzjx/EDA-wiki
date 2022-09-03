@@ -58,6 +58,10 @@
 - Synopsys TAP-in [SDC parser](https://www.synopsys.com/community/interoperability-programs/tap-in.html)
 - dalance's [SDC parser](https://github.com/dalance/sdc-parser)
 
+### GDSII/OASIS
++ [Gdstk](https://github.com/heitzmann/gdstk) (UNICAMP), under [Boost Software License 1.0](https://github.com/heitzmann/gdstk/blob/master/LICENSE)
+  - Gdstk (GDSII Tool Kit) is a C++ library for creation and manipulation of GDSII and OASIS files.
+
 ### Misc.
 - [Spectre2Spice](https://codeberg.org/thommythomaso/spectre2spice), under [CERN Open Hardware License v2.0 or later](https://codeberg.org/thommythomaso/spectre2spice/src/branch/master/LISENCE)
   - A standalone application to translate netlists from the Cadence Spectre Circuit Simulator format to SPICE.
