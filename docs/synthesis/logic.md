@@ -22,5 +22,7 @@
   - Delay-driven approximate logic synthesis (ICCAD'18).
 - [VECBEE](https://github.com/SJTU-ECTL/VECBEE) (SJTU)
   - Efficient batch statistical error estimation for iterative multi-level approximate logic synthesis (DAC'18).
+- [Deep-PowerX](https://github.com/mackenzp/als) (USC), [free for non-commercial purpose](https://github.com/mackenzp/als/blob/master/LICENSE)
+  - This tool aims at integrating three powerful techniques namely Deep Learning, Approximate Computing, and Low Power Design into a strategy to optimize logic at the synthesis level.
 - [BLASYS](https://github.com/scale-lab/blasys) (Brown), under [BSD 3-Clause License](https://github.com/scale-lab/BLASYS/blob/master/LICENSE)
   - An Approximate Logic Synthesis Framework based on Boolean Matrix Factorization.
