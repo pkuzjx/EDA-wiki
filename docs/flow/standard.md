@@ -61,6 +61,7 @@
 ### GDSII/OASIS
 + [Gdstk](https://github.com/heitzmann/gdstk) (UNICAMP), under [Boost Software License 1.0](https://github.com/heitzmann/gdstk/blob/master/LICENSE)
   - Gdstk (GDSII Tool Kit) is a C++ library for creation and manipulation of GDSII and OASIS files.
+  - It is also available as a Python module meant to be a successor to [Gdspy](https://github.com/heitzmann/gdspy).
 
 ### Misc.
 - [Spectre2Spice](https://codeberg.org/thommythomaso/spectre2spice), under [CERN Open Hardware License v2.0 or later](https://codeberg.org/thommythomaso/spectre2spice/src/branch/master/LISENCE)
