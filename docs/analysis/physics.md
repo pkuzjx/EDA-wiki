@@ -9,7 +9,7 @@
    - E.M. Workbench, FasterCap, FastCap2, FastHenry2, FastModel
 
 ### Thermal Analysis
-+ [HotSpot](http://lava.cs.virginia.edu/HotSpot/)
++ [HotSpot](http://lava.cs.virginia.edu/HotSpot/) (UVA), under [a customized license](http://lava.cs.virginia.edu/HotSpot/license.htm)
   - An accurate and fast thermal model suitable for use in architectural studies.
 + [PACT](https://github.com/peaclab/PACT) (Boston U), under [GNU General Public License v3.0](https://github.com/peaclab/PACT/blob/master/LICENSE)
   - PACT is a SPICE-based PArallel Compact Thermal simulator (PACT) that enables fast and accurate standard-cell-level to architecture-level steady-state and transient parallel thermal simulation.
