@@ -13,6 +13,8 @@
   - Network on Chip Implementation Written in SystemVerilog.
 + [NoCRouter](https://github.com/agalimberti/NoCRouter) (Politecnico di Milano), under [MIT License](https://github.com/agalimberti/NoCRouter/blob/master/LICENSE)
   - A Network-on-Chip interconnection module with a 2D mesh topology, enabling the connection of computing nodes either in a direct or indirect network.
++ [Canal](https://github.com/StanfordAHA/canal) (Stanford)
+  - Canal is a DSL that constructs the interconnect through its internal directed-graph representation.
 
 ### NoC Simulators
 + [Noxim](https://github.com/davidepatti/noxim) (Univ. of Catania), under [GNU General Public License v2.0](https://github.com/davidepatti/noxim/blob/master/doc/LICENSE.txt)
