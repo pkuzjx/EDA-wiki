@@ -19,6 +19,8 @@
 + [OpenPiton](https://github.com/PrincetonUniversity/openpiton) (Princeton)
   - The world's first open source, general purpose, multithreaded manycore processor
   - [OPDB](https://github.com/PrincetonUniversity/OPDB): OpenPiton Design Benchmark adapted from OpenPiton
++ [Vortex](https://github.com/vortexgpgpu/vortex) (Gatech), under [BSD 3-Clause "New" or "Revised" License](https://github.com/vortexgpgpu/vortex/blob/master/LICENSE)
+  - Vortex is a full-system RISCV-based GPGPU processor.
 + [FGPU](https://github.com/malkadi/FGPU) (Ruhr University of Bochum), under [GNU General Public License v3.0](https://github.com/malkadi/FGPU/blob/master/LICENSE)
   - FGPU is a soft GPU-like architecture for FPGAs. It can be programmed using OpenCL and can be customized according to application needs.
 + [Harmonica 2](https://github.com/cdkersey/harmonica2) (Chad D. Kersey)
