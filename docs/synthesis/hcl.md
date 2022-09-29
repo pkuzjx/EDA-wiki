@@ -13,8 +13,8 @@
   - A functional hardware description language that borrows both its syntax and semantics from the functional programming language Haskell.
 + [Co-Feldspar](https://github.com/markus-git/co-feldspar) (Chalmers U of Tech.), under [BSD 3-Clause License](https://github.com/markus-git/co-feldspar/blob/master/LICENSE)
   - A staged hardware software co-design language embedded in Haskell.
-+ [ROHD](https://github.com/intel/rohd) (Intel), under [BSD 3-Clause License](https://github.com/intel/rohd/blob/main/LICENSE)
-  - A framework for describing and verifying hardware in the Dart programming language.
++ [DFiant HDL](https://github.com/DFiantHDL/DFiant) (Barcelona Supercomputing Center), under [GNU Lesser General Public License v3.0](https://github.com/DFiantHDL/DFiant/blob/master/COPYING)
+  - DFiant is a dataflow HDL and is embedded as a library in the Scala programming language.
 + [Genesis2](https://github.com/StanfordVLSI/Genesis2) (Stanford), under [BSD 2-Clause License](https://github.com/StanfordVLSI/Genesis2/blob/master/Genesis2Tools/LICENSE.txt)
   - A design system and meta-programming language for automatically producing custom hardware.
 + [Hardcaml](https://github.com/janestreet/hardcaml) (Jane Street)
@@ -57,6 +57,8 @@
   - JavaScript Tool set to construct, transform and analyze digital circuits based on elastic transactional protocol and Request-Acknowledge handshake.
 + [RHDL](https://github.com/philtomson/RHDL) (Phil Tomson), under [GNU General Public License v2.0](https://github.com/philtomson/RHDL/blob/master/COPYING)
   - Ruby Hardware Description Language.
++ [ROHD](https://github.com/intel/rohd) (Intel), under [BSD 3-Clause License](https://github.com/intel/rohd/blob/main/LICENSE)
+  - A framework for describing and verifying hardware in the Dart programming language.
 + [ScalaHDL](https://github.com/lastland/ScalaHDL) (SJTU, Morgan Staneley)
   - An open-source domain-specific language (DSL) that enables designers to describe algorithms using a multi-paradigm programming language, and generate the required
 Verilog code to implement such systems.
