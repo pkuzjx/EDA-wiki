@@ -17,6 +17,8 @@
   - A high-level synthesis tool from algorithm to hardware architecture.
 - [CAPH](https://github.com/jserot/caph) (INSA Rennes), under [Q Public License v1.0](https://github.com/jserot/caph/blob/master/LICENSE) and [GNU Library General Public License v2.0](https://github.com/jserot/caph/blob/master/LICENSE)
   - CAPH is a domain-specific  language for describing and implementing stream-processing applications on reconfigurable hardware, such as FPGAs.
+- [PipelineC](https://github.com/JulianKemmerer/PipelineC) (Julian Kemmerer), under [GNU General Public License v3.0](https://github.com/JulianKemmerer/PipelineC/blob/master/LICENSE)
+  - A C-like hardware description language (HDL) adding high level synthesis (HLS)-like automatic pipelining as a language construct/compiler feature.
 
 ### HLS Passes
 - [EDS Scheduling](https://github.com/chhzh123/Entropy-directed-scheduling) (SYSU), under [MIT License](https://github.com/chhzh123/Entropy-directed-scheduling/blob/master/LICENSE)
