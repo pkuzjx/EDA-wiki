@@ -23,6 +23,8 @@
   - An OCaml library for designing hardware.
 + [HeteroCL](https://github.com/cornell-zhang/heterocl) (Cornell, UCLA), under [Apache License 2.0](https://github.com/cornell-zhang/heterocl/blob/master/LICENSE)
   - A Multi-Paradigm Programming Infrastructure for Software-Defined Reconfigurable Computing.
++ [HDLGen](https://github.com/WilsonChen003/HDLGen) (Wilson Chen), under [Apache License 2.0](https://github.com/WilsonChen003/HDLGen#license)
+  - HDLGen is a tool for HDL(mainly for Verilog) generation, it enables embedded Perl or Python scripts in Verilog source code, and support Perl style variable anyway, to generate desired HDL in an easy and efficient way.
 + [hdl-js](https://github.com/DmitrySoshnikov/hdl-js) (Dmitry Soshnikov), under [MIT License](https://github.com/DmitrySoshnikov/hdl-js/blob/master/LICENSE)
   - Hardware description language (HDL) parser, and Hardware simulator.
 + [hoodlum](https://github.com/tcr/hoodlum) (Tim Ryan), under [MIT License or Apache License 2.0](https://github.com/tcr/hoodlum#license)
