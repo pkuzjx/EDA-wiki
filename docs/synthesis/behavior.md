@@ -7,6 +7,8 @@
   - muIR-Generator is a tool to generate hardware accelerator from software programs.
 - [LegUp](http://legup.eecg.utoronto.ca/) (Toronto), under [LegUp Software End-User License](http://legup.eecg.utoronto.ca/license.php)
   - A high-level synthesis tool to improve C to Verilog synthesis without building an infrastructure from scratch.
+- [ROCCC](https://github.com/nxt4hll/roccc-2.0) (UC Riverside), under [Eclipse Public License 1.0](https://github.com/nxt4hll/roccc-2.0/blob/master/LICENSE)
+  - ROCCC (Riverside Optimizing Compiler for Configurable Computing) is a C to VHDL compilation toolset specifically designed for the efficient and rapid generation of high-performance code accelerators on FPGA platforms.
 - [PandA](https://panda.dei.polimi.it/) (Politecnico di Milano), under GNU General Public License v3.0
   - A usable framework that will enable the research of new ideas in the HW-SW Co-Design field.
 - [FCUDA](https://github.com/adsc-hls/fcuda) (Advanced Digital Sciences Center), under [BSD 3-Clause License](https://github.com/adsc-hls/fcuda/blob/master/license.txt)
