@@ -11,7 +11,7 @@
   - Dynamatic is an academic, open-source high-level synthesis compiler that produces synchronous dynamically-scheduled circuits from C/C++ code.
 - [PandA](https://panda.dei.polimi.it/) (Politecnico di Milano), under GNU General Public License v3.0
   - A usable framework that will enable the research of new ideas in the HW-SW Co-Design field.
-- [Hastlayer](https://github.com/Lombiq/Hastlayer-SDK), under [BSD 3-Clause License](https://github.com/Lombiq/Hastlayer-SDK/blob/client/Licence.md)
+- [Hastlayer](https://github.com/Lombiq/Hastlayer-SDK) (Lombiq Technologies), under [BSD 3-Clause License](https://github.com/Lombiq/Hastlayer-SDK/blob/client/Licence.md)
   - Hastlayer automatically transforms .NET assemblies into computer chips, improving performance and lowering power consumption for massively parallel applications.
 - [ROCCC](https://github.com/nxt4hll/roccc-2.0) (UC Riverside), under [Eclipse Public License 1.0](https://github.com/nxt4hll/roccc-2.0/blob/master/LICENSE)
   - ROCCC (Riverside Optimizing Compiler for Configurable Computing) is a C to VHDL compilation toolset specifically designed for the efficient and rapid generation of high-performance code accelerators on FPGA platforms.
