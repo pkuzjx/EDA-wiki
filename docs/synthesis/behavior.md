@@ -11,6 +11,8 @@
   - ROCCC (Riverside Optimizing Compiler for Configurable Computing) is a C to VHDL compilation toolset specifically designed for the efficient and rapid generation of high-performance code accelerators on FPGA platforms.
 - [PandA](https://panda.dei.polimi.it/) (Politecnico di Milano), under GNU General Public License v3.0
   - A usable framework that will enable the research of new ideas in the HW-SW Co-Design field.
+- [Hastlayer](https://github.com/Lombiq/Hastlayer-SDK), under [BSD 3-Clause License](https://github.com/Lombiq/Hastlayer-SDK/blob/client/Licence.md)
+  - Hastlayer automatically transforms .NET assemblies into computer chips, improving performance and lowering power consumption for massively parallel applications.
 - [FCUDA](https://github.com/adsc-hls/fcuda) (Advanced Digital Sciences Center), under [BSD 3-Clause License](https://github.com/adsc-hls/fcuda/blob/master/license.txt)
   - A source-to-source transformation framework that takes CUDA kernels with FCUDA annotation pragmas as input and produces a synthesizable C code.
 - [Shang](https://github.com/etherzhhb/Shang) (Advanced Digital Science Center), under University of Illinois Open Source License
