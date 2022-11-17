@@ -70,6 +70,7 @@ Verilog code to implement such systems.
   - A language to describe digital hardware.
 + [SystemC](https://accellera.org/downloads/standards/systemc) (Accellera), under Apache License v2.0
   - Standards are developed in a collaborative and open environment by technical working groups.
+  - [Intel Compiler for SystemC](https://github.com/intel/systemc-compiler) (ICSC) translates synthesizable SystemC design to synthesizable SystemVerilog design.
 + [THDL++](http://sysprogs.com/legacy/visualhdl/thdlpp/) (Sysprogs), under [LGPL license](http://sysprogs.com/legacy/visualhdl/download_source/)
   - THDL++ is a hardware design language, that inherits VHDL semantics and provides several major timesaving features.
 + [Verilog.jl](https://github.com/interplanetary-robot/Verilog.jl), under [MIT "Expat" License](https://github.com/interplanetary-robot/Verilog.jl/blob/master/LICENSE.md)
