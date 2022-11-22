@@ -11,3 +11,5 @@
   - Coverage-directed fuzzing for RTL research platform.
 + [RTLFuzzLab](https://github.com/ekiwi/rtl-fuzz-lab) (Berkeley), under [BSD 2-Clause License](https://github.com/ekiwi/rtl-fuzz-lab/blob/main/LICENSE)
   - RTLFuzzLab is designed to allow for easy experimentation with Coverage Directed Mutational Fuzz Testing on RTL designs.
+
+### see also [Logic Simulation](https://openbelt.org.cn/wiki/analysis/logic/)

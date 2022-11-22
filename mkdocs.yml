@@ -48,7 +48,7 @@ nav:
 
   - 设计验证:
     - 设计验证简介: verification/index.md
-    - 动态验证: analysis/logic.md
+    - 动态仿真验证: verification/dynamic.md
     - 形式化验证: verification/formal.md
     - 物理验证: verification/physical.md
 
