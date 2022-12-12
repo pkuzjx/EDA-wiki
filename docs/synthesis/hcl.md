@@ -7,6 +7,8 @@
     * Compiler, simulator, and tools for the Bluespec Hardware Description Language.
   - [CBG-BSV Toy Bluespec Compiler](https://www.cl.cam.ac.uk/~djg11//wwwhpr/toy-bluespec-compiler.html) (Cambridge)
     * "For compiler writers like myself, the best way to learn a new language was to write a toy compiler for it."
++ [Cash](https://github.com/gtcasl/cash) (GaTech), under [BSD 3-Clause License](https://github.com/gtcasl/cash/blob/master/LICENSE)
+  - Cash is a C++ embedded domain specific library (EDSL) for hardware design and simulation.
 + [Chisel](https://www.chisel-lang.org/) (Berkeley), under [BSD 3-Clause License](https://github.com/freechipsproject/chisel3/blob/master/src/LICENSE.txt)
   - A hardware construction language that supports advanced hardware design using highly parameterized generators and layered domain-specific hardware languages.
 + [CFlexHDL](https://github.com/suarezvictor/CFlexHDL) (Victor Suarez Rovere), under [a customized license](https://github.com/suarezvictor/CflexHDL/blob/main/LICENSE)
