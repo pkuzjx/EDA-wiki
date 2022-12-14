@@ -5,6 +5,8 @@
   - We develop a free (as in freedom, not as in free of charge) and open source semiconductor manufacturing process standard, including a full mixed signal PDK, and provide a quick, easy and inexpensive way for manufacturing.
 + [ASAP7](http://asap.asu.edu/asap/) (Arizona State, ARM), "available for non-commercial academic use for free"
   - The PDK contains SPICE-compatible FinFET device models (BSIM-CMG), Technology files for Cadence Virtuoso, Design Rule Checker (DRC), Layout vs Schematic Checker (LVS) and Extraction Deck for the 7nm technology node.
++ [FreePDK3](https://github.com/ncsu-eda/FreePDK3) (NCSU), under [BSD 3-Clause License](https://github.com/ncsu-eda/FreePDK3/blob/main/LICENSE)
+  - FreePDK 3nm Free, Open-Source Process Design Kit
 + [FreePDK](https://www.eda.ncsu.edu/wiki/FreePDK) (NCSU)
   - An open-source, Open-Access-based PDK for the 45nm technology node and the Predictive Technology Model.
 + [FreePDK15_TFET](https://github.com/SJTU-YONGFU-RESEARCH-GRP/FreePDK15_TFET) (SJTU), under [GNU General Public License v3.0](https://github.com/SJTU-YONGFU-RESEARCH-GRP/FreePDK15_TFET/blob/main/LICENSE)
