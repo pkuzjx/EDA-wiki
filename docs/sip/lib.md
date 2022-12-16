@@ -14,7 +14,7 @@
 ### Hardware Functional Libraries
 + [FP-Gen](https://github.com/StanfordVLSI/FP-Gen) (Stanford), under [BSD 3-Clause "New" or "Revised" License](https://github.com/StanfordVLSI/FP-Gen/blob/master/LICENSE)
   - A Floating Point Adder/Multiplier/Multiply-Accumulate generator and testbench.
-+ [ArithsGen](https://github.com/ehw-fit/ariths-gen)
++ [ArithsGen](https://github.com/ehw-fit/ariths-gen) (Brno University of Technology)
   - ArithsGen presents an open source tool that enables generation of various arithmetic circuits along with the possibility to export them to various representations which all serve their specific purpose.
 + [FloPoCo](http://flopoco.gforge.inria.fr/)
   - A generator of arithmetic cores (Floating-Point Cores, but not only) for FPGAs (but not only).
