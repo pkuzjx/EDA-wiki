@@ -12,6 +12,8 @@
    - A framework for Verilog RTL synthesis, used by qflow and OpenROAD.
  - [UNIVR Logic Synthesis Software](https://jackhack96.github.io/logic-synthesis/index.html)
    - The purpose of this site is to host source code, binaries and documentation of software for combinational and sequential logic synthesis. Currently, the following libraries are made available: Espresso, SIS, MVSIS and BALM.
+ - [QuteRTL](https://github.com/chengyinwu/QuteRTL) (NTU), under [GNU General Public License v3.0](https://github.com/chengyinwu/QuteRTL/blob/master/COPYING)
+   - A RTL Front-End Towards Intelligent Synthesis and Verification.
  - [FlowTune](https://github.com/Yu-Utah/FlowTune) (U of Utah)
    - Practical Multi-armed Bandits in Boolean Optimization.
 
