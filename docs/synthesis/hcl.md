@@ -39,6 +39,8 @@
   - Aims to make reconfigurable computing technology like Field Programmable Gate Arrays (FPGAs) more accessible to mainstream programmers.
 + [Kratos](https://github.com/Kuree/kratos) (Stanford), under [BSD 2-Clause License](https://github.com/Kuree/kratos/blob/master/LICENSE)
   - Kratos is a hardware design language written in C++/Python.
++ [magma](https://github.com/phanrahan/magma) (Stanford), under [MIT License](https://github.com/phanrahan/magma/blob/master/LICENSE.txt)
+  - Magma is a hardware design language embedded in python.
 + [Migen FHDL](https://github.com/m-labs/migen) (M-Labs), under [BSD 2-Clause License](https://github.com/m-labs/migen/blob/master/LICENSE)
   - Migen makes it possible to apply modern software concepts such as object-oriented programming and metaprogramming to design hardware.
 + [MyHDL](https://sourceforge.net/projects/myhdl/), under GNU Lesser General Public License v2.0
