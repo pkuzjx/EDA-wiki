@@ -1,7 +1,7 @@
 ### Logic Synthesis
  - [ALSO](https://github.com/nbulsi/also) (Ningbo Univ.), under [MIT License](https://github.com/nbulsi/also/blob/master/LICENSE)
    - Based on the [EPFL Logic Synthesis Libraries](https://github.com/lsils/lstools-showcase); aim to exploit advanced logic synthesis tools for both modern FPGA and emerging nanotechnologies.
-- [ABC](https://github.com/berkeley-abc/abc) (Berkeley)
+- [ABC](https://github.com/berkeley-abc/abc) (Berkeley), under [a customized license](https://github.com/berkeley-abc/abc/blob/master/copyright.txt)
    - A sequential logic synthesis and formal verification tool.
  - OSFPGA [EPFL logic synthesis libraries](https://github.com/lsils/lstools-showcase), under [MIT License](https://github.com/lsils/lstools-showcase/blob/master/LICENSE)
    - The EPFL logic synthesis libraries are a collection of modular open-source C++ libraries for the development of logic synthesis applications.
