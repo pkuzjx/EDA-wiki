@@ -25,6 +25,8 @@
   - CAPH is a domain-specific  language for describing and implementing stream-processing applications on reconfigurable hardware, such as FPGAs.
 - [PipelineC](https://github.com/JulianKemmerer/PipelineC) (Julian Kemmerer), under [GNU General Public License v3.0](https://github.com/JulianKemmerer/PipelineC/blob/master/LICENSE)
   - A C-like hardware description language (HDL) adding high level synthesis (HLS)-like automatic pipelining as a language construct/compiler feature.
+- [Centrifuge](https://github.com/tuura/centrifuge) (Newcastle U), under [MIT License](https://github.com/tuura/centrifuge/blob/master/LICENSE)
+  - Parse GraphML, crunch with Alga, pretty-print to VHDL.
 
 ### HLS Passes
 - [EDS Scheduling](https://github.com/chhzh123/Entropy-directed-scheduling) (SYSU), under [MIT License](https://github.com/chhzh123/Entropy-directed-scheduling/blob/master/LICENSE)
