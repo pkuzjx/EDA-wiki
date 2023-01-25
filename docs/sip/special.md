@@ -26,33 +26,35 @@
 + [TCE ASIP](https://github.com/cpc/tce/) (Tampere University)
   - TTA-based Co-Design Environment (TCE) is an open application-specific instruction-set processor (ASIP) toolset for design and programming of customized co-processors (typically programmable accelerators). 
 
-### Tensor Processors
- - [NVDLA](http://nvdla.org/) (NVIDIA)
-   - A free and open architecture that promotes a standard way to design deep learning inference accelerators
- - [VTA](https://tvm.ai/vta) (UW)
-   - A programmable accelerator that exposes a RISC-like programming abstraction to describe compute and memory operations at the tensor level
- - [DANA](https://github.com/bu-icsg/dana) (BU)
-   - Dynamically Allocated Neural Network Accelerator for the RISC-V Rocket Microprocessor in Chisel
- - [FlexCNN](https://github.com/UCLA-VAST/FlexCNN) (UCLA)
-   - An accelerator for running CNNs on FPGA.
- - [C-LSTM](https://github.com/shvo/C-LSTM) (PKU, Syracuse)
-   - Enabling Efficient LSTM using Structured Compression Techniques on FPGAs.
- - [E-LSTM](https://github.com/rbshi/elstm) (HKU, PKU)
-   - An efficient implementation of LSTM inference on the RISC-V based embedded system
+### DNN and Tensor Accelerators
  - [AccDNN](https://github.com/IBM/AccDNN) (IBM, UIUC)
    - A compiler from AI model to RTL (Verilog) accelerator in FPGA hardware with auto design space exploration
  - [bnn-fpga](https://github.com/cornell-zhang/bnn-fpga) (Cornell)
    - An open-source implementation of a binarized neural network (BNN) accelerator for CIFAR-10 on FPGA
- - [MAERI](https://github.com/georgia-tech-synergy-lab/MAERI) (GaTech)
-   - A DNN accelerator with reconfigurable interconnects to support flexible dataflow
- - [PipeCNN](https://github.com/doonny/PipeCNN) (BJTU)
-   - An OpenCL-based FPGA Accelerator for Convolutional Neural Networks
- - [NEURAghe](https://github.com/neuraghe/NEURAghe)
-   - A flexible and efficient hardware/software solution for the acceleration of CNNs on Zynq SoCs.
- - [zynqnet](https://github.com/dgschwend/zynqnet) (ETH)
-   - An FPGA-Accelerated Embedded Convolutional Neural Network
+ - [C-LSTM](https://github.com/shvo/C-LSTM) (PKU, Syracuse)
+   - Enabling Efficient LSTM using Structured Compression Techniques on FPGAs.
+ - [DANA](https://github.com/bu-icsg/dana) (BU)
+   - Dynamically Allocated Neural Network Accelerator for the RISC-V Rocket Microprocessor in Chisel
+ - [E-LSTM](https://github.com/rbshi/elstm) (HKU, PKU)
+   - An efficient implementation of LSTM inference on the RISC-V based embedded system
+ - [FINN](https://github.com/Xilinx/finn) (Xilinx), under [BSD 3-Clause License](https://github.com/Xilinx/finn/blob/main/LICENSE.txt)
+   - Dataflow compiler for QNN inference on FPGAs. 
+ - [FlexCNN](https://github.com/UCLA-VAST/FlexCNN) (UCLA)
+   - An accelerator for running CNNs on FPGA.
  - [HLS4ML](https://github.com/hls-fpga-machine-learning/HLS4ML)
    - A package for machine learning inference in FPGAs.
+ - [MAERI](https://github.com/georgia-tech-synergy-lab/MAERI) (GaTech)
+   - A DNN accelerator with reconfigurable interconnects to support flexible dataflow
+ - [NEURAghe](https://github.com/neuraghe/NEURAghe)
+   - A flexible and efficient hardware/software solution for the acceleration of CNNs on Zynq SoCs.
+ - [NVDLA](http://nvdla.org/) (NVIDIA)
+   - A free and open architecture that promotes a standard way to design deep learning inference accelerators
+ - [PipeCNN](https://github.com/doonny/PipeCNN) (BJTU)
+   - An OpenCL-based FPGA Accelerator for Convolutional Neural Networks
+ - [VTA](https://tvm.ai/vta) (UW)
+   - A programmable accelerator that exposes a RISC-like programming abstraction to describe compute and memory operations at the tensor level
+ - [zynqnet](https://github.com/dgschwend/zynqnet) (ETH)
+   - An FPGA-Accelerated Embedded Convolutional Neural Network
 
 ### Graphics Processors
 - [OpenGPU2020](https://gitee.com/graphichina/OpenGPU2020)
