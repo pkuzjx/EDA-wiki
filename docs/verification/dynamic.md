@@ -6,12 +6,14 @@
 + [ChiselVerify](https://github.com/chiselverify/chiselverify) (Technical University of Denmark), under [BSD 2-Clause License](https://github.com/chiselverify/chiselverify/blob/master/LICENSE.txt)
   - The beginning of a verification library within Scala for digital hardware described in Chisel, but also supporting legacy components in VHDL, Verilog, or SystemVerilog.
 + [SVAUnit](https://github.com/amiq-consulting/svaunit) (AMIQ), [Apache License v2.0](https://github.com/amiq-consulting/svaunit/blob/master/LICENSE.TXT)
-  - SVAUnit is an UVM compliant package that simplify the creation of stimuli/checkers for validating SystemVerilog Assertions (SVA)
+  - SVAUnit is an UVM compliant package that simplify the creation of stimuli/checkers for validating SystemVerilog Assertions (SVA).
 
 ### Fuzzing Tools
 + [rfuzz](https://github.com/ekiwi/rfuzz) (Berkeley), under [BSD 3-Clause License](https://github.com/ekiwi/rfuzz/blob/main/LICENSE)
   - Coverage-directed fuzzing for RTL research platform.
 + [RTLFuzzLab](https://github.com/ekiwi/rtl-fuzz-lab) (Berkeley), under [BSD 2-Clause License](https://github.com/ekiwi/rtl-fuzz-lab/blob/main/LICENSE)
   - RTLFuzzLab is designed to allow for easy experimentation with Coverage Directed Mutational Fuzz Testing on RTL designs.
++ [hw-fuzzing](https://github.com/googleinterns/hw-fuzzing) (UMich, Google, Virginia Tech), under [Apache License 2.0](https://github.com/googleinterns/hw-fuzzing/blob/master/LICENSE)
+  + To automate test vector generation in an intelligent manner---that boosts coverage---without requiring expensive Design Verification (DV) engineers and tools.
 
 ### see also [Logic Simulation](https://openbelt.org.cn/wiki/analysis/logic/)
