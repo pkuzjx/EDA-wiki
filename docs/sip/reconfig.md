@@ -38,7 +38,11 @@
 + [SiLago Fabric](https://github.com/silagokth/fabric) (KTH), under [GNU General Public License v3.0](https://github.com/silagokth/fabric/blob/master/LICENSE.md)
   - This is the VHDL description of the DRRA and DiMArch CGRA fabric developed by KTH.
   - With [manas](https://github.com/silagokth/manas) assembler and [vesyla](https://github.com/silagokth/vesyla) algorithmic synthesis tool.
+
+### Coarse-grain Reconfigurable Compilers
 + [CCF](https://github.com/cmlasu/ccf) (ASU)
   - CCF (CGRA Compilation Framework) is an end-to-end prototype demonstrating the code generation and simulation process for CGRA accelerators. 
 + [CML-CGRA](https://github.com/hoangt/cml-cgra) (ASU)
   - SMRA v2.0 (or Software Managed Reconfigurable Accelerator) is initiative of the compiler-microarchitecture lab to boost and promote development of reconfigurable accelerators, containing REGIMap, Instruction Generator/Compiler Backend and Architectural Simulator (gem5). 
++ [CGRAOmp](https://github.com/hal-lab-u-tokyo/CGRAOmp) (UTokyo), under [MIT License](https://github.com/hal-lab-u-tokyo/CGRAOmp/blob/master/LICENSE)
+  - CGRAOmp is a front-end to compile OpenMP codes for Coarse-Grained Reconfigurable Architectures (CGRAs) based on LLVM.
