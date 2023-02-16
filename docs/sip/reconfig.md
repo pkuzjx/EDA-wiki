@@ -38,6 +38,8 @@
 + [SiLago Fabric](https://github.com/silagokth/fabric) (KTH), under [GNU General Public License v3.0](https://github.com/silagokth/fabric/blob/master/LICENSE.md)
   - This is the VHDL description of the DRRA and DiMArch CGRA fabric developed by KTH.
   - With [manas](https://github.com/silagokth/manas) assembler and [vesyla](https://github.com/silagokth/vesyla) algorithmic synthesis tool.
++ [UE-CGRA](https://github.com/cornell-brg/torng-uecgra-scripts-hpca2021) (Cornell)
+  - HPCA'21 paper artifact: Analytical performance and energy model (used for both analytical design-space exploration and for the compiler power-mapping pass). A docker image with the CGRA compiler and the RTL source code.
 
 ### Coarse-grain Reconfigurable Compilers
 + [CCF](https://github.com/cmlasu/ccf) (ASU)
