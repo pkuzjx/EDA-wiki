@@ -1,5 +1,5 @@
 ### Cores
-+ [RISC-V Cores](https://riscv.org/core/)
++ [RISC-V Cores](https://riscv.org/exchange/?_sft_exchange_category=core,cores)
   - Various cores and SoCs that endeavor to implement the RISC-V specification
 + [ao486](https://github.com/alfikpl/ao486) (Aleksander Osman), under [BSD 2-Clause License](https://github.com/alfikpl/ao486/blob/master/LICENSE)
   - The ao486 is an x86 compatible Verilog core implementing all features of a 486 SX.
