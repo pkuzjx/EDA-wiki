@@ -15,6 +15,8 @@
   - Network on Chip Implementation Written in SystemVerilog.
 + [NoCRouter](https://github.com/agalimberti/NoCRouter) (Politecnico di Milano), under [MIT License](https://github.com/agalimberti/NoCRouter/blob/master/LICENSE)
   - A Network-on-Chip interconnection module with a 2D mesh topology, enabling the connection of computing nodes either in a direct or indirect network.
++ [nocgen](https://github.com/matutani/nocgen) (Keio U)
+  - This package includes a Perl script that generates Verilog HDL codes of on-chip network consisting of virtual-channel routers.
 + [Canal](https://github.com/StanfordAHA/canal) (Stanford)
   - Canal is a DSL that constructs the interconnect through its internal directed-graph representation.
 
