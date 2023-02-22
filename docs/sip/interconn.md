@@ -29,6 +29,8 @@
   - ORION3.0 fundamental differs from earlier versions of ORION in that the estimation models are derived from actual post P&R layout area and power data that correspond to the actual RTL generator and the actual target cell library.
 + [HNoCS](https://github.com/yanivbi/HNOCS) (Technion)
   - HNOCS is an open-source implementation of a NoC simulation framework using OMNeT++.
++ [RTL2Booksim](https://github.com/mohsaied/rtl2booksim) (UToronto), under [GNU General Public License v2.0](https://github.com/mohsaied/rtl2booksim/blob/master/LICENSE)
+  - This tool allows connecting C/C++ simulators, or RTL (Verilog) designs to Booksim.
 
 ### Photonic Noc Simulators
 - [DSENT](https://sites.google.com/site/mitdsent/) (MIT)
