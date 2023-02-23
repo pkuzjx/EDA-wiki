@@ -21,6 +21,8 @@
 ### Coarse-grain Reconfigurable Fabrics
 + [pillars](https://github.com/pku-dasys/pillars) (PKU), under [MIT License](https://github.com/pku-dasys/pillars/blob/master/LICENSE)
   - An open-source CGRA design framework with consistency to assist in design space exploration and hardware optimization of CGRAs.
++ [TRAM](https://github.com/yhqiu16/TRAM) (Fudan), under [BSD 3-Clause License](https://github.com/yhqiu16/TRAM/blob/main/LICENSE)
+  - Template-based Reconfigurable Architecture Modeling Framework.
 + [Stream Specialization CGRA Generator](https://github.com/PolyArch/dsa-cgra-gen) (UCLA)
   - As a submodule of [dsa-framework](https://github.com/PolyArch/dsa-framework), dsa-cgra-gen use JSON to describe CGRA, see example IR in IR directory.
 + [garnet](https://github.com/StanfordAHA/garnet) (Stanford), under [BSD 3-Clause License](https://github.com/StanfordAHA/garnet/blob/master/LICENSE)
