@@ -14,8 +14,14 @@
    - The purpose of this site is to host source code, binaries and documentation of software for combinational and sequential logic synthesis. Currently, the following libraries are made available: Espresso, SIS, MVSIS and BALM.
  - [QuteRTL](https://github.com/chengyinwu/QuteRTL) (NTU), under [GNU General Public License v3.0](https://github.com/chengyinwu/QuteRTL/blob/master/COPYING)
    - A RTL Front-End Towards Intelligent Synthesis and Verification.
+ - [FLowGen-CNNs-DAC18](https://github.com/ycunxi/FLowGen-CNNs-DAC18) (EPFL), under [MIT License](https://github.com/ycunxi/FLowGen-CNNs-DAC18/blob/master/LICENSE.md)
+   - Developing Synthesis Flows without Human Knowledge.
  - [FlowTune](https://github.com/Yu-Utah/FlowTune) (U of Utah)
    - Practical Multi-armed Bandits in Boolean Optimization.
+ - [DRiLLS](https://github.com/scale-lab/DRiLLS) (Brown U), under [BSD 3-Clause License](https://github.com/scale-lab/DRiLLS/blob/master/LICENSE)
+   - Deep Reinforcement Learning for Logic Synthesis Optimization
+- [SNS’s not a Synthesizer (SNS)](https://github.com/Entropy-xcy/sns) (Duke)
+   - predicts the area, power, and timing physical characteristics of a broad range of de- signs at two to three orders of magnitude faster than the Synopsys Design Compiler while providing on average a 0.4998 RRSE (root relative square error)
 
 ### Approximate Logic Synthesis
 - [ALSRAC](https://github.com/SJTU-ECTL/ALSRAC) (SJTU)
