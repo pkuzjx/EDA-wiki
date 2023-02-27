@@ -19,6 +19,11 @@
 
 <!--- - Gogul Ilango's notes [ASIC Design](https://gogul09.github.io/asic-design)-->
 
+## AI for EDA
++ CUHK [awesome-ai4eda](https://ai4eda.github.io/)
++ THU [awesome-ai4eda](https://github.com/thu-nics/awesome_ai4eda)
++ SJTU [awesome-ai4eda](https://github.com/Thinklab-SJTU/awesome-ai4eda)
+
 ## Misc.
 + [Computer Engineering Resources](https://github.com/rajesh-s/computer-engineering-resources)
   - A curated catalogue of Computer Engineering/Computer Architecture/Computer Systems resources.
