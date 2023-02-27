@@ -5,7 +5,9 @@
   - A set of programs for partitioning graphs, partitioning finite element meshes, and producing fill reducing orderings for sparse matrices.
 
 ### Placer
- - [DREAMPlace](https://github.com/limbo018/DREAMPlace) (UT Austin)
+ - [Xplace](https://github.com/cuhk-eda/Xplace) (CUHK), under [BSD 3-Clause License](https://github.com/cuhk-eda/Xplace/blob/main/LICENSE)
+   - Xplace is a fast and extensible GPU accelerated global placement framework developed by the research team supervised by Prof. Evangeline F. Y. Young at The Chinese University of Hong Kong (CUHK).
+ - [DREAMPlace](https://github.com/limbo018/DREAMPlace) (UT Austin), under [BSD 3-Clause License](https://github.com/limbo018/DREAMPlace/blob/master/LICENSE)
    - A GPU-accelerated analytical placement tool.
  - OpenROAD [RePlAce](https://github.com/The-OpenROAD-Project/RePlAce) (UCSD)
    - A global placement tool with advancing solution quality and routability validation.
