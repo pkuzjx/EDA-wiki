@@ -7,6 +7,8 @@
   - LibrEDA DB is a collection of data structures for chip layouts and netlists.
 
 ### HDL (Verilog, VHDL, etc.)
++ [SystemVerilog support for Yosys](https://github.com/antmicro/yosys-systemverilog) (Antmicro), under [Apache License 2.0](https://github.com/antmicro/yosys-systemverilog/blob/master/LICENSE)
+  - This repository puts together all the moving parts needed to get SystemVerilog support enabled in Yosys.
 + [Icarus Verilog](https://github.com/steveicarus/iverilog) (Stephen Williams), under [GNU Lesser General Public License v2.1](https://github.com/steveicarus/iverilog/blob/master/COPYING)
   - A Verilog simulation and synthesis tool compiling source code written in Verilog (IEEE-1364) into some target format.
 + [moore](https://github.com/fabianschuiki/moore) (Fabian Schuiki), under dual licensing: [Apache License 2.0](https://github.com/fabianschuiki/moore/blob/master/LICENSE-APACHE) or [MIT License](https://github.com/fabianschuiki/moore/blob/master/LICENSE-MIT)
