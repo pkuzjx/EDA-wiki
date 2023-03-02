@@ -6,6 +6,8 @@
    - A world-wide collaborative effort to provide a open-source framework for conducting FPGA architecture and CAD research and development.
 + [RAD Flow](https://github.com/andrewboutros/rad-flow) (U Toronto, Intel)
   - The RAD flow is an open source academic architecture exploration and evaluation flow for novel beyond-FPGA reconfigurable acceleration devices (RADs).
++ [OSS CAD Suite](https://github.com/YosysHQ/oss-cad-suite-build), under [ISC License](https://github.com/YosysHQ/oss-cad-suite-build/blob/master/COPYING)
+  - OSS CAD Suite is a binary software distribution for a number of open source software used in digital logic design.
 + [IceStorm](http://www.clifford.at/icestorm/) (Clifford Wolf)
   - Aims at reverse engineering and documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
   - A working fully open source flow with Yosys and Arachne-pnr.
