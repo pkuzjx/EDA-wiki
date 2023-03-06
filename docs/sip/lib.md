@@ -12,6 +12,8 @@
   - SMT-based Simultaneous Place-&-Route for Standard Cell Synthesis for PROBE 2.0.
 
 ### Hardware Functional Libraries
++ [FPnew](https://github.com/openhwgroup/cvfpu) (ETH Zürich), under [SOLDERPAD HARDWARE LICENSE](https://github.com/openhwgroup/cvfpu/blob/develop/LICENSE)
+  - Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats, written in SystemVerilog.
 + [FP-Gen](https://github.com/StanfordVLSI/FP-Gen) (Stanford), under [BSD 3-Clause "New" or "Revised" License](https://github.com/StanfordVLSI/FP-Gen/blob/master/LICENSE)
   - A Floating Point Adder/Multiplier/Multiply-Accumulate generator and testbench.
 + [ArithsGen](https://github.com/ehw-fit/ariths-gen) (Brno University of Technology)
