@@ -7,6 +7,10 @@
    - The GNU circuit analysis package.
  - [SPICE](http://bwrcs.eecs.berkeley.edu/Classes/IcBook/SPICE/) (Berkeley)
    - A general-purpose circuit simulation program for nonlinear dc, nonlinear transient, and linear ac analyses.
+ - [CKTSO](https://github.com/chenxm1986/cktso) (ICT)
+   - CKTSO is a high-performance parallel sparse direct solver specially designed for SPICE-based circuit simulation.
+ - [CKTSO-GPU](https://github.com/chenxm1986/cktso-gpu) (ICT)
+   - CKTSO-GPU is a GPU acceleration module of CKTSO, a high-performance parallel sparse direct solver specially designed for SPICE-based circuit simulation.
  - [NICSLU](https://github.com/chenxm1986/nicslu) (Tsinghua)
    - Parallel sparse direct solver for circuit simulation.
  - [mixedsim](https://github.com/Isotel/mixedsim) (Isotel)
