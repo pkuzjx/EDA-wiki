@@ -3,14 +3,16 @@
   - The XLS (Accelerated HW Synthesis) project aims to enable the rapid development of hardware IP that also runs as efficient host software via "software style" methodology.
 - [OpenHLS](https://github.com/makslevental/openhls) (UChicago), under [MIT License](https://github.com/makslevental/openhls/blob/main/LICENSE)
   - This a framework for lowering PyTorch models to RTL using high-level synthesis (HLS) techniques.
+- [Dynamatic](https://github.com/lana555/dynamatic) (EPFL), under [MIT License](https://github.com/lana555/dynamatic/blob/master/LICENSE)
+  - Dynamatic is an academic, open-source high-level synthesis compiler that produces synchronous dynamically-scheduled circuits from C/C++ code.
+- [Intel Compiler for SystemC](https://github.com/intel/systemc-compiler) (Intel), under [Apache License v2.0](https://github.com/intel/systemc-compiler/blob/main/LICENSE.txt)
+  - Intel® Compiler for SystemC* (ICSC) translates synthesizable SystemC design to synthesizable SystemVerilog design.
 - [ScaleHLS](https://github.com/hanchenye/scalehls) (UIUC), under [Apache License 2.0](https://github.com/hanchenye/scalehls/blob/master/LICENSE)
   - ScaleHLS is a next-generation HLS compilation flow, on top of a multi-level compiler infrastructure called MLIR.
 - [muIR-Generator, a.k.a. Dandelion](https://github.com/sfu-arch/muir) (SFU), under [MIT License](https://github.com/sfu-arch/muir/blob/master/LICENSE)
   - muIR-Generator is a tool to generate hardware accelerator from software programs.
 - [LegUp](http://legup.eecg.utoronto.ca/) (Toronto), under [LegUp Software End-User License](http://legup.eecg.utoronto.ca/license.php)
   - A high-level synthesis tool to improve C to Verilog synthesis without building an infrastructure from scratch.
-- [Dynamatic](https://github.com/lana555/dynamatic) (EPFL), under [MIT License](https://github.com/lana555/dynamatic/blob/master/LICENSE)
-  - Dynamatic is an academic, open-source high-level synthesis compiler that produces synchronous dynamically-scheduled circuits from C/C++ code.
 - [PandA](https://panda.dei.polimi.it/) (Politecnico di Milano), under GNU General Public License v3.0
   - A usable framework that will enable the research of new ideas in the HW-SW Co-Design field.
 - [Hastlayer](https://github.com/Lombiq/Hastlayer-SDK) (Lombiq Technologies), under [BSD 3-Clause License](https://github.com/Lombiq/Hastlayer-SDK/blob/client/Licence.md)
