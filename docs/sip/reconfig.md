@@ -46,6 +46,8 @@
   - HPCA'21 paper artifact: Analytical performance and energy model (used for both analytical design-space exploration and for the compiler power-mapping pass). A docker image with the CGRA compiler and the RTL source code.
 
 ### Coarse-grain Reconfigurable Compilers
++ [SYCL for Vitis 2022.1](https://github.com/triSYCL/sycl) (Xilinx), under [Apache License v2.0](https://github.com/triSYCL/sycl/blob/sycl/unified/master/LICENSE.TXT)
+  - Experimental melting pot with Intel oneAPI DPC++ SYCL and triSYCL for AMD/Xilinx FPGA.
 + [CCF](https://github.com/cmlasu/ccf) (ASU)
   - CCF (CGRA Compilation Framework) is an end-to-end prototype demonstrating the code generation and simulation process for CGRA accelerators. 
 + [CML-CGRA](https://github.com/hoangt/cml-cgra) (ASU)
