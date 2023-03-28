@@ -32,6 +32,8 @@
   - Similar projects: [Torc](https://github.com/torc-isi/torc), [RapidSmith](http://rapidsmith.sourceforge.net/), and [RapidSmith2](https://github.com/byuccl/RapidSmith2)
 + OSFPGA [openFPGALoader](https://github.com/trabucayre/openFPGALoader), under [GNU Affero General Public License v3.0](https://github.com/trabucayre/openFPGALoader/blob/master/LICENSE)
   - Universal utility for programming FPGA.
++ [reloc](https://github.com/bgottschall/reloc) (TU Dresden), under [MIT License](https://github.com/bgottschall/reloc/blob/master/LICENSE)
+  - An Open-Sourced Vivado Workflow for Generating Relocatable, Out-Of-Context End-User Configuration Tiles.
 + [SpyDrNet](https://github.com/byuccl/spydrnet) (BYU), under [BSD 3-Clause License](https://github.com/byuccl/spydrnet/blob/master/LICENSE)
   - A flexible framework for analyzing and transforming netlists. Built to fill an important gap in FPGA research and reliability.
 + [chisel-vitis-template](https://github.com/Wolf-Tungsten/chisel-vitis-template) (CAS ICT)
