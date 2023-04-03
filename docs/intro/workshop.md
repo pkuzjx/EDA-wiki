@@ -2,7 +2,7 @@
 
 ### Workshops (that focus on open source EDA)
 - [WOSET: Workshop on Open-Source EDA Technology](https://woset-workshop.github.io/)
-  - WOSET [2020](https://woset-workshop.github.io/) | [2019](https://woset-workshop.github.io/WOSET2019.html) | [2018](https://woset-workshop.github.io/WOSET2018.html), co-located with ICCAD.
+  - WOSET [2022](https://woset-workshop.github.io/WOSET2022.html) | [2021](https://woset-workshop.github.io/WOSET2021.html) | [2020](https://woset-workshop.github.io/) | [2019](https://woset-workshop.github.io/WOSET2019.html) | [2018](https://woset-workshop.github.io/WOSET2018.html), co-located with ICCAD.
 - OSDA: Workshop on Open Source Design Automation
   - OSDA [2020](http://osda.ws/) | [2019](https://osda.gitlab.io/), co-located with DATE.
 - DAC Birds of a Feather: Open Source Academic EDA Software
