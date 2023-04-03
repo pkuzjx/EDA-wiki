@@ -9,11 +9,13 @@
   - [DAC 2019 BOF](https://github.com/The-OpenROAD-Project/Birds-of-a-Feather-Open-Source-Academic-EDA-Software/wiki/DAC-2019-Birds-of-a-Feather:-Open-Source-Academic-EDA-Software), June 5, 2019; Las Vegas, NV, USA.
 
 ### Workshops (that focus on open source hardware but also mention EDA tools)
-- [ORConf: The open source digital design conferece](https://orconf.org/)
++ [ORConf: The open source digital design conferece](https://orconf.org/)
   - ORConfs [2018](https://orconf.org/2018/) | [2017](https://orconf.org/2017/) | [2016](https://orconf.org/2016/) | [2015](https://orconf.org/2015/) | [2014](https://orconf.org/2014/) | [2013](https://orconf.org/2013/) | [2012](https://orconf.org/2012/)
-- [Free Silicon Conference (FSiC)](https://f-si.org/)
++ [Free Silicon Conference (FSiC)](https://f-si.org/)
   - FSiC [2021](https://wiki.f-si.org/index.php/FSiC2021) | [2019](https://wiki.f-si.org/index.php/FSiC2019)
-- [Open Source Developer Forum (OSDF)](https://www.osdforum.org/)
++ [Latch-Up](https://www.fossi-foundation.org/latchup/)
+  - Latch-Up [2023](https://www.fossi-foundation.org/latchup/)
++ [Open Source Developer Forum (OSDF)](https://www.osdforum.org/)
   - OSDF [2020](https://www.osdforum.org/) | [2019](https://www.osdforum.org/2019/)
 
 ### Conference Sessions
