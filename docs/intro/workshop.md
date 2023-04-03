@@ -19,6 +19,7 @@
   - OSDF [2020](https://www.osdforum.org/) | [2019](https://www.osdforum.org/2019/)
 
 ### Conference Sessions
+- [ICCAD 2022 Special Session 2A: Democratizing Design Automation with Open-Source tools](https://2022.iccad.com/technical-program/)
 - [ICCAD 2020 Session 7D: Opensource Tools and Platforms for Agile Development of Specialized Architectures](https://iccad.com/event_details?id=305-7-D)
 - [ICCAD 2020 Session 8D: Taking Open-Source EDA to the Next Level: From Research to Production IC Design](https://iccad.com/event_details?id=305-8-D)
 - [ICCAD 2019 Session 8D: Results, Perspectives and Trends on Open-Source EDA](https://www.mpassociates.com/events/browseproceedings.aspx?confid=283), November 4-7, 2019; Westminster, CO, USA.
