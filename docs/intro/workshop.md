@@ -12,7 +12,7 @@
 + [ORConf: The open source digital design conferece](https://orconf.org/)
   - ORConfs [2018](https://orconf.org/2018/) | [2017](https://orconf.org/2017/) | [2016](https://orconf.org/2016/) | [2015](https://orconf.org/2015/) | [2014](https://orconf.org/2014/) | [2013](https://orconf.org/2013/) | [2012](https://orconf.org/2012/)
 + [Free Silicon Conference (FSiC)](https://f-si.org/)
-  - FSiC [2021](https://wiki.f-si.org/index.php/FSiC2021) | [2019](https://wiki.f-si.org/index.php/FSiC2019)
+  - FSiC [2022](https://wiki.f-si.org/index.php?title=FSiC2022) | [2019](https://wiki.f-si.org/index.php/FSiC2019)
 + [Latch-Up](https://www.fossi-foundation.org/latchup/)
   - Latch-Up [2023](https://www.fossi-foundation.org/latchup/)
 + [Open Source Developer Forum (OSDF)](https://www.osdforum.org/)
