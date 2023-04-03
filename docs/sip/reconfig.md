@@ -48,7 +48,11 @@
 ### Coarse-grain Reconfigurable Compilers
 + [SYCL for Vitis 2022.1](https://github.com/triSYCL/sycl) (Xilinx), under [Apache License v2.0](https://github.com/triSYCL/sycl/blob/sycl/unified/master/LICENSE.TXT)
   - Experimental melting pot with Intel oneAPI DPC++ SYCL and triSYCL for AMD/Xilinx FPGA.
-+ [CCF](https://github.com/cmlasu/ccf) (ASU)
++ [SODA-OPT](https://gitlab.pnnl.gov/sodalite/soda-opt) (PNNL), under [BSD 3-Clause License](https://gitlab.pnnl.gov/sodalite/soda-opt/-/blob/main/LICENSE.txt)
+  - This project aims to create soda-opt, a tool that leverages mlir to extract, optimize, and translate high-level code snippets into LLVM IR, so that they can be synthesized by our high-level synthesis tool of choice.
++ [dMazeRunner](https://github.com/MPSLab-ASU/dMazeRunner) (ASU), under [MIT License](https://github.com/MPSLab-ASU/dMazeRunner/blob/master/LICENSE)
+  - dMazeRunner is a framework for automated and efficient search-space and design-space exploration for executing loop kernels on coarse-grained programmable dataflow accelerators.
++ [CCF](https://github.com/MPSLab-ASU/ccf) (ASU)
   - CCF (CGRA Compilation Framework) is an end-to-end prototype demonstrating the code generation and simulation process for CGRA accelerators. 
 + [CML-CGRA](https://github.com/hoangt/cml-cgra) (ASU)
   - SMRA v2.0 (or Software Managed Reconfigurable Accelerator) is initiative of the compiler-microarchitecture lab to boost and promote development of reconfigurable accelerators, containing REGIMap, Instruction Generator/Compiler Backend and Architectural Simulator (gem5). 
