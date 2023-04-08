@@ -1,6 +1,8 @@
 ### Hardware Construction Language (HCL) or High-Level HDL
 + [ActiveCore](https://github.com/AntonovAlexander/activecore) (ITMO)
   - A framework that demonstrates original hardware designing concept based on "Micro-Language IP" (MLIP) cores.
++ [Amaranth HDL](https://github.com/amaranth-lang/amaranth), under [BSD 2-Clause License](https://github.com/amaranth-lang/amaranth/blob/main/LICENSE.txt)
+  - The Amaranth project provides an open-source toolchain for developing hardware based on synchronous digital logic using the Python programming language, as well as evaluation board definitions, a System on Chip toolkit, and more.
 + [BSV/BH](https://github.com/BSVLang/Main) (Bluespec, Sandburst, MIT), under [MIT License](https://github.com/BSVLang/Main/blob/master/LICENSE)
   - Bluespec SystemVerilog (BSV) and Bluespec Haskell (BH or Bluespec Classic), a high-level hardware description language.
   - [Bluespec Compiler](https://github.com/B-Lang-org/bsc) (Bluespec), most under [BSD-3-Clause License](https://github.com/B-Lang-org/bsc/blob/main/COPYING)
