@@ -1,4 +1,6 @@
 ### Formal Verfication
+- [ChiselFV](https://github.com/Moorvan/ChiselFV) (ECNU)
+  - A Formal Verification Framework for Chisel
 - [SymbiYosys](https://github.com/YosysHQ/SymbiYosys) (Clifford Wolf)
   - Front-end for Yosys-based formal verification flows.
 - [CoSA](https://github.com/cristian-mattarei/CoSA) (Stanford), under [BSD 3-Clause License](https://github.com/cristian-mattarei/CoSA/blob/master/LICENSE.txt)
