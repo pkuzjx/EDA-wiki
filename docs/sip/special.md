@@ -23,8 +23,8 @@
   - Democratizing Decoupled Spatial Architecture Research.
 + [Gemmini](https://github.com/ucb-bar/gemmini) (Berkeley), under [BSD 3-clause License](https://github.com/ucb-bar/gemmini/blob/master/LICENSE)
   - A systolic-array based matrix multiplication accelerator generator for the investigation of SoC integration of such accelerators.
-+ [TCE ASIP](https://github.com/cpc/tce/) (Tampere University)
-  - TTA-based Co-Design Environment (TCE) is an open application-specific instruction-set processor (ASIP) toolset for design and programming of customized co-processors (typically programmable accelerators). 
++ [OpenASIP](https://github.com/cpc/openasip) (Tampere University), under [GNU Lesser General Public License v2.1](https://github.com/cpc/openasip/blob/main/LICENSE.txt)
+  - OpenASIP (formerly TTA-based Co-design Environment or TCE) is an open application-specific instruction-set toolset. It can be used to design and program customized processors based on the energy efficient Transport Triggered Architecture (TTA).
 
 ### DNN and Tensor Accelerators
  - [AccDNN](https://github.com/IBM/AccDNN) (IBM, UIUC)
