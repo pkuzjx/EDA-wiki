@@ -23,6 +23,8 @@
 ### NoC Simulators
 + [Noxim](https://github.com/davidepatti/noxim) (Univ. of Catania), under [GNU General Public License v2.0](https://github.com/davidepatti/noxim/blob/master/doc/LICENSE.txt)
   - A SystemC cycle-accurate Simulator for On-Chip Networks.
++ [Proteus](https://github.com/synergy-noc-generators/Proteus) (GaTech)
+  - NoC simulator on FPGA using HLS
 + [NIRGAM v2.0](http://nirgam.ecs.soton.ac.uk/) (Univ. of Southampton, Malaviya National Institute of Technology), [limited to non-commercial educational and research activities](http://nirgam.ecs.soton.ac.uk/Download.php)
   - A systemC based discrete event, cycle accurate simulator for research in Network on Chip (NoC).
 + [BookSim 2.0](https://github.com/booksim/booksim2) (Stanford), under [BSD 2-Clause License](https://github.com/booksim/booksim2/blob/master/LICENSE.md)
