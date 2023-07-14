@@ -1,4 +1,6 @@
 ### High-level Synthesis (HLS)
+- [circt-hls](https://github.com/circt-hls/circt-hls)
+  - CIRCT-based HLS compilation flows, debugging, and cosimulation tools.
 - [XLS](https://github.com/google/xls) (Google), under [Apache License 2.0](https://github.com/google/xls/blob/main/LICENSE)
   - The XLS (Accelerated HW Synthesis) project aims to enable the rapid development of hardware IP that also runs as efficient host software via "software style" methodology.
 - [OpenHLS](https://github.com/makslevental/openhls) (UChicago), under [MIT License](https://github.com/makslevental/openhls/blob/main/LICENSE)
