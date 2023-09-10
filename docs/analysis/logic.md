@@ -14,6 +14,8 @@
   - A digital circuit editor and simulator with a Tcl/Tk-based interface.
 + [logisim-evolution](https://github.com/reds-heig/logisim-evolution) (a group of Swiss institutes), under [GNU General Public License v3.0](https://github.com/reds-heig/logisim-evolution/blob/master/LICENSE.md)
   - Logisim is an educational tool for designing and simulating digital logic circuits.
++ [DigitalJS](https://github.com/tilk/digitaljs) (U of Wrocław), under [BSD 2-Clause "Simplified" License](https://github.com/tilk/digitaljs/blob/master/LICENSE)
+  - Teaching-focused digital circuit simulator
 + Icarus Verilog and EpicSim in [标准格式](../../flow/standard/)
 
 ### Wave Viewer
