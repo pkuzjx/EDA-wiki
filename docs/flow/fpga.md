@@ -8,8 +8,6 @@
   - The RAD flow is an open source academic architecture exploration and evaluation flow for novel beyond-FPGA reconfigurable acceleration devices (RADs).
 + [OSS CAD Suite](https://github.com/YosysHQ/oss-cad-suite-build), under [ISC License](https://github.com/YosysHQ/oss-cad-suite-build/blob/master/COPYING)
   - OSS CAD Suite is a binary software distribution for a number of open source software used in digital logic design.
-+ [hdlmake](https://hdlmake.readthedocs.io/en/master/) (CERN), under [ GNU General Public License v3.0](https://ohwr.org/project/hdl-make/blob/master/COPYING)
-  - A tool designed to help FPGA designers to manage and share their HDL code by automatically finding file dependencies, writing synthesis & simulation Makefiles, and fetching IP-Core libraries from remote repositories.
 + [IceStorm](http://www.clifford.at/icestorm/) (Clifford Wolf)
   - Aims at reverse engineering and documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
   - A working fully open source flow with Yosys and Arachne-pnr.
@@ -23,6 +21,8 @@
 ### FPGA Flow Composer
 + [Edalize](https://github.com/olofk/edalize) (Olof Kindgren), under [BSD 2-Clause License](https://github.com/olofk/edalize/blob/master/LICENSE)
   - Edalize is a Python Library for interacting with EDA tools.
++ [hdlmake](https://hdlmake.readthedocs.io/en/master/) (CERN), under [ GNU General Public License v3.0](https://ohwr.org/project/hdl-make/blob/master/COPYING)
+  - A tool designed to help FPGA designers to manage and share their HDL code by automatically finding file dependencies, writing synthesis & simulation Makefiles, and fetching IP-Core libraries from remote repositories.
 + [PyFPGA](https://github.com/PyFPGA/pyfpga), under [GNU General Public License v3.0](https://github.com/PyFPGA/pyfpga/blob/main/LICENSE)
   - PyFPGA is a Python Class for vendor-independent FPGA development.
 + [DATuner](https://github.com/cornell-zhang/datuner) (Cornell, PKU)
