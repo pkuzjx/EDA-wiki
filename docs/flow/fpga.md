@@ -1,13 +1,15 @@
 ### FPGA Flow
-+ OSFPGA [SymbiFlow](https://symbiflow.github.io/)
++ F4PGA [SymbiFlow](https://symbiflow.github.io/)
   - A Verilog-to-Bitstream (end-to-end) FPGA synthesis flow.
   - Target Xilinx 7-Series, Lattice iCE40 and Lattice ECP5 FPGAs.
-+ OSFPGA [VTR](https://github.com/verilog-to-routing/vtr-verilog-to-routing) (Toronto), under [VTR License](https://github.com/verilog-to-routing/vtr-verilog-to-routing/blob/master/LICENSE.md)
++ [VTR](https://github.com/verilog-to-routing/vtr-verilog-to-routing) (Toronto), under [VTR License](https://github.com/verilog-to-routing/vtr-verilog-to-routing/blob/master/LICENSE.md)
    - A world-wide collaborative effort to provide a open-source framework for conducting FPGA architecture and CAD research and development.
 + [RAD Flow](https://github.com/andrewboutros/rad-flow) (U Toronto, Intel)
   - The RAD flow is an open source academic architecture exploration and evaluation flow for novel beyond-FPGA reconfigurable acceleration devices (RADs).
 + [OSS CAD Suite](https://github.com/YosysHQ/oss-cad-suite-build), under [ISC License](https://github.com/YosysHQ/oss-cad-suite-build/blob/master/COPYING)
   - OSS CAD Suite is a binary software distribution for a number of open source software used in digital logic design.
++ [hdlmake](https://hdlmake.readthedocs.io/en/master/) (CERN), under [ GNU General Public License v3.0](https://ohwr.org/project/hdl-make/blob/master/COPYING)
+  - A tool designed to help FPGA designers to manage and share their HDL code by automatically finding file dependencies, writing synthesis & simulation Makefiles, and fetching IP-Core libraries from remote repositories.
 + [IceStorm](http://www.clifford.at/icestorm/) (Clifford Wolf)
   - Aims at reverse engineering and documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
   - A working fully open source flow with Yosys and Arachne-pnr.
@@ -19,7 +21,7 @@
   - An open-source toolchain to design and evaluate island style spatial automata processing architectures.
 
 ### FPGA Flow Composer
-+ OSFPGA [Edalize](https://github.com/olofk/edalize) (Olof Kindgren), under [BSD 2-Clause License](https://github.com/olofk/edalize/blob/master/LICENSE)
++ [Edalize](https://github.com/olofk/edalize) (Olof Kindgren), under [BSD 2-Clause License](https://github.com/olofk/edalize/blob/master/LICENSE)
   - Edalize is a Python Library for interacting with EDA tools.
 + [PyFPGA](https://github.com/PyFPGA/pyfpga), under [GNU General Public License v3.0](https://github.com/PyFPGA/pyfpga/blob/main/LICENSE)
   - PyFPGA is a Python Class for vendor-independent FPGA development.
@@ -30,7 +32,7 @@
 + [RapidWright](https://github.com/Xilinx/RapidWright.git) (Xilinx)
   - Provide Vivado Interface for users to build customized FPGA implementations.
   - Similar projects: [Torc](https://github.com/torc-isi/torc), [RapidSmith](http://rapidsmith.sourceforge.net/), and [RapidSmith2](https://github.com/byuccl/RapidSmith2)
-+ OSFPGA [openFPGALoader](https://github.com/trabucayre/openFPGALoader), under [GNU Affero General Public License v3.0](https://github.com/trabucayre/openFPGALoader/blob/master/LICENSE)
++ [openFPGALoader](https://github.com/trabucayre/openFPGALoader), under [GNU Affero General Public License v3.0](https://github.com/trabucayre/openFPGALoader/blob/master/LICENSE)
   - Universal utility for programming FPGA.
 + [reloc](https://github.com/bgottschall/reloc) (TU Dresden), under [MIT License](https://github.com/bgottschall/reloc/blob/master/LICENSE)
   - An Open-Sourced Vivado Workflow for Generating Relocatable, Out-Of-Context End-User Configuration Tiles.
