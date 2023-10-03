@@ -23,6 +23,8 @@
   - Edalize is a Python Library for interacting with EDA tools.
 + [hdlmake](https://hdlmake.readthedocs.io/en/master/) (CERN), under [ GNU General Public License v3.0](https://ohwr.org/project/hdl-make/blob/master/COPYING)
   - A tool designed to help FPGA designers to manage and share their HDL code by automatically finding file dependencies, writing synthesis & simulation Makefiles, and fetching IP-Core libraries from remote repositories.
++ [BFASST](https://github.com/byuccl/bfasst) (BYU)
+  - Tools for FPGA Assurance Flows.
 + [PyFPGA](https://github.com/PyFPGA/pyfpga), under [GNU General Public License v3.0](https://github.com/PyFPGA/pyfpga/blob/main/LICENSE)
   - PyFPGA is a Python Class for vendor-independent FPGA development.
 + [DATuner](https://github.com/cornell-zhang/datuner) (Cornell, PKU)
