@@ -3,6 +3,8 @@
   - ACT is an Asynchronous Circuit Toolkit which has been built from scratch to support the design and implementation of asynchronous logic.
 
 ### Analog and Mixed Signal
+- [OpenVAF](https://github.com/pascalkuthe/OpenVAF) (SemiMod GmbH), under [GNU General Public License v3.0](https://github.com/pascalkuthe/OpenVAF/blob/master/LICENSE)
+  - OpenVAF is a Verilog-A compiler that can compile Verilog-A files for use in circuit simulator.
 - [FASoC](https://github.com/idea-fasoc/fasoc) (UMich), under [MIT License](https://github.com/idea-fasoc/fasoc)
   - Fully-Autonomous SoC Synthesis using Customizable Cell-Based Synthesizable Analog Circuits.
 - [BAG: Berkeley Analog Generator](https://github.com/ucb-art/BAG_framework) (Berkeley)
