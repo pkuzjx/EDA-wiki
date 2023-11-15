@@ -1,13 +1,15 @@
 ### 开发环境
+* [TerosHDL](https://github.com/TerosTechnology/vscode-terosHDL)
+  - The goal of TerosHDL is to provide an open source IDE for HDL developers with functionalities commonly used by software developers.
+* OSFPGA [FOEDAG](https://github.com/os-fpga/FOEDAG.git), under [GPL License](https://github.com/os-fpga/FOEDAG/blob/main/LICENSE)
+  - FOEDAG denotes Qt-based Framework Open EDA Gui.
 * OSFPGA [VerilogCreator](https://github.com/rochus-keller/verilogcreator/), under [GNU General Public License v2.0](https://github.com/rochus-keller/VerilogCreator/blob/master/LICENSE.GPL2)
   - A QtCreator plugin; it turns QtCreator into a Verilog 2005 IDE.
-* [TerosHDL](https://github.com/TerosTechnology/terosHDL)
-  - The goal of TerosHDL is make the FPGA development easier and reliable.
-+ [EasySoC CHIP](https://github.com/easysoc/chip) (Xinjun Ma)
+* [EasySoC CHIP](https://github.com/easysoc/chip) (Xinjun Ma)
   - EasySoC CHIP is an Integrated Development Environment (IDE) and front-end EDA tool for Modern Hardware Design, based on IntelliJ IDEA. 
-+ [vtags](https://github.com/jimmysitu/vtags) (Jimmy Situ), under [BSD 2-Clause "Simplified" License](https://github.com/jimmysitu/vtags/blob/master/LICENSE)
+* [vtags](https://github.com/jimmysitu/vtags) (Jimmy Situ), under [BSD 2-Clause "Simplified" License](https://github.com/jimmysitu/vtags/blob/master/LICENSE)
   - Verdi like, verilog code signal trace and show hierarchy script.
-+ [ChipVault](http://freshmeat.sourceforge.net/projects/chipvault), under GPL License
+* [ChipVault](http://freshmeat.sourceforge.net/projects/chipvault), under GPL License
   - ChipVault is a chip development program for organizing VHDL and Verilog designs.
 
 ### 开发环境 (webware)
