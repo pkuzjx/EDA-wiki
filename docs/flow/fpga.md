@@ -17,6 +17,8 @@
   - A tool to simplify the creation, sharing, and software integration of FPGA hardware accelerators.
 + [Automata to Routing](https://github.com/jackwadden/Automata-to-Routing) (U.Va.)
   - An open-source toolchain to design and evaluate island style spatial automata processing architectures.
++ [Quicklogic FPGA Toolchain](https://github.com/QuickLogic-Corp/quicklogic-fpga-toolchain) (QuickLogic), under [Apache License v2.0](https://github.com/QuickLogic-Corp/quicklogic-fpga-toolchain/blob/master/LICENSE)
+  - SymbiFlow toolchain release packages for Quicklogic FPGAs.
 
 ### FPGA Flow Composer
 + [Edalize](https://github.com/olofk/edalize) (Olof Kindgren), under [BSD 2-Clause License](https://github.com/olofk/edalize/blob/master/LICENSE)
