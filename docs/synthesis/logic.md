@@ -1,6 +1,8 @@
 ### Logic Synthesis
- - [ALSO](https://github.com/nbulsi/also) (Ningbo Univ.), under [MIT License](https://github.com/nbulsi/also/blob/master/LICENSE)
+- [ALSO](https://github.com/nbulsi/also) (Ningbo Univ.), under [MIT License](https://github.com/nbulsi/also/blob/master/LICENSE)
    - Based on the [EPFL Logic Synthesis Libraries](https://github.com/lsils/lstools-showcase); aim to exploit advanced logic synthesis tools for both modern FPGA and emerging nanotechnologies.
+- [phyLS](https://gitcode.com/panhongyang0/phyLS/overview) (Hongyang Pan), under [MIT License](https://gitcode.com/panhongyang0/phyLS/blob/master/LICENSE)
+  - phyLS is based on the mockturtle and the abc, it can optimize different logics attributes. 
 - [ABC](https://github.com/berkeley-abc/abc) (Berkeley), under [a customized license](https://github.com/berkeley-abc/abc/blob/master/copyright.txt)
    - A sequential logic synthesis and formal verification tool.
  - OSFPGA [EPFL logic synthesis libraries](https://github.com/lsils/lstools-showcase), under [MIT License](https://github.com/lsils/lstools-showcase/blob/master/LICENSE)
