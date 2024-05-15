@@ -5,6 +5,8 @@
   - FOEDAG denotes Qt-based Framework Open EDA Gui.
 * OSFPGA [VerilogCreator](https://github.com/rochus-keller/verilogcreator/), under [GNU General Public License v2.0](https://github.com/rochus-keller/VerilogCreator/blob/master/LICENSE.GPL2)
   - A QtCreator plugin; it turns QtCreator into a Verilog 2005 IDE.
+* [Icestudio](https://github.com/FPGAwars/icestudio/), under [GNU General Public License v2.0](https://github.com/FPGAwars/icestudio/blob/develop/LICENSE)
+  - Visual editor for open FPGA boards.
 * [EasySoC CHIP](https://github.com/easysoc/chip) (Xinjun Ma)
   - EasySoC CHIP is an Integrated Development Environment (IDE) and front-end EDA tool for Modern Hardware Design, based on IntelliJ IDEA. 
 * [vtags](https://github.com/jimmysitu/vtags) (Jimmy Situ), under [BSD 2-Clause "Simplified" License](https://github.com/jimmysitu/vtags/blob/master/LICENSE)
