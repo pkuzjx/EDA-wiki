@@ -12,6 +12,8 @@
   - SMT-based Simultaneous Place-&-Route for Standard Cell Synthesis for PROBE 2.0.
 
 ### Hardware Functional Libraries
++ [Open Logic](https://github.com/open-logic/open-logic), under [PSI HDL Library License v1.0](https://github.com/open-logic/open-logic?tab=License-1-ov-file#readme)
+  - Open Logic aims to be for HDL projects what what stdlib is for C/C++ projects.
 + [FPnew](https://github.com/openhwgroup/cvfpu) (ETH Zürich), under [SOLDERPAD HARDWARE LICENSE](https://github.com/openhwgroup/cvfpu/blob/develop/LICENSE)
   - Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats, written in SystemVerilog.
 + [FP-Gen](https://github.com/StanfordVLSI/FP-Gen) (Stanford), under [BSD 3-Clause "New" or "Revised" License](https://github.com/StanfordVLSI/FP-Gen/blob/master/LICENSE)
