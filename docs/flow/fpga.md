@@ -1,4 +1,6 @@
 ### FPGA Flow
++ [logik](https://github.com/siliconcompiler/logik) (ZeroASIC), under [Apache License 2.0](https://github.com/siliconcompiler/logik/blob/main/LICENSE)
+  - Logik is an open source FPGA tool chain with support for high level language parsing, synthesis, placement, routing, bit-stream generation, and analysis. Users enter design sources, constraints, and compile options through a simple SiliconCompiler Python API.
 + F4PGA [SymbiFlow](https://symbiflow.github.io/)
   - A Verilog-to-Bitstream (end-to-end) FPGA synthesis flow.
   - Target Xilinx 7-Series, Lattice iCE40 and Lattice ECP5 FPGAs.
