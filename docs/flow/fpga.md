@@ -4,7 +4,7 @@
 + F4PGA [SymbiFlow](https://symbiflow.github.io/)
   - A Verilog-to-Bitstream (end-to-end) FPGA synthesis flow.
   - Target Xilinx 7-Series, Lattice iCE40 and Lattice ECP5 FPGAs.
-+ [VTR](https://github.com/verilog-to-routing/vtr-verilog-to-routing) (Toronto), under [VTR License](https://github.com/verilog-to-routing/vtr-verilog-to-routing/blob/master/LICENSE.md)
++ [VTR](https://github.com/verilog-to-routing/vtr-verilog-to-routing) (U Toronto), under [VTR License](https://github.com/verilog-to-routing/vtr-verilog-to-routing/blob/master/LICENSE.md)
    - A world-wide collaborative effort to provide a open-source framework for conducting FPGA architecture and CAD research and development.
 + [RAD Flow](https://github.com/andrewboutros/rad-flow) (U Toronto, Intel)
   - The RAD flow is an open source academic architecture exploration and evaluation flow for novel beyond-FPGA reconfigurable acceleration devices (RADs).
