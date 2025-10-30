@@ -1,4 +1,6 @@
 ### Logic Simulation
++ [GEM](https://github.com/NVlabs/GEM) (Peking U and NVIDIA), under [Apache License v2.0](https://github.com/NVlabs/GEM/blob/staged-aig-release/LICENSE)
+  - GEM is an open-source RTL logic simulator with CUDA acceleration, developed and maintained by NVIDIA Research.
 + [Verilator](https://www.veripool.org/wiki/verilator) (Wilson Snyder), under [GNU Lesser General Public License v3.0](https://github.com/verilator/verilator/blob/master/LICENSE)
   - A fast free Verilog/SystemVerilog simulator.
 + [Cascade](https://github.com/vmware-archive/cascade) (VMware), under [BSD 2-Clause License](https://github.com/vmware-archive/cascade/blob/master/LICENSE.txt)
