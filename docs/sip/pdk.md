@@ -1,4 +1,6 @@
 ### Process Design Kit (PDK)
++ [ICsprout55 Open Source PDK](https://github.com/openecos-projects/icsprout55-pdk) (ICsprout), under [Apache License v2.0](https://github.com/openecos-projects/icsprout55-pdk/blob/main/LICENSE)
+  - 55nm CMOS Open Source PDK by ICsprout Integrated Circuit Co., Ltd.
 + [SkyWater Open Source PDK](https://github.com/google/skywater-pdk) (Google, SkyWater)
   - The SkyWater Open Source PDK is a collaboration between Google and SkyWater Technology Foundry to provide a fully open source Process Design Kit and related resources, which can be used to create manufacturable designs at SkyWater’s facility.
 + [Libre Silicon](https://libresilicon.com/)
