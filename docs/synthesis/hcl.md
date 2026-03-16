@@ -74,6 +74,8 @@
 Verilog code to implement such systems.
 + [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL), under [LGPL License and MIT License](https://github.com/SpinalHDL/SpinalHDL/blob/dev/LICENSE)
   - A language to describe digital hardware.
++ [SUS](https://github.com/pc2/sus-compiler) (PC2 / Paderborn Center for Parallel Computing), under [GPL v3.0](https://github.com/pc2/sus-compiler/blob/master/LICENSE)
+  - A purely structural language, whose focus is on making structural description as intuitive as possible, especially around pipelining and control paths. 
 + [SystemC](https://accellera.org/downloads/standards/systemc) (Accellera), under Apache License v2.0
   - Standards are developed in a collaborative and open environment by technical working groups.
   - [Intel Compiler for SystemC](https://github.com/intel/systemc-compiler) (ICSC) translates synthesizable SystemC design to synthesizable SystemVerilog design.
